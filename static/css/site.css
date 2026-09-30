@@ -133,3 +133,6 @@ strong { font-weight: 700; }
 }
 .subscribe-form .req { color: var(--faint); }
 .subscribe-form .hp { position: absolute; left: -9999px; }
+
+/* Let very long web addresses wrap instead of running off the page */
+.entry-content a { overflow-wrap: anywhere; }
