@@ -5,5 +5,7 @@ url: /donate
 
 ![](/images/Thomas-Nast-Boss-Tweed.jpg)
 {{ donate }}
-Send donations to my email address:  
-davidalfredbywaters.com
+
+<center>Send donations to my email address</center>
+
+<center>davidalfredbywaters.com</center> 
