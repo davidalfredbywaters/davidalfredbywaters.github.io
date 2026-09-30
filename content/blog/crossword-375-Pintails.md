@@ -5,7 +5,7 @@ url: /blog/2027/2/20/crossword-375-pintails
 categories: [Crosswords]
 ---
 
-![John James Audubon, Pintail Duck.jpg](/images/John James Audubon-Pintail Duck.jpg "John James Audubon, Pintail Duck.jpg")
+![John James Audubon, Pintail Duck.jpg](/images/John James Audubon-Pintail Duck.jpg "John James Audubon, Pintail Duck")
 
 ***
 
