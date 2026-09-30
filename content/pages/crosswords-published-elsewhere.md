@@ -361,7 +361,9 @@ url: /crosswords-published-elsewhere
 
 *Wall Street Journal*: March 4, 2026
 
-*Wall Street Journal*: March 14, 2026<br>
+*Wall Street Journal*: March 14, 2026
+
+*Wall Street Journal: September 12, 2026<br>
 
 <br>
 
