@@ -136,3 +136,6 @@ strong { font-weight: 700; }
 
 /* Let very long web addresses wrap instead of running off the page */
 .entry-content a { overflow-wrap: anywhere; }
+
+/* Heavy line between posts on the blog pages */
+.post + .post { border-top: 3px solid #222; padding-top: 40px; }
