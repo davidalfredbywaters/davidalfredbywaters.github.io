@@ -9,11 +9,11 @@ categories: [Crosswords]
 
 ***
 
-*Heart’s ease!  It’s a purple flower!  It’s an Elizabethan song!  It’s a Victorian novel! (*[*Novel 003*](/blog/2017/12/05/novel-003-charlotte-yonge-heartsease)*) And now, at last, it’s a crossword puzzle! As Shakespeare puts it:*
+*Heart’s ease!  It’s a purple flower!  It’s an Elizabethan song!  It’s a Victorian novel! (*[*Novel 003*](/blog/2017/12/05/novel-003-charlotte-yonge-heartsease)*) And now, at last, it’s a crossword puzzle!  As Shakespeare puts it:*
 
-*When griping grief the heart doth toss,
-And doleful dumps the mind oppress,
-Then puzzles made of words that cross
+*When griping grief the heart doth toss,<br>
+And doleful dumps the mind oppress, <br>
+Then puzzles made of words that cross<br>
 With speedy help do lend redress.*
 
 ***

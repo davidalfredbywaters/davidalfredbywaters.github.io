@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*As every child knows, there were nine Muses:  Calliope, Clio, Euterpe, Erato, Melpomene, Polyhymnia, Terpsichore, Thalia, and Urania.  Erato is a crossword favorite, on account of her attractive vowels.  However, Wikipedia informs us that there were originally only three Muses, representing Practice, Memory,  and Song—and I have constructed this crossword with the purpose of giving some long-overdue attention to this neglected trio, especially its second member, featured in 54 Down, which is where I began work.  I really wanted to fit in the other two—Melete and Aoide—but my theme got in the way.*
+*As every child knows, there were nine Muses:  Calliope, Clio, Euterpe, Erato, Melpomene, Polyhymnia, Terpsichore, Thalia, and Urania.  Erato is a crossword favorite, on account of her attractive vowels.  However, Wikipedia informs us that there were originally only three Muses, representing Practice, Memory,  and Song—and I have constructed this crossword with the purpose of giving some long-overdue attention to this neglected trio, especially its second member, featured in 54 Down, which is where I began work.  I really wanted to fit in the other two—Melete and Aoide—but my theme got in the way.*
 
 ***
 

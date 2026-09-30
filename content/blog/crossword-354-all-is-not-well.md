@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*All is not well.  After an exhaustive analysis of current society, politics, and culture, that is my conclusion.  Conflict is more violent, immorality more shameless, ugliness uglier, and badness worse than it ever was before or, if the world survives, ever will be again.  We live in really and truly desperately terrible, horrible times. But here’s a crossword.*
+*All is not well.  After an exhaustive analysis of current society, politics, and culture, that is my conclusion.  Conflict is more violent, immorality more shameless, ugliness uglier, and badness worse than it ever was before or, if the world survives, ever will be again.  We live in really and truly desperately terrible, horrible times. But here’s a crossword.*
 
 ***
 

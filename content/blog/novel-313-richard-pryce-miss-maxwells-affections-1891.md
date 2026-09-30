@@ -17,9 +17,9 @@ categories: [Novels]
 
 “The by-play in the romance is excellent, the story is brightly written, and the little touches of sarcasm are neatly injected.” *New York Times*, September 27, 1891
 
-“A vigorously conceived and delicately finished work of art. . . . an unusually good novel.” *Academy*, October 10, 1891
+“A vigorously conceived and delicately finished work of art. . . .  an unusually good novel.” *Academy*, October 10, 1891
 
-“Mr. Richard Pryce has written two or three very clever books, but he has not previously given us anything that is at once so able and so pleasing as *Miss Maxwell’s Affections.*” It is “one of the most enjoyable of recent novels.  The portraits of women . . . are painted with such subtle truth that, had *Miss Maxwell’s Affections* been published anonymously, we should have had hardly any hesitation in assigning it to feminine authorship. . . .  The book is rich in humour, for the most part of the subtle rather than of the obvious self-advertising order, nor is it lacking in passages of very beautiful and winning tenderness and pathos.” *Spectator*, October 21, 1891
+“Mr. Richard Pryce has written two or three very clever books, but he has not previously given us anything that is at once so able and so pleasing as *Miss Maxwell’s Affections.*” It is “one of the most enjoyable of recent novels.  The portraits of women . . . are painted with such subtle truth that, had *Miss Maxwell’s Affections* been published anonymously, we should have had hardly any hesitation in assigning it to feminine authorship. . . .  The book is rich in humour, for the most part of the subtle rather than of the obvious self-advertising order, nor is it lacking in passages of very beautiful and winning tenderness and pathos.” *Spectator*, October 21, 1891
 
 ***Download this fortnight’s novel:***
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Hey, lads and lasses, the old year passes!  Deck those halls!  See that blazing yule!  Don that gay apparel!  Troll that ancient carol!  Maybe you struggle to remember that ancient carol?  Well, I used to have that problem too.  “Boughs of holly . . . what?  what comes after ‘holly’?  what’s the next line?,” I’d find myself wondering, again and again, while the merry measure went on without me.  Then I hit on a mnemonic that has never failed me since.  I enshrine it in this week’s crossword, as my gift to you.*
+*Hey, lads and lasses, the old year passes!  Deck those halls!  See that blazing yule!  Don that gay apparel!  Troll that ancient carol!  Maybe you struggle to remember that ancient carol?  Well, I used to have that problem too.  “Boughs of holly . . . what?  what comes after ‘holly’?  what’s the next line?,” I’d find myself wondering, again and again, while the merry measure went on without me.  Then I hit on a mnemonic that has never failed me since.  I enshrine it in this week’s crossword, as my gift to you.*
 
 ***
 

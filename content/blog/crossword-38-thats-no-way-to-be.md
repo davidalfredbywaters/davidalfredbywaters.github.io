@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*When I wrote the clues for this puzzle, the temptation to cross-reference was particularly difficult to resist.  10 Down, 33 Down, and 19 Across all refer to an activity that may be performed on 4 Down, 6 Down, 12 Down, 14 Across, 60 Across, and in fact anything 47 Down.  But for your sake, gentle solver, resist I did.*
+*When I wrote the clues for this puzzle, the temptation to cross-reference was particularly difficult to resist.  10 Down, 33 Down, and 19 Across all refer to an activity that may be performed on 4 Down, 6 Down, 12 Down, 14 Across, 60 Across, and in fact anything 47 Down.  But for your sake, gentle solver, resist I did.*
 
 ***
 

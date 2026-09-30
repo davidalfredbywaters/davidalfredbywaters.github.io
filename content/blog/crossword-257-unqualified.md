@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*We’ve been having more labor trouble here at David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender.  The new hires are sadly unqualified.  One of them crossed the name of a little-known actor with the name of another little-known actor.  We had to “let him go.”  Another crossed a* Star Wars *character’s name with a* Star Trek *character’s name.  We fired her too.  But there’s only so much one scrappy little crossword maker can do.  The same kind of thing is happening everywhere. Standards throughout the industry have grown ever more lax, degrading the entire crossword labor pool.*
+*We’ve been having more labor trouble here at David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender.  The new hires are sadly unqualified.  One of them crossed the name of a little-known actor with the name of another little-known actor.  We had to “let him go.”  Another crossed a* Star Wars *character’s name with a* Star Trek *character’s name.  We fired her too.  But there’s only so much one scrappy little crossword maker can do.  The same kind of thing is happening everywhere.  Standards throughout the industry have grown ever more lax, degrading the entire crossword labor pool.*
 
-*And meanwhile, what about the millions of desperate solvers who have turned to crosswords as a last resort—to stave off dementia, or addiction, or trauma, or boredom?  We cannot fail them!  We need national standards, a system of certification and licensure, and a well-trained enforcement arm, and we need them now!*
+*And meanwhile, what about the millions of desperate solvers who have turned to crosswords as a last resort—to stave off dementia, or addiction, or trauma, or boredom?  We cannot fail them!  We need national standards, a system of certification and licensure, and a well-trained enforcement arm, and we need them now!*
 
 ***
 

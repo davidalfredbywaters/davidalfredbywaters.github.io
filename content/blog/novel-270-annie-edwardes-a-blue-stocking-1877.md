@@ -15,9 +15,9 @@ categories: [Novels]
 
 *For Edwardes, see Novels* [*158*](/blog/2020/11/24/annie-edwardes-ought-we-to-visit-her-1871) *and* [*212*](/blog/2021/12/07/novel-211-annie-edwardes-a-vagabond-heroine-1873)*.*
 
-“Mrs. Edwardes is at her best in this book.  It has . . . the quiet humour which we have missed in her later works.” *Spectator*, October 20, 1877
+“Mrs. Edwardes is at her best in this book.  It has . . . the quiet humour which we have missed in her later works.”  *Spectator*, October 20, 1877
 
-“It is pleasant, bright, and inoffensive.” *Saturday Review*, November 24, 1877
+“It is pleasant, bright, and inoffensive.”  *Saturday Review*, November 24, 1877
 
 ***Download this fortnight’s novel:***
 

@@ -19,7 +19,7 @@ categories: [Novels]
 
 *A contrasting view:*
 
-“*As in a Looking-Glass* is an essentially bad book.  I wish it had not been necessary to say this, as it is written with much sprightliness. . . .  The novel is vulgar and disgusting, and, in some respects, worse than any of M. Zola’s; but, in the present temper of the novel-reading public, it will probably be read all the more on that account.” *Academy*, September 19, 1885
+“*As in a Looking-Glass* is an essentially bad book.  I wish it had not been necessary to say this, as it is written with much sprightliness. . . .  The novel is vulgar and disgusting, and, in some respects, worse than any of M. Zola’s; but, in the present temper of the novel-reading public, it will probably be read all the more on that account.” *Academy*, September 19, 1885
 
 ***Download this fortnight’s novel:***
 

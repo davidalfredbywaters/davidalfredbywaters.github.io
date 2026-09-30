@@ -3,7 +3,7 @@ title: "325 Pulling Ahead"
 url: /325-pulling-ahead
 ---
 
-# Crossword 325: Pulling Ahead {.center}
+#  Crossword 325: Pulling Ahead {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

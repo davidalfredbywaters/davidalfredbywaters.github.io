@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Do you find, disconsolate solver, that when you address yourself hopefully to a new crossword, expecting a little harmless recreation, perhaps some amusing wordplay, you are faced instead, whether you move down or across, with slang you’ve never used, movies you’ve never seen, brands you’ve never bought, songs you’ve never heard?  The problem is that you’ve been looking for crosswords in all the wrong places!  Here is where you belong, where the “wrong places” are really just silly, happy, friendly puns that just want the very best for you and yours.*
+*Do you find, disconsolate solver, that when you address yourself hopefully to a new crossword, expecting a little harmless recreation, perhaps some amusing wordplay, you are faced instead, whether you move down or across, with slang you’ve never used, movies you’ve never seen, brands you’ve never bought, songs you’ve never heard?  The problem is that you’ve been looking for crosswords in all the wrong places!  Here is where you belong, where the “wrong places” are really just silly, happy, friendly puns that just want the very best for you and yours.*
 
 ***
 

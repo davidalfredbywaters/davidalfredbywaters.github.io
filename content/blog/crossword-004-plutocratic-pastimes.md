@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*The  rule-bound, rigidly symmetrical crossword form cries out, I think, for utter nonsense.  This is a modest tribute  to the nonsense poems of  Edward Lear and Lewis Carroll.*
+*The  rule-bound, rigidly symmetrical crossword form cries out, I think, for utter nonsense.  This is a modest tribute  to the nonsense poems of  Edward Lear and Lewis Carroll.*
 
 ***
 

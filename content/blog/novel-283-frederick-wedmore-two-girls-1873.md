@@ -14,9 +14,9 @@ url: /blog/2023/8/5/novel-283-frederick-wedmore-two-girls-1873
 
 “Mr. Wedmore’s is a carefully written novel of character, . . . a little cramped and subdued by the quietism of modern taste.” *Athenaeum*, December 20, 1873
 
-“His human figures are almost without exception individualised; we know and see them. . . .  The story is told with perfect clearness, and with the rapidity and compression of what is very rare,—thoroughly skilful narrative." *Spectator*, January 10, 1874
+“His human figures are almost without exception individualised; we know and see them. . . .  The story is told with perfect clearness, and with the rapidity and compression of what is very rare,—thoroughly skilful narrative." *Spectator*, January 10, 1874
 
-“The attraction of *Two Girls* is to be found in a certain freshness of subject and manner. . . . His strength lies in the representation of character and dramatic little scenes, quiet but brightly coloured.” *Academy*, January 17, 1874
+“The attraction of *Two Girls* is to be found in a certain freshness of subject and manner. . . .  His strength lies in the representation of character and dramatic little scenes, quiet but brightly coloured.”  *Academy*, January 17, 1874
 
 ***Download this fortnight’s novel:***
 

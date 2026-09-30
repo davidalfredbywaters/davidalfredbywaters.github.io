@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Are you feeling unhappy?  Do you wonder whether you’re missing out on life?  Do you fear you’ve failed to reach your full potential?  Plentiful examples in film and fiction have a solution for you:  get divorced!  If you’re single, get married, then get divorced!  If you’re divorced, get remarried, then get redivorced!  Try again and again until you’ve divorced the right person.  Then you’ll be happy.*
+*Are you feeling unhappy?  Do you wonder whether you’re missing out on life?  Do you fear you’ve failed to reach your full potential?  Plentiful examples in film and fiction have a solution for you:  get divorced!  If you’re single, get married, then get divorced!  If you’re divorced, get remarried, then get redivorced!  Try again and again until you’ve divorced the right person.  Then you’ll be happy.*
 
 ***
 

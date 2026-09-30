@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*“What’s past is prologue”: why has this phrase become proverbial?  In Shakespeare's* Tempest*, where it originated, it’s spoken by the usurper Antonio, who is tempting his friend Sebastian to commit murder: the “past” in his case is the supposed drowning of Sebastian’s nephew (which didn’t happen, so it’s not in fact the past at all), and, in Antonio’s mind, it is “prologue” to the murder of Sebastian’s brother Alonso (which doesn’t happen either).  The phrase now seems to mean either that the present is shaped by a past we must acknowledge; or, contradictorily, that we can break free from the past if we try really hard.  It is, in short, nonsense built upon nonsense, and therefore perfect as a title for one of my crosswords.*
+*“What’s past is prologue”: why has this phrase become proverbial?  In Shakespeare's* Tempest*, where it originated, it’s spoken by the usurper Antonio, who is tempting his friend Sebastian to commit murder: the “past” in his case is the supposed drowning of Sebastian’s nephew (which didn’t happen, so it’s not in fact the past at all), and, in Antonio’s mind, it is “prologue” to the murder of Sebastian’s brother Alonso (which doesn’t happen either).  The phrase now seems to mean either that the present is shaped by a past we must acknowledge; or, contradictorily, that we can break free from the past if we try really hard.  It is, in short, nonsense built upon nonsense, and therefore perfect as a title for one of my crosswords.*
 
 *The painting shows the results of proper 17-Across.*
 
@@ -23,6 +23,7 @@ categories: [Crosswords]
 
 ***Solve this week’s crossword online:***
 
-[079 What’s Past Is Prologue](/079-whats-past-is-prologue-online)
+[079 What’s Past Is Prologue](/079-whats-past-is-prologue-online)<br>
+<br>
 
 ![](/images/Pointing-Hand-34.png)

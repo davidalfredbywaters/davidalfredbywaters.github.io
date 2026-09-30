@@ -3,7 +3,7 @@ title: "294 Mixed Doubles (online)"
 url: /294-mixed-doubles-online
 ---
 
-# Crossword 294: Mixed Doubles {.center}
+#  Crossword 294: Mixed Doubles {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

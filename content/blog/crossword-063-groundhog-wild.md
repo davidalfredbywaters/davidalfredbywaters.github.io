@@ -8,7 +8,7 @@ url: /blog/2019/2/2/crossword-063-groundhog-wild
 
 ***
 
-*Today, in Connecticut, will be held the Westport Library Crossword Tournament— where, frightened of my shadow, I will not appear.  But, through the kind offices of “Bob Kerfuffle” (who also thought up its title) the attached puzzle will appear there, in paper form, and I welcome anyone led here by that means.   I couldn’t find any paintings of groundhogs, but I’ve posted a nice one of some shadows.  Imagine yourself as seeing them from a groundhog’s point of view.*
+*Today, in Connecticut, will be held the Westport Library Crossword Tournament— where, frightened of my shadow, I will not appear.  But, through the kind offices of “Bob Kerfuffle” (who also thought up its title) the attached puzzle will appear there, in paper form, and I welcome anyone led here by that means.   I couldn’t find any paintings of groundhogs, but I’ve posted  a nice one of some shadows.  Imagine yourself as seeing them from a groundhog’s point of view.*
 
 ***
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Do you feel like everybody else is part of something from which you alone have been excluded?  Well, everybody else feels just the same way—everybody else, that is, except me, because I’m not like everybody else.*
+*Do you feel like everybody else is part of something from which you alone have been excluded?  Well, everybody else feels just the same way—everybody else, that is, except me, because I’m not like everybody else.*
 
 ***
 

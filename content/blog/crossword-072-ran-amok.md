@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Does 8D leave you with a sense of 40A?  Let 35D console you.   Everything's great!  So far.*
+*Does 8D leave you with a sense of 40A?  Let 35D console you.   Everything's great!  So far.*
 
 ***
 

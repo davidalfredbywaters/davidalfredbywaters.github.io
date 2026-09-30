@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Had enough of this blighted ball, this suffering sphere, this ghastly globe?  Fly with me to outer space!  It’s time for me to confirm what you’ve long suspected.  How, you’ve asked yourselves and each other, could any mere earthling come up, fortnight after fortnight, with such brilliant puzzles?  In fact I come from the planet Lapnet—a happy place, where hipster slang, and euphemism, and jargon, and brand names, and paid athletes, and Hollywood celebrities, are unknown.*
+*Had enough of this blighted ball, this suffering sphere, this ghastly globe?  Fly with me to outer space!  It’s time for me to confirm what you’ve long suspected.  How, you’ve asked yourselves and each other, could any mere earthling come up, fortnight after fortnight, with such brilliant puzzles?  In fact I come from the planet Lapnet—a happy place, where hipster slang, and euphemism, and jargon, and brand names, and paid athletes, and Hollywood celebrities, are unknown.*
 
 ***
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Today’s puzzle represents the equivocal position of the crossword-constructor vis-à-vis society: forced to draw upon it for words and phrases, and yet confined within a self-sufficient, cryptic world of numbered blocks and dark spaces from which there can be no escape.  It’s tragic, in a way, but oh so beautiful.*
+*Today’s puzzle represents the equivocal position of the crossword-constructor vis-à-vis society: forced to draw upon it for words and phrases, and yet confined within a self-sufficient, cryptic world of numbered blocks and dark spaces from which there can be no escape.  It’s tragic, in a way, but oh so beautiful.*
 
 ***
 

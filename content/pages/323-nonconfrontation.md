@@ -3,7 +3,7 @@ title: "323 Nonconfrontation"
 url: /323-nonconfrontation
 ---
 
-# Crossword 323: Nonconfrontation {.center}
+#  Crossword 323: Nonconfrontation {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

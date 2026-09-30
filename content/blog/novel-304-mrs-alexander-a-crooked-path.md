@@ -13,13 +13,13 @@ categories: [Novels]
 
 ***
 
-*This is the seventh novel I have recommended by the great “Mrs. Alexander.” For the others, see my* [*index*](/novels-by-author) *of works by recommended authors.*
+*This is the seventh novel I have recommended by the great “Mrs. Alexander.”  For the others, see my* [*index*](/novels-by-author) *of works by recommended authors.*
 
-The characters are “finely sketched and delicately discriminated,” the dialogue “delightfully human and individually characteristic.” *Saturday Review,* August 10, 1889
+The characters are “finely sketched and delicately discriminated,” the dialogue “delightfully human and individually characteristic.”  *Saturday Review,* August 10, 1889
 
-“The story takes form and colour as it proceeds, and the characters impress us gradually with their force in the only natural manner.” *Athenaeum,* August 10, 1889
+“The story takes form and colour as it proceeds, and the characters impress us gradually with their force in the only natural manner.”  *Athenaeum,* August 10, 1889
 
-The author, “one of the most capable producers of . . . circulating-library fiction” has “never done anything better.” *Spectator*, August 31, 1889
+The author, “one of the most capable producers of . . . circulating-library fiction” has “never done anything better.”  *Spectator*, August 31, 1889
 
 ***Download this fortnight’s novel:***
 

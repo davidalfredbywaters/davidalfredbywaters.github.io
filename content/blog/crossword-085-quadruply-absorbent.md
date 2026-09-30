@@ -8,7 +8,7 @@ url: /blog/2019/7/6/crossword-085-quadruply-absorbent
 
 ***
 
-*Warning!  As the title makes clear, this is a dangerously absorbing puzzle.  If you’re monitoring a nuclear power plant, or driving down the highway at 80 miles an hour, or picnicking with small children on the edge of a cliff—please, save it for later.  Your consent to solve this puzzle constitutes a legal waiver of all right to hold me responsible for any disasters that may ensue as a result of your quadruple absorption.*
+*Warning!  As the title makes clear, this is a dangerously absorbing puzzle.  If you’re monitoring a nuclear power plant, or driving down the highway at 80 miles an hour, or picnicking with small children on the edge of a cliff—please, save it for later.  Your consent to solve this puzzle constitutes a legal waiver of all right to hold me responsible for any disasters that may ensue as a result of your quadruple absorption.*
 
 ***
 

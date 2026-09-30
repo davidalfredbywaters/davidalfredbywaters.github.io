@@ -15,9 +15,9 @@ categories: [Novels]
 
 *Moira O’Neill was the pen-name of Agnes Nesta Shakespeare Skrine, nee Higginson (1864-1955), an Irish poet who wrote just a few works of fiction, including this unassuming novella.*
 
-*“*Slight as is the story, at least it is a page out of real life, cleverly reflecting the conventions and tone of a highly respectable ‘set.’ . . .  What is sufficiently evident here is her power of watching and marking the finer play of certain minds with whom presumably she is in sympathy.” *Bookman*, April 1893
+*“*Slight as is the story, at least it is a page out of real life, cleverly reflecting the conventions and tone of a highly respectable ‘set.’ . . .  What is sufficiently evident here is her power of watching and marking the finer play of certain minds with whom presumably she is in sympathy.”  *Bookman*, April 1893
 
-It is “a story about nothing in particular, and it amuses and pleases for no definite reason either. . . .  Man, from woman’s point of view, is treated with quiet sagacity and humour.” *Athenaeum*, April 8, 1893
+It is “a story about nothing in particular, and it amuses and pleases for no definite reason either. . . .  Man, from woman’s point of view, is treated with quiet sagacity and humour.”  *Athenaeum*, April 8, 1893
 
 “It is a novel with an attractive cultivated air, written in admirable English by a writer with a good knowledge of society, and with a keen eye for character”; there is no “aggressive display of cleverness, . . . it pleases in a quiet way by being always simply right.” *Academy,* April 15, 1893
 

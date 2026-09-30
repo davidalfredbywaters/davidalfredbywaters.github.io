@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*“Senior,” as a euphemism for “old,” has been around for many years—as least since the senior citizens of the present day were junior citizens.  Indeed, the very fact that the term hasn’t had an update in such a long time is, I suspect, a consequence of the unspoken ageism that permeates our society.  We need a new word or phrase that means “old,” but lacks the pejorative associations with wrinkles, hair loss, jowls, etc. that “senior” now inevitably evokes.  Unyoung?  Ripe? Temporally enriched?  Durable?  Not yet dead?  Well, I leave it to the online influencers whose coinages appear regularly in all the major crossword venues.  Meanwhile, before “senior” dies out, I hasten to post this puzzle.*
+*“Senior,” as a euphemism for “old,” has been around for many years—as least since the senior citizens of the present day were junior citizens.  Indeed, the very fact that the term hasn’t had an update in such a long time is, I suspect, a consequence of the unspoken ageism that permeates our society.  We need a new word or phrase that means “old,” but lacks the pejorative associations with wrinkles, hair loss, jowls, etc. that “senior” now inevitably evokes.  Unyoung?  Ripe?  Temporally enriched?  Durable?  Not yet dead?  Well, I leave it to the online influencers whose coinages appear regularly in all the major crossword venues.  Meanwhile, before “senior” dies out, I hasten to post this puzzle.*
 
 ***
 

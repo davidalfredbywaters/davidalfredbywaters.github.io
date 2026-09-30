@@ -3,7 +3,7 @@ title: "347 Put It in Reverse"
 url: /347-put-it-in-reverse
 ---
 
-# Crossword 347: Put It in Reverse {.center}
+#  Crossword 347: Put It in Reverse {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

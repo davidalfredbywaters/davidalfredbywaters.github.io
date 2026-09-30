@@ -15,9 +15,9 @@ categories: [Novels]
 
 *Annie Edwardes (1830?-1896) wrote some 21 novels, many featuring heroines who, like the one here, defy Victorian social convention.*
 
-“Mrs. Edwardes understands and describes man very well indeed; and woman and her nature she understands something more than very well.” *Pall Mall Gazette*, November 21, 1871
+“Mrs. Edwardes understands and describes man very well indeed; and woman and her nature she understands something more than very well.”  *Pall Mall Gazette*, November 21, 1871
 
-“This is the brightest book we have read for some time. . . .  With little plot and less descriptive writing, it is full of sparkle, and point, and sub-acid humour, and sketches of character.” *Spectator*, November 25, 1871
+“This is the brightest book we have read for some time. . . .  With little plot and less descriptive writing, it is full of sparkle, and point, and sub-acid humour, and sketches of character.”  *Spectator*, November 25, 1871
 
 ***Download this week’s novel:***
 

@@ -15,11 +15,11 @@ categories: [Novels]
 
 *Julia Cecilia Stretton (1812-1878) wrote some eleven novels in middle age, between 1855 and 1869. In this, a good style and several entertaining minor characters make up for a sometimes strained plot with a sentimental conclusion.*
 
-It is “impossible to get through its first chapter without experiencing an unwonted degree of interest which will grow” as the reader proceeds.  “The author departs . . . from established custom in not making marriage the climax of the story.” *Spectator*, November 12, 1859
+It is “impossible to get through its first chapter without experiencing an unwonted degree of interest which will grow” as the reader proceeds.  “The author departs . . . from established custom in not making marriage the climax of the story.” *Spectator*, November 12, 1859
 
 “A novel of great merit, exhibitng the constructive faculty of the author in a very high degree, and written in an easy, practised style.” *Observer*, November 14, 1859
 
-“Very agreeable . . . full of interest, and totally without . . . affectation.”  *Literary Gazette*, November 26, 1859
+“Very agreeable . . . full of interest, and totally without . . . affectation.”  *Literary Gazette*, November 26, 1859
 
 ***Download this week’s novel:***
 

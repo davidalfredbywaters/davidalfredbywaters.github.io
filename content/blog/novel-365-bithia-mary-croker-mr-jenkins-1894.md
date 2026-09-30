@@ -13,7 +13,7 @@ categories: [Novels]
 
 ***
 
-*For Croker, see Novels* [*013*](/blog/2018/2/13/novel-013-wb-croker-katherine-the-arrogant-1909)*,* [*073*](/blog/2019/4/9/novel-073-bithia-mary-croker-pretty-miss-neville-1883)*,* [*129*](/blog/novel-129-2020/5/5/bithia-mary-croker-a-family-likeness-1892)*,* [*183*](/blog/2021/5/18/novel-183-bithia-mary-croker-the-cats-paw-1902)*,* [*259*](/blog/2022/11/1/novel-259-bithia-mary-croker-married-or-single-1895)*. and* [*328*](/blog/2025/4/26/novel-328-bithia-mary-croker-the-real-lady-hilda-1896)*.*
+*For Croker, see Novels* [*013*](/blog/2018/2/13/novel-013-wb-croker-katherine-the-arrogant-1909)*,* [*073*](/blog/2019/4/9/novel-073-bithia-mary-croker-pretty-miss-neville-1883)*,* [*129*](/blog/novel-129-2020/5/5/bithia-mary-croker-a-family-likeness-1892)*,* [*183*](/blog/2021/5/18/novel-183-bithia-mary-croker-the-cats-paw-1902)*,*[*259*](/blog/2022/11/1/novel-259-bithia-mary-croker-married-or-single-1895)*. and* [*328*](/blog/2025/4/26/novel-328-bithia-mary-croker-the-real-lady-hilda-1896)*.*
 
 *A* “graphic and successful sketch of petty female rivalries.” *Spectator*, December 15, 1894
 

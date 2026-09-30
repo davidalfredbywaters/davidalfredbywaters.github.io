@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I have crafted this puzzle specifically for those elite solvers who are able to soar above the petty, earthbound considerations of vulgar linguistic usage that limit the intellects of the common herd.  If you belong to this group, I congratulate you, and invite you to congratulate yourself.  For self-congratulation is a primary—in fact, for many, the only—purpose of cultural experience.  Let us wallow in it together.*
+*I have crafted this puzzle specifically for those elite solvers who are able to soar above the petty, earthbound considerations of vulgar linguistic usage that limit the intellects of the common herd.  If you belong to this group, I congratulate you, and invite you to congratulate yourself.  For self-congratulation is a primary—in fact, for many, the only—purpose of cultural experience.  Let us wallow in it together.*
 
 ***
 
@@ -22,5 +22,7 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [065 Trial Runs](/065-trial-runs-online)
+
+<br>
 
 ![](/images/Pointing-Hand-22.png)

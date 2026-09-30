@@ -15,11 +15,11 @@ categories: [Novels]
 
 *Sarah MacNaughtan (1864-1916) wrote about a dozen novels, beginning in 1898, mostly clever social comedies like this one.*
 
-“This is a quite admirable story”; the author “relieves his [sic] fun with a delicate touch of pathos.” *Spectator*, November 16, 1901.
+“This is a quite admirable story”; the author “relieves his [sic]  fun with a delicate touch of pathos.”  *Spectator*, November 16, 1901.
 
-“The story has both shrewdness and humour”; it is based on “direct observation. . . . Some of the character sketches . . . are excellent.” *Academy*, November 23, 1901
+“The story has both shrewdness and humour”; it is based on “direct observation. . . .  Some of the character sketches . . . are excellent.” *Academy*, November 23, 1901
 
-“A really readable and lively story.” *Detroit Free Press*, November 30, 1901
+“A really readable and lively story.”  *Detroit Free Press*, November 30, 1901
 
 ***Download this week’s novel:***
 

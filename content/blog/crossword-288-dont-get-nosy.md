@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Digital privacy is a matter of great public concern these days, and here at David Alfred Bywaters’s Crossword Cavalcade and Fortnightly Victorian Novel Recommender we take it very seriously—both your privacy and our own.  No doubt various commercial entities would be bidding against each other for our web site data if we put it on the market—but we never have, and we never will.  If we happen to learn something about you, the solver, we instantly and completely forget it.  As for ourselves, if we need to buy something online, we set up a burner account and pay in crypto-currency; but mostly we buy things in person, using small bills and fake beards. And of course we operate under an assumed identity from an undisclosed location marked only by the electrified razor wire that surrounds it.*
+*Digital privacy is a matter of great public concern these days, and here at David Alfred Bywaters’s Crossword Cavalcade and Fortnightly Victorian Novel Recommender we take it very seriously—both your privacy and our own.  No doubt various commercial entities would be bidding against each other for our web site data if we put it on the market—but we never have, and we never will.  If we happen to learn something about you, the solver, we instantly and completely forget it.  As for ourselves, if we need to buy something online, we set up a burner account and pay in crypto-currency; but mostly we buy things in person, using small bills and fake beards. And of course we operate under an assumed identity from an undisclosed location marked only by the electrified razor wire that surrounds it.*
 
 ***
 

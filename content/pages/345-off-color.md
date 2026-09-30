@@ -3,7 +3,7 @@ title: "345 Off Color"
 url: /345-off-color
 ---
 
-# Crossword 345: Off Color {.center}
+#  Crossword 345: Off Color {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

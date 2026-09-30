@@ -13,13 +13,13 @@ categories: [Novels]
 
 ***
 
-*Alice Price (1840-1891) wrote seven novels between 1883 and 1892, of which this is the first.  Its plot is full of exciting surprises; its characters are well delineated.*
+*Alice Price (1840-1891) wrote seven novels between 1883 and 1892, of which this is the first.  Its plot is full of exciting surprises; its characters are well delineated.*
 
-“Few recent novels can boast of so excellent a plot, of such remarkably well-drawn characters, and of the variety of incidents that is to be found in *Who is Sylvia?.*”  *Morning Post*, February 1, 1883
+“Few recent novels can boast of so excellent a plot, of such remarkably well-drawn characters, and of the variety of incidents that is to be found in *Who is Sylvia?.*”  *Morning Post*, February 1, 1883
 
-“This novel may be read with genuine pleasure; it is agreeably written, and the interest is sustained to the close.”  *Academy*, February 3, 1883
-&nbsp;&nbsp;&nbsp;
-“The story is not overcharged with incident, but it has more than enough to relieve it from monotony, and the execution is much above the average.  There are indications of quiet power in this novel which give ample promise for the future work of its author, and it is in itself an achievement with which its readers are more than likely to be content.”  *Athenaeum*, February 3, 1883
+“This novel may be read with genuine pleasure; it is agreeably written, and the interest is sustained to the close.”  *Academy*, February 3, 1883<br>
+&nbsp;<br>
+“The story is not overcharged with incident, but it has more than enough to relieve it from monotony, and the execution is much above the average.  There are indications of quiet power in this novel which give ample promise for the future work of its author, and it is in itself an achievement with which its readers are more than likely to be content.”  *Athenaeum*, February 3, 1883
 
 ***Download this week’s novel:***
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*As I’ve said before, like all the best crossword constructors these days, I see my task as primarily one of social reform and human betterment.  And so, more than two years ago, in April 2020, I turned my attention to international affairs, with the purpose of promoting world peace (see* [*Crossword 180*](/blog/2021/5/1/crossword-180-globalization)*).  But then I let the better part of a year go by without any further world-peace-promotion efforts, and in February 2022, Russia invaded Ukraine.  I ask myself now—why didn’t I do more? Am I not partly to blame?  So today I’m doubling down with a two-part crossword (replacing the multi-part series of years past) promoting the cause of international communication. I just hope I’m not too late!*
+*As I’ve said before, like all the best crossword constructors these days, I see my task as primarily one of social reform and human betterment.  And so, more than two years ago, in April 2020, I turned my attention to international affairs, with the purpose of promoting world peace (see* [*Crossword 180*](/blog/2021/5/1/crossword-180-globalization)*).  But then I let the better part of a year go by without any further world-peace-promotion efforts, and in February 2022, Russia invaded Ukraine.  I ask myself now—why didn’t I do more?  Am I not partly to blame?  So today I’m doubling down with a two-part crossword (replacing the multi-part series of years past) promoting the cause of international communication.  I just hope I’m not too late!*
 
 ***
 

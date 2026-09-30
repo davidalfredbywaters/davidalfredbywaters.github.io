@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This puzzle, though admittedly half-witted in its way, is also semi-autobiographical: it's the second I ever made.  The picture illustrates 9 Down.*
+*This puzzle, though admittedly half-witted in its way, is also semi-autobiographical: it's the second I ever made.   The picture illustrates 9 Down.*
 
 ***
 

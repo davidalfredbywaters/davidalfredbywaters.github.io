@@ -3,7 +3,7 @@ title: "Crosswords by Post Number (Descending)"
 url: /crosswords-by-post-number-desending
 ---
 
-[363](/blog/2026/9/5/crossword-363-cant-we-just-get-along) Why Can’t We Just Get Along?
+[<br>](/blog/2025/6/28/crossword-332-change-partners)[363](/blog/2026/9/5/crossword-363-cant-we-just-get-along) Why Can’t We Just Get Along?
 
 [362](/blog/2026/8/22/crossword-362-pouting-expressions) Pouting Expressions
 
@@ -159,7 +159,7 @@ url: /crosswords-by-post-number-desending
 
 [286](/blog/2023/9/23/crossword-286-senior-centers) Senior Centers
 
-[285](2023/9/9/crossword-285-all-the-wrong-places) All the Wrong Places
+[285](/blog/2023/9/9/crossword-285-all-the-wrong-places) All the Wrong Places
 
 [284](/blog/2023/8/26/crossword-284-meal-preparation) Meal Preparation
 

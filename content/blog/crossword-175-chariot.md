@@ -8,7 +8,7 @@ url: /blog/2021/3/27/crossword-175-chariot
 
 ***
 
-*This puzzle, moving as it does from the ridiculous (gag gifts) to the sublime (church music), is calculated to lift you above sordid cares on a kind of celestial crossword chariot.  It’s part of my ongoing project of making the world a better place, one solver at a time.*
+*This puzzle, moving as it does from the ridiculous (gag gifts) to the sublime (church music), is calculated to lift you above sordid cares on a kind of celestial crossword chariot.  It’s part of my ongoing project of making the world a better place, one solver at a time.*
 
 ***
 

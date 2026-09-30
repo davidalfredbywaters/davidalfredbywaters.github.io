@@ -3,7 +3,7 @@ title: "301 Alternative Medicine (online)"
 url: /301-alternative-medicine-online
 ---
 
-# Crossword 301: Alternative Medicine {.center}
+#  Crossword 301: Alternative Medicine {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

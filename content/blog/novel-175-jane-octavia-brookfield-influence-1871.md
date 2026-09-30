@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Jane Octavia Brookfield (1821-1896), in the 1840s a very special friend of William Makepeace Thackeray, wrote four novels many years later, of which this is the second.  Oddly clumsy in some ways (especially in its narrator’s intrusions), it nonetheless has some vivid, interesting characters.*
+*Jane Octavia Brookfield (1821-1896), in the 1840s a very special friend of William Makepeace Thackeray, wrote four novels many years later, of which this is the second.  Oddly clumsy in some ways (especially in its narrator’s intrusions), it nonetheless has some vivid, interesting characters.*
 
-“A novel of character which, if not deeply exciting, or suggestive of any new aspects of feminine human nature, is original in plan, and not ineffectively executed.” *Athenaeum*, January 21, 1871
+“A novel of character which, if not deeply exciting, or suggestive of any new aspects of feminine human nature, is original in plan, and not ineffectively executed.”  *Athenaeum*, January 21, 1871
 
-“*Influence* at once makes itself felt as a book of character. There is no danger of confounding it with the ordinary run of novels, there is no danger of forgetting it. . . .  The conversations are well managed, and, though there is no pretence at a plot, the story is interesting.   Altogether, *Influence* is a good novel.” *Spectator*, May 20, 1871
+“*Influence* at once makes itself felt as a book of character. There is no danger of confounding it with the ordinary run of novels, there is no danger of forgetting it. . . .  The conversations are well managed, and, though there is no pretence at a plot, the story is interesting.   Altogether, *Influence* is a good novel.”  *Spectator*, May 20, 1871
 
 ***Download this week’s novel:***
 

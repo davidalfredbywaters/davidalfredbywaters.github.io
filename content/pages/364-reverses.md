@@ -3,7 +3,7 @@ title: "364 Reverses"
 url: /364-reverses
 ---
 
-# Crossword 364: Reverses {.center}
+#  Crossword 364: Reverses {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

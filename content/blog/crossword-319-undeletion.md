@@ -8,9 +8,9 @@ url: /blog/2024/12/28/crossword-319-undeletion
 
 ***
 
-*To undelete a thing is to put that thing back in, but . . . what if the thing deleted were the syllable “un”?  Think about it!  The mind reels!  Doesn’t the word then refer simultaneously to an act and its opposite?  And doesn’t the resulting aporia call in question the very possibility of meaning outside the infinite play of signification?*
+*To undelete a thing is to put that thing back in, but . . . what if the thing deleted were the syllable “un”?  Think about it!  The mind reels!  Doesn’t the word then refer simultaneously to an act and its opposite?  And doesn’t the resulting aporia call in question the very possibility of meaning outside the infinite play of signification?*
 
-*I think I’m on the verge of a crucial insight here, one that will forever change the way we think about thinking, and write about writing about writing.  I’ll set it all out in a treatise as soon as I can find the time; meanwhile I’ve embodied it in this crossword.  Solve it and join me on the forefront of post-philosophical inquiry.*
+*I think I’m on the verge of a crucial insight here, one that will forever change the way we think about thinking, and write about writing about writing.  I’ll set it all out in a treatise as soon as I can find the time; meanwhile I’ve embodied it in this crossword.  Solve it and join me on the forefront of post-philosophical inquiry.*
 
 ***
 

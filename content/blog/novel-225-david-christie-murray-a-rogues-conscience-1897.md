@@ -21,7 +21,7 @@ categories: [Novels]
 
 *A contrasting view:*
 
-“As a whole, it does not seem to hang together very well.” *Spectator*, February 19, 1898
+“As a whole, it does not seem to hang together very well.”  *Spectator*, February 19, 1898
 
 ***Download this week’s novel:***
 

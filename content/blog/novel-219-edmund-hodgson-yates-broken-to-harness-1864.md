@@ -13,15 +13,15 @@ categories: [Novels]
 
 ***
 
-*Edmund Hodgson Yates (1831-1894) managed to offend seriously both William Makepeace Thackeray and Anthony Trollope in his work as a gossip journalist.  He wrote some nineteen novels, of which this, his first, was perhaps the most popularly successful.  Its most distinctive feature is its representation—sometimes fascinating but sometimes tediously knowing—of contemporary society.*
+*Edmund Hodgson Yates (1831-1894) managed to offend seriously both William Makepeace Thackeray and Anthony Trollope in his work as a gossip journalist.  He wrote some nineteen novels, of which this, his first, was perhaps the most popularly successful.  Its most distinctive feature is its representation—sometimes fascinating but sometimes tediously knowing—of contemporary society.*
 
-“We have read it with lively interest, and we lay it aside with an agreeable sense of refreshment.” *Athenaeum*, November 26, 1864
+“We have read it with lively interest, and we lay it aside with an agreeable sense of refreshment.”  *Athenaeum*, November 26, 1864
 
-“We cannot do more than state the almost unexceptionable excellence of all these volumes contain, and add our impression of the value of the many moral lessons the author has conveyed in *Broken to Harness*.” *Manchester Guardian*, January 17, 1865
+“We cannot do more than state the almost unexceptionable excellence of all these volumes contain, and add our impression of the value of the many moral lessons the author has conveyed in *Broken to Harness*.”  *Manchester Guardian*, January 17, 1865
 
 A (slightly) contrasting view:
 
-“A spirited, effective tale of to-day, full of people one understands, who do things they are likely to do . . . with incidents which excite without being improbable”; but while the “subordinate characters” are “alive . . . the higher characters are not.” *Spectator,* November 26, 1864
+“A spirited, effective tale of to-day, full of people one understands, who do things they are likely to do . . . with incidents which excite without being improbable”; but while the “subordinate characters” are “alive . . .  the higher characters are not.”  *Spectator,* November 26, 1864
 
 ***Download this week’s novel:***
 

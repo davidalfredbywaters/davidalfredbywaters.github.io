@@ -15,13 +15,13 @@ categories: [Novels]
 
 *For E.S. Maine, see* [*Novel 141*](/blog/2020/7/28/novel-141-es-maine-among-strangers-1870)
 
-“*Scarscliff Rocks* is a story of considerable merit. . . .  The most salient merit of the book is in the carefully studied contrast of the two chief female characters, which are both well conceived and elaborated. . . . The plot . . . has been skilfully handled, and not overwrought, as it might readily have been.” *Academy*, June 26, 1875
+“*Scarscliff Rocks* is a story of considerable merit. . . .  The most salient merit of the book is in the carefully studied contrast of the two chief female characters, which are both well conceived and elaborated. . . . The plot . . . has been skilfully handled, and not overwrought, as it might readily have been.” *Academy*, June 26, 1875
 
-“It has the old air of story-telling about it, and not that of ‘studies’ of this, that, and the other. . .  The author has successfully depicted commonplace characters without making them bores.” *Spectator*, August 21, 1875
+“It has the old air of story-telling about it, and not that of ‘studies’ of this, that, and the other. . .  The author has successfully depicted commonplace characters without making them bores.”  *Spectator*, August 21, 1875
 
 *A contrasting view:*
 
-“What all such tales as ‘Scarscliff Rocks’ want, and there are generally at least a dozen of them every quarter, is dramatic power.  We have sensational instead of dramatic scenes.  The characters are generally fairly drawn, but are often dull when they are not sensational.” *Westminster Review*, October, 1875
+“What all such tales as ‘Scarscliff Rocks’ want, and there are generally at least a dozen of them every quarter, is dramatic power.  We have sensational instead of dramatic scenes.  The characters are generally fairly drawn, but are often dull when they are not sensational.” *Westminster Review*, October, 1875
 
 ***Download this week’s novel:***
 

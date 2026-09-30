@@ -8,7 +8,7 @@ url: /blog/2022/3/26/crossword-227-we-have-been-out
 
 ***
 
-*We at David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender have been out much of the week, leaving our forge and cottages in the hands of the caretaker.  Our boots needed resoling, our chisels sharpening; most importantly, we had to restock the apiary, as our honey and wax supplies were dwindling.  So if your tour bus happened by and you were unable to gain access to our grounds, I offer my apologies.*
+*We at David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender have been out much of the week, leaving our forge and cottages in the hands of the caretaker.  Our boots needed resoling, our chisels sharpening; most importantly, we had to restock the apiary, as our honey and wax supplies were dwindling.  So if your tour bus happened by and you were unable to gain access to our grounds, I offer my apologies.*
 
 ***
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*One theme per puzzle—that’s always been the rule of themed crosswords. But I find myself asking—why? Why adhere blindly to the worn-out conventions of the past? Why thwart human progress with hidebound rules of unity and order? So what if a few reactionary members of the bourgeoisie are shocked or confused? Did that keep Wagner from sonic discord and narrative incoherence? Picasso from crudity and distortion? The Bauhaus from faceless rectangularity? Let the Philistines be shocked; let them be confused! So much the better! Let a crossword have not just one theme, but* two*!!*
+*One theme per puzzle—that’s always been the rule of themed crosswords.  But I find myself asking—why? Why adhere blindly to the worn-out conventions of the past?  Why thwart human progress with hidebound rules of unity and order?  So what if a few reactionary members of the bourgeoisie are shocked or confused?  Did that keep Wagner from sonic discord and narrative incoherence? Picasso from crudity and distortion? The Bauhaus from faceless rectangularity?  Let the Philistines be shocked; let them be confused!  So much the better!  Let a crossword have not just one theme, but* two*!!*
 
 ***
 

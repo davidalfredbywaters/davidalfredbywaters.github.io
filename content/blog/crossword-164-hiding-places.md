@@ -8,7 +8,7 @@ url: /blog/2021/1/9/crossword-164-hiding-places
 
 ***
 
-*Carefully concealed in this puzzle’s grid of mystery are no fewer than seven (7) hiding places. To find them, all you need to do is just work hard and believe in yourself.*
+*Carefully concealed in this puzzle’s grid of mystery are no fewer than seven (7) hiding places.  To find them, all you need to do is just work hard and believe in yourself.*
 
 ***
 

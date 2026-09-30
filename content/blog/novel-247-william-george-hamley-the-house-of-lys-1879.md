@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Major-General William George Hamley (1815-1893), having retired from the army in 1872, wrote three novels between 1878 and 1882, of which this is the second.  Its conflicted, morally developing hero and the less glorious side of Victorian army life are both well represented.*
+*Major-General William George Hamley (1815-1893), having retired from the army in 1872, wrote three novels between 1878 and 1882, of which this is the second.  Its conflicted, morally developing hero and the less glorious side of Victorian army life are both well represented.*
 
 The “real interest of the book” consists in “the style and thought, sometimes almost too elaborately allusive, in the well-drawn sketches of military life in the Crimea and elsewhere” and in “the very best exemplification of the undesirable type of elderly military man we have ever met with—at least in fiction.” *Examiner*, May 24, 1879
 
-“What with fun, love, and adventure, there is no flagging in the book from first to last, and General Hamley is to be congratulated on having written an extremely entertaining novel.” *Saturday Review*, June 14, 1879
+“What with fun, love, and adventure, there is no flagging in the book from first to last, and General Hamley is to be congratulated on having written an extremely entertaining novel.”  *Saturday Review*, June 14, 1879
 
 Download this week’s novel:
 

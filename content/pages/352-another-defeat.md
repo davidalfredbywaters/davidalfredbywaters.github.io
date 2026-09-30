@@ -3,7 +3,7 @@ title: "352 Another Defeat"
 url: /352-another-defeat
 ---
 
-# Crossword 352: Another Defeat {.center}
+#  Crossword 352: Another Defeat {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

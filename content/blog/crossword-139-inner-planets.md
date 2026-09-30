@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This puzzle provides, as a bonus, a little lesson in astronomy.  If, like me, you tend to forget how the solar system is organized, its theme answers can help: repeated in order of appearance, they make up a catchy 9-word, 60-letter mnemonic!*
+*This puzzle provides, as a bonus, a little lesson in astronomy.  If, like me, you tend to forget how the solar system is organized, its theme answers can help: repeated in order of appearance, they make up a catchy 9-word, 60-letter mnemonic!*
 
 ***
 

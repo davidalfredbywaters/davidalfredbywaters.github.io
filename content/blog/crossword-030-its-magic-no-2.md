@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*10 Across was difficult to clue, in that there seems to be no one name for those little pads or screens with up and down arrows that you have to poke at in order to make some machine—the oven, the refrigerator, the furnace, etc.— do more or less of something.  Does anyone prefer poking and poking at these arrows to simply turning a 10 Across?*  *How do these idiotic design trends get started?  And how can we stop them?*
+*10 Across was difficult to clue, in that there seems to be no one name for those little pads or screens with up and down arrows that you have to poke at in order to make some machine—the oven, the refrigerator, the furnace, etc.— do more or less of something.  Does anyone prefer poking and poking at these arrows to simply turning a 10 Across?*  *How do these idiotic design trends get started?  And how can we stop them?*
 
 ***
 

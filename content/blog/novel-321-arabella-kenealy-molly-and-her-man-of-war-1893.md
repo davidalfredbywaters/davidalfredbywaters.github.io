@@ -17,7 +17,7 @@ categories: [Novels]
 
 “A spirit of audacious flippancy and rather determined light-heartedness informs the thing and keeps it moving.” *Athenaeum*, February 10, 1894
 
-“Rollicking fun and humour enliven every page of Miss Kenealy’s book. . . .  Miss Kenealy is a daring satirist; sometimes she is a savage one. . . .  The story is an antidote for the ‘blues.’” *Academy*, March 3, 1894
+“Rollicking fun and humour enliven every page of Miss Kenealy’s book. . . .  Miss Kenealy is a daring satirist; sometimes she is a savage one. . . .  The story is an antidote for the ‘blues.’”  *Academy*, March 3, 1894
 
 ***Download this fortnight’s novel:***
 

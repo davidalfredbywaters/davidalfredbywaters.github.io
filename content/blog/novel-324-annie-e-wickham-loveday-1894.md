@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Annie E. Wickham published two novels, both in 1896.  Nothing else appears to be known about her.*
+*Annie E. Wickham published two novels, both in 1896.  Nothing else appears to be known about her.*
 
-The novel has “much originality” and “one of the most fascinating scoundrels who have ever appeared in fiction.” *Spectator*, April 4, 1896
+The novel has “much originality” and “one of the most fascinating scoundrels who have ever appeared in fiction.”  *Spectator*, April 4, 1896
 
-It “has charm—charm of manner, of matter.  It is above all things fresh.” *Athenaeum,* April 4, 1896
+It “has charm—charm of manner, of matter.  It is above all things fresh.” *Athenaeum,* April 4, 1896
 
 ***Download this fortnight’s novel:***
 

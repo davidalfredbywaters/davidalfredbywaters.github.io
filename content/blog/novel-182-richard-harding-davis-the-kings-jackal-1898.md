@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Richard Harding Davis (1864-1916), an American journalist, editor, fashion leader, and crony of Teddy Roosevelt, had time for only a few short novels.  The characters in this one, though hardly complex, are entertaining, as is the action-packed plot—which features the unexpected but crucial intervention of a dashing young American journalist.*
+*Richard Harding Davis (1864-1916), an American journalist, editor, fashion leader, and crony of Teddy Roosevelt, had time for only a few short novels.  The characters in this one, though hardly complex, are entertaining, as is the action-packed plot—which features the unexpected but crucial intervention of a dashing young American journalist.*
 
-“It is a very pleasant story, and . . . it is written with not a little brightness and literary skill.  Indeed, as a mere teller of a story Mr. Davis has nowadays few superiors:  for he can always produce his effect with a few strokes of the pen.  He is never diffuse, and consequently never wearisome.” *Speaker*, September 3, 1898
+“It is a very pleasant story, and . . . it is written with not a little brightness and literary skill.  Indeed, as a mere teller of a story Mr. Davis has nowadays few superiors:  for he can always produce his effect with a few strokes of the pen.  He is never diffuse, and consequently never wearisome.” *Speaker*, September 3, 1898
 
-“Mr. Harding Davis’s new story is very slight, but it has charm. . . .  It is extremely well conceived and arranged.” *Academy*, September 17, 1898
+“Mr. Harding Davis’s new story is very slight, but it has charm. . . .  It is extremely well conceived and arranged.”  *Academy*, September 17, 1898
 
 ***Download this week’s novel:***
 

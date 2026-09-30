@@ -9,10 +9,10 @@ categories: [Crosswords]
 
 ***
 
-*It’s time to test your etymological knowledge!  To which question might this puzzle’s title phrase, in its original meaning, have been an appropriate response?*A. “How do I make this blob of tofu look like a turkey?”
-B. “A bird is attacking me—should I shoot to kill?”
-C. “What’s a good slogan for a specialized chicken restaurant with no thighs, or breasts, or legs?”
-D. “I forgot to learn the play I’m acting in this afternoon—what should I do?”
+*It’s time to test your etymological knowledge!  To which question might this puzzle’s title phrase, in its original meaning, have been an appropriate response?<br>*A. “How do I make this blob of tofu look like a turkey?”<br>
+B. “A bird is attacking me—should I shoot to kill?”<br>
+C. “What’s a good slogan for a specialized chicken restaurant with no thighs, or breasts, or legs?”<br>
+D. “I forgot to learn the play I’m acting in this afternoon—what should I do?”<br>
 *The answer may be found in the first letter of 2 Down in the attached puzzle.*
 
 ***

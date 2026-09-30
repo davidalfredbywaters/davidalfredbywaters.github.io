@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Have you ever noticed how certain words or phrases sound more or less the same—sometimes are even spelled the same—and yet have entirely different meanings?  This phenomenon was recently brought to my attention, and I had a thought:  what if one were to base a crossword on it?*
+*Have you ever noticed how certain words or phrases sound more or less the same—sometimes are even spelled the same—and yet have entirely different meanings?  This phenomenon was recently brought to my attention, and I had a thought:  what if one were to base a crossword on it?*
 
 ***
 

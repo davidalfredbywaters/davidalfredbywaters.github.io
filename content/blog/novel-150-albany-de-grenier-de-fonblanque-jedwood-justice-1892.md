@@ -15,7 +15,7 @@ categories: [Novels]
 
 *This, like the same author’s* A Tangled Skein *(Novel* [*089*](/blog/2019/7/30/novel-089-albany-de-grenier-de-fonblanque-a-tangled-skein-1862)*), is an intricately plotted mystery with vivid characters, written in a lively style.*
 
-“The machinery of the plot is intricate and uncommonly well worked.  And although ingenuity and multiplicity of incident are the cardinal features of Mr. De Fonblanque's book, there are many passages which rise to a higher level” and are “full of insight and expressive power.” *Athenaeum*, January 2, 1892
+“The machinery of the plot is intricate and uncommonly well worked.  And although ingenuity and multiplicity of incident are the cardinal features of Mr. De Fonblanque's book, there are many passages which rise to a higher level” and are “full of insight and expressive power.”  *Athenaeum*, January 2, 1892
 
 “It is written throughout with force; it has a carefully constructed plot, and ends with a *dénouement* which the reader, even though experienced at guessing surprises, will hardly have expected.” *Spectator*, January 30, 1892
 

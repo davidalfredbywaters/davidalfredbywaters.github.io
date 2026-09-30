@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Elizabeth Daniel (1823-1878), was the wife of promising Scottish novelist Robert Mackenzie Daniel until, in 1846, he went mad, dying the following year.  Thereafter she wrote some thirty novels of her own; this, appearing late in her career, is a quiet character study.*
+*Elizabeth Daniel (1823-1878), was the wife of promising Scottish novelist Robert Mackenzie Daniel until, in 1846, he went mad, dying the following year.  Thereafter she wrote some thirty novels of her own; this, appearing late in her career, is a quiet character study.*
 
-“Mrs. Mackenzie Daniel has proved in a satisfactory manner that a story may be interesting without being sensational, religious without being morbid, moral without being dull, a study of character without being a marvel of psychological surgery.  While capable of taking a bright view of individuals, she does not yearn and gush about the divinity of the human race; and in exhibiting the occasional infirmities to which flesh is subject, she does not think it necessary to discover in the mass of mankind the existence of crude lumps of moral nastiness.” *Athenaeum*, May 2, 1874
+“Mrs. Mackenzie Daniel has proved in a satisfactory manner that a story may be interesting without being sensational, religious without being morbid, moral without being dull, a study of character without being a marvel of psychological surgery.  While capable of taking a bright view of individuals, she does not yearn and gush about the divinity of the human race; and in exhibiting the occasional infirmities to which flesh is subject, she does not think it necessary to discover in the mass of mankind the existence of crude lumps of moral nastiness.”  *Athenaeum*, May 2, 1874
 
-“A very readable novel.  The story is  well told; the characters are drawn with considerable cleverness.” *London Daily News*, May 23, 1874
+“A very readable novel.  The story is  well told; the characters are drawn with considerable cleverness.”  *London Daily News*, May 23, 1874
 
 ***Download this week’s novel:***
 

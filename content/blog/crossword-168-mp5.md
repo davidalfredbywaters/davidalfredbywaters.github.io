@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*You’ve heard of MP3, a format for compressing recorded music files to a convenient size, and MP4, a format for compressing movies to a convenient size.  Now here’s MP5! It isn’t a format, and it doesn’t compress anything to a convenient size. It’s just a crossword puzzle. Nevertheless, in its quiet, unassuming way, it makes its own tiny contribution to the sum of human achievement.*
+*You’ve heard of MP3, a format for compressing recorded music files to a convenient size, and MP4, a format for compressing movies to a convenient size.  Now here’s MP5!  It isn’t a format, and it doesn’t compress anything to a convenient size.  It’s just a crossword puzzle.  Nevertheless,  in its quiet, unassuming way, it  makes its own tiny contribution to the sum of human achievement.*
 
 ***
 

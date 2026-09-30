@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*It has lately come to my attention that the Internet is infested with a great many people who have wrong opinions and do bad things.  And I have to ask myself—and invite you, dear solver, to ask yourself as well—does not our use of the Internet render us complicit with these wrongheaded people and responsible for these bad things?  I fear it does. So I’ve decided that if the Internet does not remove these people within a reasonable amount of time, I will withdraw from it myself and invite you to do the same.  Reform, Internet, or else!*
+*It has lately come to my attention that the Internet is infested with a great many people who have wrong opinions and do bad things.  And I have to ask myself—and invite you, dear solver, to ask yourself as well—does not our use of the Internet render us complicit with these wrongheaded people and responsible for these bad things?  I fear it does. So I’ve decided that if the Internet does not remove these people within a reasonable amount of time, I will withdraw from it myself and invite you to do the same.  Reform, Internet, or else!*
 
 ***
 

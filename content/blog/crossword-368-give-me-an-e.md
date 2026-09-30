@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*It’s time for a fun personality test!  What situation does the sentence “*Give me an E*” evoke for you?*
+*It’s time for a fun personality test!  What situation does the sentence “*Give me an E*” evoke for you?*
 
 A. A musician ready to tune a guitar’s first or sixth string?
 
@@ -33,7 +33,7 @@ D. You're naturally empathetic, but also fun-loving and attractive
 
 E. You're thick-skinned, doltish, dull, ugly, heartless, and selfish
 
-*This is just a sample of the hundred-question test, based on the latest psychometric standards, that I'm compiling for the use of hiring committees, custody evaluators, school councilors, admissions officers, and the like.  I'm pretty sure there's more money in this than in crosswords; meanwhile, however, while I’m getting it finished and marketed, here’s another one..*
+*This is just a sample of the hundred-question test, based on the latest psychometric standards, that I'm compiling for the use of hiring committees, custody evaluators, school councilors, admissions officers, and the like.  I'm pretty sure there's more money in this than in crosswords; meanwhile, however, while I’m getting it finished and marketed, here’s another one..*
 
 ***
 

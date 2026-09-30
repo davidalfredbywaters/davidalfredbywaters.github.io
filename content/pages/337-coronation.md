@@ -3,7 +3,7 @@ title: "337 Coronation"
 url: /337-coronation
 ---
 
-# Crossword 337: Coronation {.center}
+#  Crossword 337: Coronation {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

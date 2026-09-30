@@ -8,7 +8,7 @@ url: /blog/2025/2/22/crossword-323-nonconfrontation
 
 ***
 
-*Let’s not fight about it.  You’re right.  Or if you’re not, it’s not important.  What’s important is getting along.  And we’d get along just fine if it weren’t for your wrong opinions and bad taste.  So just stop arguing and do the puzzle.*
+*Let’s not fight about it.  You’re right.  Or if you’re not, it’s not important.  What’s important is getting along.  And we’d get along just fine if it weren’t for your wrong opinions and bad taste.  So just stop arguing and do the puzzle.*
 
 ***
 

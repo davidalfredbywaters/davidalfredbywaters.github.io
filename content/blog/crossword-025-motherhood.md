@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Tomorrow is Mother’s Day—time to give your mother a thoughtful present, like a free crossword, or a Victorian novel recommendation.  My own mother endures the crosswords of my adulthood as patiently as she did the cross words of my childhood.*
+*Tomorrow is Mother’s Day—time to give your mother a thoughtful present, like a free crossword, or a Victorian novel recommendation.  My own mother endures the crosswords of my adulthood as patiently as she did the cross words of my childhood.*
 
 ***
 

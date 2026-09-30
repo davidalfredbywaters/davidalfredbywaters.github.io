@@ -8,7 +8,7 @@ url: /blog/2024/8/24/crossword-310-double-plays-on-words
 
 ***
 
-*That’s right—not baseball, but paronomasia.  This is another of a series of puzzles on this website that encourage you to move from the physical to the mental, from the material to the spiritual; that offers you a way to transcend the vile, dust-choked, filth-smeared circumstances of earthly existence and approach the empyrean realm where the soul communes with eternity.*
+*That’s right—not baseball, but paronomasia.  This is another of a series of puzzles on this website that encourage you to move from the physical to the mental, from the material to the spiritual; that offers you a way to transcend the vile, dust-choked, filth-smeared circumstances of earthly existence and approach the empyrean realm where the soul communes with eternity.*
 
 ***
 

@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*When I started making crosswords, I tried to base them on knowledge and experience widely shared by potential solvers. But lately, influenced by trendsetters in the field, I’ve come to understand that my purpose ought rather to be to explore and celebrate myself, my own inner and essential identity.   Now I wish that self were more—I don’t know—trendy, I guess—but what can I do?  I was born this way.*
+*When I started making crosswords, I tried to base them on knowledge and experience widely shared by potential solvers. But lately, influenced by trendsetters in the field, I’ve come to understand that my purpose ought rather to be to explore and celebrate myself, my own inner and essential identity.   Now I wish that self were more—I don’t know—trendy, I guess—but what can I do?  I was born this way.*
 
-*Today’s puzzle, then, is a heartfelt expression of my self—as a reader of novels and a sometime resident of various Midwestern states. If you prefer short stories and come from the South, or poetry and live on the coast, well, too bad.  Go make your own crossword.*
+*Today’s puzzle, then, is a heartfelt expression of my self—as a reader of novels and a sometime resident of various Midwestern states. If you prefer short stories and come from the South, or poetry and live on the coast, well, too bad.  Go make your own crossword.*
 
 ***
 

@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*What Darwinian purpose does hair serve?  How are the odds of human survival increased by its plentiful presence on the top of the head?  Maybe it provides protection from sun and rain and snow?  But if so, why do so many men who are deprived of this protection after their first youth successfully breed other men who will be similarly deprived?  And why do they meanwhile retain the facial hair that just gets in their food?*
+*What Darwinian purpose does hair serve?  How are the odds of human survival increased by its plentiful presence on the top of the head?  Maybe it provides protection from sun and rain and snow?  But if so, why do so many men who are deprived of this protection after their first youth successfully breed other men who will be similarly deprived?  And why do they meanwhile retain the facial hair that just gets in their food?*
 
-*Well—it’s another of life’s unsoluble riddles.  Crosswords, by contrast, provide only soluble riddles, so console yourself with this one.*
+*Well—it’s another of life’s unsoluble riddles.  Crosswords, by contrast, provide only soluble riddles, so console yourself with this one.*
 
 ***
 
@@ -24,3 +24,5 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [060 Hair Lines](/060-hair-lines-online)
+
+<br>

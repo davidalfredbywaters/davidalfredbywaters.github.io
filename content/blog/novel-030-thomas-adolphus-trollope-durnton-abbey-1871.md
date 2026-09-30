@@ -13,13 +13,13 @@ categories: [Novels]
 
 ***
 
-*Thomas Adolphus Trollope (1810-1892) was Frances Milton Trollope’s first son and Anthony Trollope's older brother.  The plot of this novel heats up after a slow beginning; its bad characters are memorable studies in self-deception, led as they are by banal, routine desires into extravagantly evil behavior.*
+*Thomas Adolphus Trollope (1810-1892) was Frances Milton Trollope’s first son and Anthony Trollope's older brother.  The plot of this novel heats up after a slow beginning; its bad characters are memorable studies in self-deception, led as they are by banal, routine desires into extravagantly evil behavior.*
 
-The characters are “natural but by virtue of their mediocrity. . . . Virtue is mediocre in [Trollope's] hands, and the contrast between it and vice is marked only by the degree in which the latter falls below the mean”; still the novel is “well written, and superior to the common run of novels in originality and interest.” *Athenaeum*, July 29, 1871
+The characters are “natural but by virtue of their mediocrity. . . .  Virtue is mediocre in [Trollope's] hands, and the contrast between it and vice is marked only by the degree in which the latter falls below the mean”; still the novel is “well written, and superior to the common run of novels in originality and interest.” *Athenaeum*, July 29, 1871
 
 “A well constructed, interesting story”; “one of the chief charms . . . is the humorous portraiture with which it abounds.” *Graphic*, August 5, 1871
 
-“In spite of many scenes of considerable humour and not a little pathos,” the “coarse vice” portrayed in the novel “left in our mind . . . a most unpleasant recollection.”  *Saturday Review*, August 26, 1871
+“In spite of many scenes of considerable humour and not a little pathos,” the “coarse vice” portrayed in the novel “left in our mind . . . a most unpleasant recollection.”  *Saturday Review*, August 26, 1871
 
 ***Download this week’s novel here:***
 

@@ -8,7 +8,7 @@ url: /blog/2023/11/18/crossword-290-alternate-endings
 
 ***
 
-*This web site now concludes its sixth year.  Is it time for us to bring it to a close? We might; but we can’t decide what to do with our protagonist “David Alfred Bywaters.”  Should we have him marry the princess and live happily ever after?  Die in a shoot-out with rival crossword constructors?  Maybe we’ll just have him wake up and discover that it was all a crazy dream.*
+*This web site now concludes its sixth year.  Is it time for us to bring it to a close?  We might; but we can’t decide what to do with our protagonist “David Alfred Bywaters.”  Should we have him marry the princess and live happily ever after?  Die in a shoot-out with rival crossword constructors?  Maybe we’ll just have him wake up and discover that it was all a crazy dream.*
 
 ***
 

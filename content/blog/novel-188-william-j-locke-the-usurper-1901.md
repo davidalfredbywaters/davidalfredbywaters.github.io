@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*William J. Locke (1863-1930) wrote some 40 novels, several successful plays, and a great many short stories.  This novel is particularly good at representing the main characters’ mutual misperceptions.*
+*William J. Locke (1863-1930) wrote some 40 novels, several successful plays, and a great many short stories.  This novel is particularly good at representing the main characters’ mutual misperceptions.*
 
-“Character and plot are most ingeniously wrought and the conclusion, when it comes, is fully satisfying.” *Spectator*, December 7, 1901
+“Character and plot are most ingeniously wrought and the conclusion, when it comes, is fully satisfying.”  *Spectator*, December 7, 1901
 
-“The plot is fresh and ingenious, and it is worked out with a simple directness of style, a resourcefulness of detail, and a fine idealism . . . uncommon enough.” *Bookman*, January, 1902
+“The plot is fresh and ingenious, and it is worked out with a simple directness of style, a resourcefulness of detail, and a fine idealism . . . uncommon enough.”  *Bookman*, January, 1902
 
 ***Download this week’s novel:***
 

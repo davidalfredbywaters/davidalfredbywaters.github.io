@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Here is another novel by Cunningham (see Novel* [*020*](/blog/2018/4/3/novel-020-sir-henry-stewart-cunningham-wheat-and-tares-1860)*).  The style is bright and the characterization subtle.  (There is also some political satire, which no doubt had more point in 1864 than it does now.)*
+*Here is another novel by Cunningham (see Novel* [*020*](/blog/2018/4/3/novel-020-sir-henry-stewart-cunningham-wheat-and-tares-1860)*).  The style is bright and the characterization subtle.  (There is also some political satire, which no doubt had more point in 1864 than it does now.)*
 
-“As pleasant a tale as readers not vowed to a predilection for sensation novels could desire.” *Athenaeum*, June 4, 1864
+“As pleasant a tale as readers not vowed to a predilection for sensation novels could desire.”  *Athenaeum*, June 4, 1864
 
-“The style is always pure, and often brilliant, and the dialogue displays considerable mastery of . . . light repartee.” *Westminster Review*, June 1864
+“The style is always pure, and often brilliant, and the dialogue displays considerable mastery of . . . light repartee.”  *Westminster Review*, June 1864
 
 ***Download this week’s novel:***
 

@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*I conclude this website’s third year, as I did previous years, by providing you, first, with large 21x21 puzzles, and, second, with an opportunity to donate.  Not that I need the money—but you, gentle solver, need an outlet for those impulses of gratitude that fill your generous soul, and I am willing to provide one.*
+*I conclude this website’s third year, as I did previous years, by providing you, first, with large 21x21 puzzles, and, second, with an opportunity to donate.  Not that I need the money—but you, gentle solver, need an outlet for those impulses of gratitude that fill your generous soul, and I am willing to provide one.*
 
-*As usual, there are four donation levels.  Donate $12 and receive a 15x15 crossword which employs only words current during the Victorian era (and, of course, still current today), and which refers nostalgically to a simpler era of food packaging. Donate $13.50 and receive a large, 21x21 crossword, a sequel to last week’s puzzle with an added twist.  Donate $15 and receive both.  Be the first to donate $10,000,000 and the website will be renamed in your honor, so that if your name is, say, Jeff Bezos, the name of the website will be “Jeff Bezos Presents David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender.”*
+*As usual, there are four donation levels.  Donate $12 and receive a 15x15 crossword which employs only words current during the Victorian era (and, of course, still current today), and which refers nostalgically to a simpler era of food packaging.  Donate $13.50 and receive a large, 21x21 crossword, a sequel to last week’s puzzle with an added twist.  Donate $15 and receive both.  Be the first to donate $10,000,000 and the website will be renamed in your honor, so that if your name is, say, Jeff Bezos, the name of the website will be “Jeff Bezos Presents David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender.”*
 
 *(By the way, careful solvers will notice that this puzzle’s 6 Down makes a return appearance after its debut as 16 Across in* [*Crossword 039*](/blog/2018/8/18/crossword-039-shedding-anxieties-literally)*—but with an even more hilarious clue!)*
 

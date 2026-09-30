@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Today we have the suffix with “buck,” and the detective-movie dog, and the ambient-music innovator.  I wanted to “give a shout out,” as the youngsters say, to the sandwich cookie, and the killer whale, and Yoko ___, but what with all the theme answers, I couldn’t find room.  Maybe next week!*
+*Today we have the suffix with “buck,” and the detective-movie dog, and the ambient-music innovator.  I wanted to “give a shout out,” as the youngsters say, to the sandwich cookie, and the killer whale, and Yoko ___, but what with all the theme answers, I couldn’t find room.  Maybe next week!*
 
 ***
 

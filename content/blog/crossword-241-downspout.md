@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Last week’s puzzle was called “Tossing It Down.” This week’s is called “Downspout.” The alert solver will suspect a pattern. In fact this puzzle is the second of this year’s summer series on David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender, the fifth in a series of such serieses. It’s all about downness, explored from various points of view. Are you “down with that,” as the hipsters would say? Then it’s time to “get down,” as the hipsters would say.*
+*Last week’s puzzle was called “Tossing It Down.”  This week’s is called “Downspout.”  The alert solver will suspect a pattern.  In fact this puzzle is the second of this year’s summer series on David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender, the fifth in a series of such serieses. It’s all about downness, explored from various points of view. Are you “down with that,” as the hipsters would say? Then it’s time to “get down,” as the hipsters would say.*
 
 ***
 

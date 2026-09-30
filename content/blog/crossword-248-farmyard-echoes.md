@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Short-sighted solvers might be inclined to scoff at 60 Across in this week’s puzzle.  But so did short-sighted critics scoff at Picasso’s cubes, at Rothko’s daubs, at Pollock’s drips—and who had the last laugh?  When crosswords cease to make any sense at all, solvers will look back at 60 Across, and its relative nearness to sense, with a kind of bitter nostalgia, while future cultural historians will hail its ground-breaking, boundary-smashing departure from the dull routine of sense-making that had previously held puzzledom in its thrall.  But go ahead and scoff—if you don’t mind the prospect of posterity’s scoffing at you.*
+*Short-sighted solvers might be inclined to scoff at 60 Across in this week’s puzzle.  But so did short-sighted critics scoff at Picasso’s cubes, at Rothko’s daubs, at Pollock’s drips—and who had the last laugh?  When crosswords cease to make any sense at all, solvers will look back at 60 Across, and its relative nearness to sense, with a kind of bitter nostalgia, while future cultural historians will hail its ground-breaking, boundary-smashing departure from the dull routine of sense-making that had previously held puzzledom in its thrall.  But go ahead and scoff—if you don’t mind the prospect of posterity’s scoffing at you.*
 
 ***
 

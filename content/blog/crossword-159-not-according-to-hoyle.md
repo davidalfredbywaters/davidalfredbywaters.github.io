@@ -8,9 +8,9 @@ url: /blog/2020/12/5/crossword-159-not-according-to-hoyle
 
 ***
 
-*All the clues for this puzzle’s theme bear a sort of sideways relationship to their answers; three of the five themed clue-answer sets appear to make no mention of the theme they jointly imply.  Puns are piled upon, or wedged within, puns. When I made the puzzle I thought this was enormously clever; now I’m half-convinced it’s just annoyingly obscure.*
+*All the clues for this puzzle’s theme bear a sort of sideways relationship to their answers; three of the five themed clue-answer sets appear to make no mention of the theme they jointly imply.  Puns are piled upon, or wedged within, puns. When I made the puzzle I thought this was enormously clever; now I’m half-convinced it’s just annoyingly obscure.*
 
-*Well, either way, the cost to you is the same.  And even if you don’t like the theme, the fill is full of fun things like animals (I count ten of them, including a fish, three birds, two insects, an amphibian, and three mammals), and foreign pronouns (only two—maybe more next time!).*
+*Well, either way, the cost to you is the same.  And even if you don’t like the theme, the fill is full of fun things like animals (I count ten of them, including a fish, three birds, two insects, an amphibian, and three mammals), and foreign pronouns (only two—maybe more next time!).*
 
 ***
 

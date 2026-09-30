@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*And just what generation is that, you wonder?  Am I a precocious preteen? A jaded old man?  I’m not going to tell you.  I try to make puzzles that precocious preteens and jaded old men can solve, ignorant though they may be of sixties television on the one hand, of internet memes on the other.  Alas, I don’t always succeed.  55 Across in today’s puzzle is based on a Rastafarian slang phrase that may elude both demographics.  But what can I say? It fits the theme.*
+*And just what generation is that, you wonder?  Am I a precocious preteen? A jaded old man?  I’m not going to tell you.  I try to make puzzles that precocious preteens and jaded old men can solve,  ignorant though they may be of sixties television on the one hand, of internet memes on the other.  Alas, I don’t always succeed.  55 Across in today’s puzzle is based on a Rastafarian slang phrase that may elude both demographics.  But what can I say? It fits the theme.*
 
 ***
 

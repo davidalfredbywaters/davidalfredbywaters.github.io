@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This is my second defeat; the first (see Crossword* [136](/blog/2020/6/27/crossword-136-defeat)*) took place nearly five years ago.  That makes my win-loss record 350-2.  To what do I owe this triumphant career?  Exercise and diet.  I spend at least six hours a day lifting virtual weights in my AI-assisted smart gym, and I fry my tofu only in lard.*
+*This is my second defeat; the first (see Crossword* [136](/blog/2020/6/27/crossword-136-defeat)*) took place nearly five years ago.  That makes my win-loss record 350-2.  To what do I owe this triumphant career?  Exercise and diet.  I spend at least six hours a day lifting virtual weights in my AI-assisted smart gym, and I fry my tofu only in lard.*
 
 ***
 

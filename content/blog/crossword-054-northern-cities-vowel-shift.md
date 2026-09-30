@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*For a learned account of the phenomenon on which this puzzle is based, see the Wikipedia article on “Inland Northern American English.”  I was born and raised in Kansas City, where English is spoken in its purest form; and so, when fate relocated me to Chicago for awhile, my ears were often offended by* wrong vowels*.  If you yourself use these wrong vowels, I know I can trust you to train yourself to stop.*
+*For a learned account of the phenomenon on which this puzzle is based, see the Wikipedia article on “Inland Northern American English.”  I was born and raised in Kansas City, where English is spoken in its purest form; and so, when fate relocated me to Chicago for awhile, my ears were often offended by* wrong vowels*.  If you yourself use these wrong vowels, I know I can trust you to train yourself to stop.*
 
 ***
 

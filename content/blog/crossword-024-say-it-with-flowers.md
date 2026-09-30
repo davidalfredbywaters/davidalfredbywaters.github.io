@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*If this puzzle doesn’t make you groan, you have simply lost the ability to groan. I ought to be sorry about it, but I’m not.  Well, I’m a little sorry to have had to use an old ad slogan for 21-Across.  But that’s all.  Otherwise, I’m proud of my work!  I glory in it!  I represent the avant-avant-garde of paronomasia.  As Schoenberg was to Schubert, as Rothko was to Rembrandt, so am I to any old-fashioned punster who cares about such stodgy matters as actual homophonic similarity.*
+*If this puzzle doesn’t make you groan, you have simply lost the ability to groan. I ought to be sorry about it, but I’m not.  Well, I’m a little sorry to have had to use an old ad slogan for 21-Across.  But that’s all.  Otherwise, I’m proud of my work!  I glory in it!  I represent the avant-avant-garde of paronomasia.  As Schoenberg was to Schubert, as Rothko was to Rembrandt, so am I to any old-fashioned punster who cares about such stodgy matters as actual homophonic similarity.*
 
 ***
 

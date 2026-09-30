@@ -3,7 +3,7 @@ title: "307 The Abyss (online)"
 url: /307-the-abyss-online
 ---
 
-# Crossword 307: The Abyss {.center}
+#  Crossword 307: The Abyss {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

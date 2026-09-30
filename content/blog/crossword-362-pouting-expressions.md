@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This is what always happens when I try to be happy, as I did in my last puzzle:  I end up feeling twice as bad.  Why?  Well, for one thing, I don’t get the credit I deserve—not as a crossword constructor, not as a novel recommender, not as a human being.  And I’m fed up.  I’ve had it.  Everybody will be sorry someday when I’m gone.  But then it will be too late.  And that’s all I have to say.  No, no, don’t try to cheer me up; just leave me alone if that’s not too much to ask.  Okay?  Okay.*
+*This is what always happens when I try to be happy, as I did in my last puzzle:  I end up feeling twice as bad.  Why?  Well, for one thing, I don’t get the credit I deserve—not as a crossword constructor, not as a novel recommender, not as a human being.  And I’m fed up.  I’ve had it.  Everybody will be sorry someday when I’m gone.  But then it will be too late.  And that’s all I have to say.  No, no, don’t try to cheer me up; just leave me alone if that’s not too much to ask.  Okay?  Okay.*
 
 ***
 

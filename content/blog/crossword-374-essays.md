@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Included in this puzzle are the titles of the ten essays in a collection I mean to publish once I decide on final versions:  the current ones, in simple prose, seem a bit lackluster somehow.  Should I translate them into Latin, as the more permanent and dignified language?  Or should I court popular favor by translating them into rhymed couplets and recording myself shouting them over an electronic beat on a garishly lit set in front of a crew of barely clad dancers?*
+*Included in this puzzle are the titles of the ten essays in a collection I mean to publish once I decide on final versions:  the current ones, in simple prose, seem a bit lackluster somehow.  Should I translate them into Latin, as the more permanent and dignified language?  Or should I court popular favor by translating them into rhymed couplets and recording myself shouting them over an electronic beat on a garishly lit set in front of a crew of barely clad dancers?*
 
 ***
 

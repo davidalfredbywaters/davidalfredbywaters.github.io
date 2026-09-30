@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Times are hard here at David Alfred Bywaters’s Crossword Cavalcade and Fortnightly Victorian Novel Recommender.  With the new year, our emergency Covid funds have run out. We’ve had to lay off 30 percent of our staff.  We’ve considered crossing fewer words; after some painful soul-searching we’ve decided instead to lower the quality of our recommended novels by 20 percent.*
+*Times are hard here at David Alfred Bywaters’s Crossword Cavalcade and Fortnightly Victorian Novel Recommender.  With the new year, our emergency Covid funds have run out. We’ve had to lay off 30 percent of our staff.  We’ve considered crossing fewer words; after some painful soul-searching we’ve decided instead to lower the quality of our recommended novels by 20 percent.*
 
 ***
 

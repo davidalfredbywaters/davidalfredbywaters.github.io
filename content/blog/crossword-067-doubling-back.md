@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I’m back in action, with back-to-back thrills!  I've got your back!  It’s payback time!  So don’t hold back!  Just download the puzzle.*
+*I’m back in action, with back-to-back thrills!  I've got your back!  It’s payback time!  So don’t hold back!  Just download the puzzle.*
 
 ***
 
@@ -22,5 +22,7 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [067 Doubling Back](/067-doubling-back-online)
+
+<br>
 
 ![](/images/Pointing-Hand-25.png)

@@ -17,9 +17,9 @@ categories: [Novels]
 
 “A very clever, and what is more, a very readable novel; clear, rapid, fluent, abounding in pointed sentences.” *Spectator*, September 16, 1843
 
-No living author “possesses greater power in the delineation of character.” *Sunday Times*, September 17, 1843
+No living author “possesses greater power in the delineation of character.”  *Sunday Times*, September 17, 1843
 
-“The ‘name’ of its writer, first as that of a woman, and secondly as that of a popular ‘novelist,’ will long keep it out of the hands of those ‘grave and reverend signors,’ who are the chief dispensers of that reputation which they cannot compass for themselves, and who . . . will never be satisfied that a woman has been gifted with faculties of observing . . . nature.” *Morning Post*, October 1843
+“The ‘name’ of its writer, first as  that of a woman, and secondly as that of a popular ‘novelist,’ will long keep it out of the hands of those ‘grave and reverend signors,’ who are the chief dispensers of that reputation which they cannot compass for themselves, and who . . . will never be satisfied that a woman has been gifted with faculties of observing . . . nature.” *Morning Post*, October 1843
 
 Download this week’s novel:
 

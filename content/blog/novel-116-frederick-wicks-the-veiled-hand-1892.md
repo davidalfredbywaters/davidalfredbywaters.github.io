@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*In addition to writing novels, Frederick Wicks (1840-1910) owned the* Glasgow Daily News *and invented a printing machine.  Here he involves a number of Dickensian caricatures in an unconventional plot concerned mainly with financial chicanery.  The illustrations, by Romanian artist Jean de Paleologue, are excellent.*
+*In addition to writing novels, Frederick Wicks (1840-1910) owned the* Glasgow Daily News *and invented a printing machine.  Here he involves a number of Dickensian caricatures in an unconventional plot concerned mainly with financial chicanery.  The illustrations, by Romanian artist Jean de Paleologue, are excellent.*
 
-“The plot of it is ingenious and engaging; the characters and the incidents are well under control; the writing . . . is almost brilliant.  Many of the chapters are humorous . . . the pages sparkle with epigrams.” *National Review*, November, 1892
+“The plot of it is ingenious and engaging; the characters and the incidents are well under control; the writing . . . is almost brilliant.  Many of the chapters are humorous . . . the pages sparkle with epigrams.”  *National Review*, November, 1892
 
-“There is a completeness and rotundity in the delineation of the characters which gives them the air of being types of humanity . . . though . . . their dramatic individuality is not sacrificed. . . . It would be difficult to praise the style too highly.” *Athenaeum*, December 17, 1892
+“There is a completeness and rotundity in the delineation of the characters which gives them the air of being types of humanity . . . though . . . their dramatic individuality is not sacrificed. . . .   It would be difficult to praise the style too highly.”  *Athenaeum*, December 17, 1892
 
 ***Download this week’s novel:***
 

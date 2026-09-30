@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*The purpose of this website, like that of all great modern art, is to bring about a radical rethinking of the human condition, of its meaning and purpose, its origin and end.  When refined people see abstract painting or hear atonal music, their very sense of reality is challenged; they come away changed, ennobled, completed.  Of course, there are those, not so refined, who see only smudges and hear only noise.  And so it is with my crosswords. While I interrogate the unstable relationship between signifier and signified, with the aim of leading the refined solver to rethink the very meaning of meaning, there are those who just think, “Oh here’s another stupid pun.” But I do not cross my words for them.*
+*The purpose of this website, like that of all great modern art, is to bring about a radical rethinking of the human condition, of its meaning and purpose, its origin and end.  When refined people see abstract painting or hear atonal music, their very sense of reality is challenged; they come away changed, ennobled, completed.  Of course, there are those, not so refined, who see only smudges and hear only noise.  And so it is with my crosswords.  While I interrogate the unstable relationship between signifier and signified, with the aim of leading the refined solver to rethink the very meaning of meaning, there are those who just think, “Oh here’s another stupid pun.”  But I do not cross my words for them.*
 
 ***
 

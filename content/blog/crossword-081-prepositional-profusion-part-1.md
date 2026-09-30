@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*We approach another summer solstice, and so it’s time for another series.  Last year, as you may fondly recall, I gave you six puzzles called “It’s Magic,” six recommendations of novels by the Trollope family, and six Victorian fairy paintings.  This year (having learned moderation in the meantime), I’ll give you four puzzles called “Prepositional Profusion,” four novels with titles that include the name “Cynthia,” and four paintings featuring the goddess of the moon, alternating with four paintings of women by Sir Francis Grant, President of the Royal Academy, 1866-1878.  Why?  Because I happen to have made four puzzles called “Prepositional Profusion,” and because my beloved wife’s name is Cynthia, and because I like paintings of women by Sir Francis Grant.*
+*We approach another summer solstice, and so it’s time for another series.  Last year, as you may fondly recall, I gave you six puzzles called “It’s Magic,” six recommendations of novels by the Trollope family, and six Victorian fairy paintings.  This year (having learned moderation in the meantime), I’ll give you four puzzles called “Prepositional Profusion,” four novels with titles that include the name “Cynthia,” and four paintings featuring the goddess of the moon, alternating with four paintings of women by Sir Francis Grant, President of the Royal Academy,  1866-1878.  Why?  Because I happen to have made four puzzles called “Prepositional Profusion,” and because my beloved wife’s name is Cynthia, and because I like paintings of women by Sir Francis Grant.*
 
 ***
 

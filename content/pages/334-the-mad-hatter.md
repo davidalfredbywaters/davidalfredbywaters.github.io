@@ -3,7 +3,7 @@ title: "334 The Mad Hatter"
 url: /334-the-mad-hatter
 ---
 
-# Crossword 334: The Mad Hatter {.center}
+#  Crossword 334: The Mad Hatter {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

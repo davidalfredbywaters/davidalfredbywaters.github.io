@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*There’s an odd notion afoot, among some crossword editors and reviewers, and possibly some solvers, that if you do a thing to a letter once in a crossword—delete it, replace it, turn it upside down, whatever—you have to do the same thing to that letter every time it appears, at least in the theme entries, if not in the whole puzzle.  Everywhere and always, but in this series in particular, I proceed in proud disregard of that notion.  If a magician turns her scarf into a parakeet, do you blame her if every scarf in the building, or the world, does not likewise turn into a parakeet?  Wouldn’t you rather it be just the one scarf?*
+*There’s an odd notion afoot, among some crossword editors and reviewers, and possibly some solvers, that if you do a thing to a letter once in a crossword—delete it, replace it, turn it upside down, whatever—you have to do the same thing to that letter every time it appears, at least in the theme entries, if not in the whole puzzle.  Everywhere and always, but in this series in particular, I proceed in proud disregard of that notion.  If a magician turns her scarf into a parakeet, do you blame her if every scarf in the building, or the world, does not likewise turn into a parakeet?  Wouldn’t you rather it be just the one scarf?*
 
 ***
 

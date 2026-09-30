@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Victoria Baker (1838-1913) wrote five novels between 1864 and 1894 under the pseudonym J. Masterman.  This one is a lively treatment of several common Victorian themes.*
+*Victoria Baker (1838-1913) wrote five novels between 1864 and 1894 under the pseudonym J. Masterman.  This one is a lively  treatment of several common Victorian themes.*
 
-“Without being exactly a work of genius, this is a very pleasant, wholesome novel, showing considerable descriptive power, and introducing us to some very agreeable and amiable characters.  The author writes in a fresh, lively style, and his dialogue is singularly crisp and natural. He has a keen sense of humour, and at times is unaffectedly pathetic.” *Illustrated Review*, November, 1871
+“Without being exactly a work of genius, this is a very pleasant, wholesome novel, showing considerable descriptive power, and introducing us to some very agreeable and amiable characters.  The author writes in a fresh, lively style, and his dialogue is singularly crisp and natural. He has a keen sense of humour, and at times is unaffectedly pathetic.”  *Illustrated Review*, November, 1871
 
-“In tracing the quiet annals of this interesting family the reader will find many domestic pictures full of homeliness and beauty.  The characters are drawn with individuality and distinctness, the narrative is easy, and the episodes are life-like and natural.” *Morning Post*, November 20, 1871
+“In tracing the quiet annals of this interesting family the reader will find many domestic pictures full of homeliness and beauty.  The characters are drawn with individuality and distinctness, the narrative is easy, and the episodes are life-like and natural.”  *Morning Post*, November 20, 1871
 
 “*Half-a-Dozen Daughters*  is one of those healthy, natural books which remind one of a breezy day in the country.” *Saturday Review*, December 16, 1871
 

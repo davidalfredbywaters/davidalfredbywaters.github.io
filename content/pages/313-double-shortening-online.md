@@ -3,7 +3,7 @@ title: "313 Double Shortening (online)"
 url: /313-double-shortening-online
 ---
 
-# Crossword 313: Double Shortening {.center}
+#  Crossword 313: Double Shortening {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

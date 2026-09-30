@@ -15,7 +15,7 @@ categories: [Novels]
 
 *Frederic Edward Breton (1864-1902) wrote eight novels between 1893 and his early death, of which this was the third.*
 
-“The book is certainly written with ability, and it is the kind of story to remain in one’s memory.” *Academy*, July 13, 1895
+“The book is certainly written with ability, and it is the kind of story to remain in one’s memory.”  *Academy*, July 13, 1895
 
 “The plot is most uncommon and very cleverly worked out, and the writer never lacks power.” *Saturday Review*, August 24, 1895
 

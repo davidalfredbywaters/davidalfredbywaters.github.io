@@ -3,7 +3,7 @@ title: "309 Literary Interpretation (online)"
 url: /309-literary-interpretation-online
 ---
 
-# Crossword 309: Literary Interpretation {.center}
+#  Crossword 309: Literary Interpretation {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

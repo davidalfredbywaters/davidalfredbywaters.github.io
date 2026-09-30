@@ -8,7 +8,7 @@ url: /blog/2024/7/27/crossword-308-do-not-bend
 
 ***
 
-*Today’s puzzle’s title is of course drawn from the warnings commonly found on packages containing machine-readable documents or frame-worthy prints.  But for me it’s also a motto to live by.  When I’m faced with a dispute, having taken care in advance to place myself beyond all doubt on the right side, I refuse ever to compromise, knowing as I do that any deviation from my side must arise from some fundamentally wrong and probably evil motive in my opponents, dishonestly concealed.  Rather than bend in any direction, I vilify those opponents ever more scurrilously, until either they or I tire of arguing. This may not get anyone anywhere, but it passes the time, and it helps me feel good about myself, which is after all (on the advice of my therapist) the point of most everything I do.*
+*Today’s puzzle’s title is of course drawn from the warnings commonly found on packages containing machine-readable documents or frame-worthy prints.  But for me it’s also a motto to live by.  When I’m faced with a dispute, having taken care in advance to place myself beyond all doubt on the right side, I refuse ever to compromise, knowing as I do that any deviation from my side must arise from some fundamentally wrong and probably evil motive in my opponents, dishonestly concealed.  Rather than bend in any direction, I vilify those opponents ever more scurrilously, until either they or I tire of arguing. This may not get anyone anywhere, but it passes the time, and it helps me feel good about myself, which is after all (on the advice of my therapist) the point of most everything I do.*
 
 ***
 

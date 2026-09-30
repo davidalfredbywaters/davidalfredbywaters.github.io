@@ -15,13 +15,13 @@ categories: [Novels]
 
 “Bright, fresh, and interesting.” *Academy*, September 21, 1889
 
-“A clever and lively novel”; the plot is “highly ingenious.” *Athenaeum*, March 1, 1889
+“A clever and lively novel”; the plot is “highly ingenious.”  *Athenaeum*, March 1, 1889
 
-“A lively story.” *Saturday Review*, July 19, 1889
+“A lively story.”  *Saturday Review*, July 19, 1889
 
 *A contrasting view:*
 
-“If we could hear such a tale, as agreeably told, some leisurely summer afternoon, we would not consider the twenty minutes required to tell it wasted by raconteur or audience.  But this is a printed book, 387 pages long, and there is a great deal we ought to read in this world, and very little time to do it in.” *Hartford Courant*, May 22, 1889
+“If we could hear such a tale, as agreeably told, some leisurely summer afternoon, we would not consider the twenty minutes required to tell it wasted by raconteur or audience.  But this is a printed book, 387 pages long, and there is a great deal we ought to read in this world, and very little time to do it in.” *Hartford Courant*, May 22, 1889
 
 ***Download this fortnight’s novel:***
 

@@ -18,9 +18,9 @@ Sydney Prior Hall, The Maharani of Cooch Behar
 
 *Here is another novel by Croker (see Novels* [*013*](/blog/2018/2/13/novel-013-wb-croker-katherine-the-arrogant-1909)*,* [*0*73](/blog/2019/4/9/novel-073-bithia-mary-croker-pretty-miss-neville-1883), [129](/blog/novel-129-2020/5/5/bithia-mary-croker-a-family-likeness-1892)), *with a good (if somewhat episodic) plot, sharply defined characters, and a vividly realized setting.*
 
-The novel presents “the conditions and circumstances of Anglo-Indian life . . . as well as authors who take themselves more seriously. . . . The best part of the story is the picture of a third rate boarding house.” *Athenaeum*, March 1, 1902
+The novel presents “the conditions and circumstances of Anglo-Indian life . . . as well as authors who take themselves more seriously. . . .  The best part of the story is the picture of a third rate boarding house.” *Athenaeum*, March 1, 1902
 
-“The book is fresh and vivacious; the pictures of Indian life are vivid and convincing.” *Saturday Review*, March 15, 1902
+“The book is fresh and vivacious; the pictures of Indian life are vivid and convincing.”  *Saturday Review*, March 15, 1902
 
 ***Download this week’s novel:***
 

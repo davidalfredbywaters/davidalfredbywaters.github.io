@@ -13,9 +13,9 @@ categories: [Novels]
 
 ***
 
-*Mrs. Henry Chetwynd (née Julie Bosville Davidson) (1828–1901) wrote over a dozen novels, of which this was the first.  The title applies only to the opening situation, after which the plot takes some weirdly abrupt turns.   Several of the characters are striking creations.*
+*Mrs. Henry Chetwynd (née Julie Bosville Davidson) (1828–1901) wrote over a dozen novels, of which this was the first.  The title applies only to the opening situation, after which the plot takes some weirdly abrupt turns.   Several of the characters are striking creations.*
 
-“This is a well-sustained and pleasant story, and the latter part of it abounds in humorous scenes and sketches of character”; the author “has a natural way of relating her story, and she is clever in contriving those little complications which prevent a love-tale from sinking into maudlin sentimentality.” *Athenaeum*, May 26, 1866.
+“This is a well-sustained and pleasant story, and the latter part of it abounds in humorous scenes and sketches of character”; the author “has a natural way of relating her story, and she is clever in contriving those little complications which prevent a love-tale from sinking into maudlin sentimentality.”  *Athenaeum*, May 26, 1866.
 
 ***Download this week’s novel:***
 

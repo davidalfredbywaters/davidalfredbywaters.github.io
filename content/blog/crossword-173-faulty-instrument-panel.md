@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This week I continue my ongoing attempt to render in crossword form the lighter side of all possible human afflictions.  Next week I might try to take the sting out of intake manifold runner control system malfunctions, unless something better occurs to me in the meantime.*
+*This week I continue my ongoing attempt to render in crossword form the lighter side of all possible human afflictions.  Next week I might try to take the sting out of intake manifold runner control system malfunctions, unless something better occurs to me in the meantime.*
 
 ***
 

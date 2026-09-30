@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Is it permissible to alter a certain letter in a crossword theme phrase, and yet allow that letter to remain unaltered elsewhere in that very phrase?  Will it, as I’ve heard more than once, confuse the solver? Maybe so, if the solver is a primitive computer capable of processing only the simplest “if-then” algorithms and immune to humor. I construct my crosswords, however, for genuine, warm-blooded, passionate human beings! I’m not saying that, if you object to what you think is my inconsistency in the matter of theme-answer-letter alteration, you’re not fully human—but it’s a possibility worth considering.*
+*Is it permissible to alter a certain letter in a crossword theme phrase, and yet allow that letter to remain unaltered elsewhere in that very phrase?  Will it, as I’ve heard more than once, confuse the solver?  Maybe so, if the solver is a primitive computer capable of processing only the simplest “if-then” algorithms and immune to humor.  I construct my crosswords, however, for genuine, warm-blooded, passionate human beings!  I’m not saying that, if you object to what you think is my inconsistency in the matter of theme-answer-letter alteration, you’re not fully human—but it’s a possibility worth considering.*
 
 ***
 

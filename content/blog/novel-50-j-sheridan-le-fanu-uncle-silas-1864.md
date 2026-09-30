@@ -15,11 +15,11 @@ categories: [Novels]
 
 *J. Sheridan Le Fanu (1814-1873), an Irish journalist and novelist, wrote some 20 novels beginning in 1845; he specialized in the creation of eerie atmosphere.*
 
-Though sometimes strained and improbable, this novel “is rather to be taken as a highly wrought romance than as a picture of mere every-day life and its issues.  Enough that the novel is well-written, paints some strongly-wrought dream figures, and one or two very well-drawn characters of real substantial life, that it also excites curiosity, and sustains a very strong interest from the beginning to the end."  *Examiner*, December 24, 1864.
+Though sometimes strained and improbable, this novel “is rather to be taken as a highly wrought romance than as a picture of mere every-day life and its issues.  Enough that the novel is well-written, paints some strongly-wrought dream figures, and one or two very well-drawn characters of real substantial life, that it also excites curiosity, and sustains a very strong interest from the beginning to the end."  *Examiner*, December 24, 1864.
 
-“Mr. Le Fanu has the gift of working upon the imagination of his readers, until every description of still life—a room, a picture, a piece of furniture, the entire house—becomes instinct with significance. . . .  The author’s artistic imagination touches every object, however small or apparently insignificant, giving them a meaning like a song without words.” *Athenaeum*, January 7, 1865.
+“Mr. Le Fanu has the gift of working upon the imagination of his readers, until every description of still life—a room, a picture, a piece of furniture, the entire house—becomes instinct with significance. . . .  The author’s artistic imagination touches every object, however small or apparently insignificant, giving them a meaning like a song without words.” *Athenaeum*, January 7, 1865.
 
-La Fanu “is feverishly intent on producing a series of Rembrandt effects. . . . Seen through this ghostly medium, all the characters, from the principals to the merest supernumerary, appear more or less weird or unearthly.”  *Saturday Review*, February 4, 1865.
+La Fanu “is feverishly intent on producing a series of Rembrandt effects. . . .  Seen through this ghostly medium, all the characters, from the principals to the merest supernumerary, appear more or less weird or unearthly.”  *Saturday Review*, February 4, 1865.
 
 ***Download this week's novel:***
 

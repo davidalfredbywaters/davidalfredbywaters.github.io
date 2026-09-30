@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I give you fair warning:  the Downs in this puzzle (at least the themed ones) are all Across.  Now that’s just the kind of startling, long-overdue innovation you’ve come to expect of my puzzles; but, like most wonderful things, it comes at some risk:  if you’re subject to vertigo, you might want to solve the puzzle while lying on your side.*
+*I give you fair warning:  the Downs in this puzzle (at least the themed ones) are all Across.  Now that’s just the kind of startling, long-overdue innovation you’ve come to expect of my puzzles; but, like most wonderful things, it comes at some risk:  if you’re subject to vertigo, you might want to solve the puzzle while lying on your side.*
 
 ***
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Easter—rebirth—fertility—rabbits—eggs—it’s spring! As an antidote, I’ve provided a crossword featuring barrenness, burglary, drunkenness, sorcery, disfigurement, and job loss.  You’re welcome.*
+*Easter—rebirth—fertility—rabbits—eggs—it’s spring! As an antidote, I’ve provided a crossword featuring barrenness, burglary, drunkenness, sorcery, disfigurement, and job loss.  You’re welcome.*
 
 ***
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Everybody in the world seems to be misperceiving everybody else of late, with predictably rageful consequences.  Why should I miss out on the fun?  Here’s my own contribution to the global confusion.*
+*Everybody in the world seems to be misperceiving everybody else of late, with predictably rageful consequences.  Why should I miss out on the fun?  Here’s my own contribution to the global confusion.*
 
 ***
 

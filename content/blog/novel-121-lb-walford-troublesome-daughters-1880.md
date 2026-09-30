@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Here is another fine novel by Walford (see Novels* [*018*](/blog/2018/3/20/novel-018-lb-walford-a-stiff-necked-generation-1889) *and* [066](/blog/2019/2/19/novel-066-lucy-b-walford-the-babys-grandmother-1884)*):  the particularly amusing characters counterbalance the particularly implausible plot (based on an impossible psycho-medical catastrophe* and *an outrageously idiotic lovers’ misunderstanding).*
+*Here is another fine novel by Walford (see Novels* [*018*](/blog/2018/3/20/novel-018-lb-walford-a-stiff-necked-generation-1889) *and* [066](/blog/2019/2/19/novel-066-lucy-b-walford-the-babys-grandmother-1884)*):  the particularly amusing characters counterbalance the particularly implausible plot (based on an impossible psycho-medical catastrophe* and *an outrageously idiotic lovers’ misunderstanding).*
 
-“If the story of ‘Troublesome Daughters’ were at all equal in merit to the author’s delineation of character, the book would be one of the best as well as one of the most charming published of late.” *Athenaeum*, July 24, 1880
+“If the story of ‘Troublesome Daughters’ were at all equal in merit to the author’s delineation of character, the book would be one of the best as well as one of the most charming published of late.”  *Athenaeum*, July 24, 1880
 
-“A fresher, prettier, more unpretentious little story than ‘Troublesome Daughters’ is not to be found, and Mrs. Walford deserves cordial recognition of the growing strength of her hand.” *New York Tribune*, August 1, 1880
+“A fresher, prettier, more unpretentious little story than ‘Troublesome Daughters’ is not to be found, and Mrs. Walford deserves cordial recognition of the growing strength of her hand.”  *New York Tribune*, August 1, 1880
 
 “There is plenty of incident and bright conversation in *Troublesome Daughters*, and the story is interesting enough to bear reading aloud, which in itself is no slight praise.”  *Literary World*, August 28, 1880
 

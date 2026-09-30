@@ -13,13 +13,13 @@ categories: [Novels]
 
 ***
 
-*Margaret Hunt, née Raines (1831-1912), who sometimes wrote as Averil Beaumont, sometimes as Mrs. Alfred Hunt (her husband was a well-known painter) produced about a dozen novels beginning in 1872, the last completed by her daughter Violet, also a novelist, and the consort of Ford Madox Ford, the best known novelist of the three.  This novel, the gripping plot of which begins in domestic comedy and ends in sensationalistic mystery, represents its varied and amusing characters in a brisk style.*
+*Margaret Hunt, née Raines (1831-1912), who sometimes wrote as Averil Beaumont, sometimes as Mrs. Alfred Hunt (her husband was a well-known painter) produced about a dozen novels beginning in 1872, the last completed by her daughter Violet, also a novelist, and the consort of Ford Madox Ford, the best known novelist of the three.  This novel, the gripping plot of which begins in domestic comedy and ends in sensationalistic mystery, represents its varied and amusing characters in a brisk style.*
 
 Despite themes long familiar from “tri-voluminous fiction, the author . . . has managed to produce a fresh, attractive, and decidedly entertaining story.” *Athenaeum*, December 31, 1892
 
-“Mrs. Alfred Hunt is a writer whose narratives go along smoothly enough, and whose persons have the breath of life.”  *Saturday Review*, January 21, 1893
+“Mrs. Alfred Hunt is a writer whose narratives go along smoothly enough, and whose persons have the breath of life.”  *Saturday Review*, January 21, 1893
 
-The heroine’s troubles “are related with a vivacity which goes far to relieve their dismalness. . . . The story is a very good one, with plenty of excitement in the matter of plot, and at least one admirably drawn character.”  *Spectator*, March 25, 1893
+The heroine’s troubles “are related with a vivacity which goes far to relieve their dismalness. . . . The story is a very good one, with plenty of excitement in the matter of plot, and at least one admirably drawn character.”  *Spectator*, March 25, 1893
 
 ***Download this week’s novel:***
 

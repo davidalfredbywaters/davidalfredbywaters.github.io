@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Today’s crossword sets records for this site, in number of entries (80), number of 3-letter entries (39), and number of black squares (54) for a 15 x 15 puzzle.  Maybe you’ll agree that the dazzlingly unusual theme is worth it all.  Maybe you won’t.  In either case, it’s too late to do anything about it now.*
+*Today’s crossword sets records for this site, in number of entries (80), number of 3-letter entries (39), and number of black squares (54) for a 15 x 15 puzzle.  Maybe you’ll agree that the dazzlingly unusual theme is worth it all.  Maybe you won’t.  In either case, it’s too late to do anything about it now.*
 
 ***
 

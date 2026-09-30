@@ -12,7 +12,7 @@ url: /blog/2022/3/15/novel-226-albert-bigelow-paine-the-van-dwellers-1901
 
 ***
 
-*Albert Bigelow Paine (1861-1937) is remembered mainly as Mark Twain's literary executor and biographer.  This brief work is less interesting for its humorous caricatures than for the light it throws on New York apartment living at the end of the 19th century.*
+*Albert Bigelow Paine (1861-1937) is remembered mainly as Mark Twain's literary executor and biographer.  This brief work is less interesting for its humorous caricatures than for the light it throws on New York apartment living at the end of the 19th century.*
 
 “It seems . . . real to those who have had any experience in this line.” *Detroit Free Press,* October 14, 1901
 

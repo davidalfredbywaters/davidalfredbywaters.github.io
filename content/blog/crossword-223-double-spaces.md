@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I feel sad for the double space, the typographical equivalent of the horse-drawn carriage, of the dial telephone, of the compact disc, of the former planet Pluto, once so very important to anyone who cared about transportation, or telephones, or music, or planets, and now in a fair way of being utterly forgotten.  So here’s a tribute, for those who remember how, in a world of fixed-width type, the double space used to follow humbly but honestly after the period, the question mark, and the exclamation point.*
+*I feel sad for the double space, the typographical equivalent of the horse-drawn carriage, of the dial telephone, of the compact disc, of the former planet Pluto, once so very important to anyone who cared about transportation, or telephones, or music, or planets, and now in a fair way of being utterly forgotten.  So here’s a tribute, for those who remember how, in a world of fixed-width type, the double space used to follow humbly but honestly after the period, the question mark, and the exclamation point.*
 
 ***
 

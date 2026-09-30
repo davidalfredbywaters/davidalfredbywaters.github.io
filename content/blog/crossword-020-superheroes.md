@@ -9,12 +9,12 @@ categories: [Crosswords]
 
 ***
 
-Lord Frederic Leighton, The Last Watch of Hero
+Lord Frederic Leighton, The Last Watch of Hero
 {.center}
 
 ***
 
-*There are few areas of popular culture I know less about than superhero comic strips and the movies based on them.  In this I must be unusual, for they seem to come up frequently in crosswords, especially those in the* New York Times*.  “Thor” is not just a Norse god but, apparently, a superhero.  “Atom” is a diminutive superhero, “green” is superhero “ ___ Lantern”; “iron” is superhero “___ man.”   Anyway, this puzzle is my little act of protest.  It’s filled with superheroes of my own making, the sort of superheroes I’d like to read about.  22 Across, in particular, is the sort of superhero we need right now.*
+*There are few areas of popular culture I know less about than superhero comic strips and the movies based on them.  In this I must be unusual, for they seem to come up frequently in crosswords, especially those in the* New York Times*.  “Thor” is not just a Norse god but, apparently, a superhero.  “Atom” is a diminutive superhero, “green” is superhero “ ___ Lantern”; “iron” is superhero “___ man.”   Anyway, this puzzle is my little act of protest.  It’s filled with superheroes of my own making, the sort of superheroes I’d like to read about.  22 Across, in particular, is the sort of superhero we need right now.*
 
 ***Download this week's crossword:***
 

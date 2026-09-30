@@ -17,7 +17,7 @@ categories: [Novels]
 
 “A well-conceived, well-wrought-out story, which has an air of human truth and reality about it which novels do not often possess.” *Athenaeum*, March 17, 1860.
 
-“A thoroughly good novel” distinguished by “its downright reality”; practical scientists in charge of factories are brought “living before us, in very flesh and blood, not a blotch or stain overlooked.” *Spectator*, March 31, 1860
+“A thoroughly good novel” distinguished by “its downright reality”; practical scientists in charge of factories are brought “living before us, in very flesh and blood, not a blotch or stain overlooked.”  *Spectator*, March 31, 1860
 
 ***Download this week’s novel:***
 

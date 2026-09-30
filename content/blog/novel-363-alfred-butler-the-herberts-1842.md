@@ -17,11 +17,11 @@ categories: [Novels]
 
 “A novel of thought, as well as feeling and observation.” *Athenaeum*, April 16, 1842
 
-It has “power which is often sarcastic, observation that is keen and close, and feeling that is healthy and deserving of imitation.  There is, indeed, much mind in the novel, and much clever writing.” *Monthly Review*, May, 1842
+It has “power which is often sarcastic, observation that is keen and close, and feeling that is healthy and deserving of imitation.  There is, indeed, much mind in the novel, and much clever writing.”  *Monthly Review*, May, 1842
 
 *A (somewhat) dissenting opinion:*
 
-“As a fiction. . . . the *Herberts* is a sort of failure, in despite of several scenes of power and interest, some ludicrous ability in the author, together with sufficient metaphysical skill, and a mind endowed with the quality of speculative thought. But the writer's nature is rather critical than creative: his forte is analysis, not synthesis. He can deduce the truth from an actuality, but he cannot reproduce the real; there is little knowledge of life exhibited in his book, and consequently no living character”; but “the book abounds in shrewd remarks.” *Spectator*, September 13, 1842
+“As a fiction. . . . the *Herberts* is a sort of failure, in despite of several scenes of power and interest, some ludicrous ability in the author, together with sufficient metaphysical skill, and a mind endowed with the quality of speculative thought. But the writer's nature is rather critical than creative: his forte is analysis, not synthesis. He can deduce the truth from an actuality, but he cannot reproduce the real; there is little knowledge of life exhibited in his book, and consequently no living character”; but “the book abounds in shrewd remarks.”  *Spectator*, September 13, 1842
 
 ***Download this fortnight’s novel:***
 

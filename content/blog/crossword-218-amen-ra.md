@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This was going to begin a series of puzzles featuring the major Egyptian deities, but nobody understood the other one I made, “Isis,” an experimental crossword in which “is” just is—that is, in which phrases containing the word “is” continue to contain the word “is” and so are not altered in any way. It was to be the crossword equivalent of Marcel Duchamp’s urinal, or John Cage’s 4'33''. Oh well, it will remain among my unpublished works, to be appreciated when posterity has at last begun to make up for the incomprehension of my contemporaries.*
+*This was going to begin a series of puzzles featuring the major Egyptian deities, but nobody understood the other one I made, “Isis,” an experimental crossword in which “is” just is—that is, in which phrases containing the word “is” continue to contain the word “is” and so are not altered in any way.  It was to be the crossword equivalent of Marcel Duchamp’s urinal, or John Cage’s 4'33''.  Oh well, it will remain among my unpublished works, to be appreciated when posterity has at last begun to make up for the incomprehension of my contemporaries.*
 
 ***
 

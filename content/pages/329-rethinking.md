@@ -3,7 +3,7 @@ title: "329 Rethinking"
 url: /329-rethinking
 ---
 
-# Crossword 329: Rethinking {.center}
+#  Crossword 329: Rethinking {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

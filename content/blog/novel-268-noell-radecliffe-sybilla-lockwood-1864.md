@@ -17,11 +17,11 @@ categories: [Novels]
 
 “The people in *Sybilla Lockwood* are more like . . . ‘humans’ than people in stories usually are.” *Saturday Review*, July 30, 1864
 
-“The novel is a very extraordinary one.  The subject is . . . adultery. . . . We cannot think ‘Sybilla Lockwood’ at all fitted for general reading. . . .Otherwise the execution, though not brilliant, is singularly faultless.  The motives and the conduct of the different characters bear a rational relation to each other.” *Spectator*, August 13, 1864
+“The novel is a very extraordinary one.  The subject is . . . adultery. . . . We cannot think ‘Sybilla Lockwood’ at all fitted for general reading. . . .Otherwise the execution, though not brilliant, is singularly faultless.  The motives and the conduct of the different characters bear a rational relation to each other.”  *Spectator*, August 13, 1864
 
 *A contrasting view:*
 
-“There is not in ‘Sybilla Lockwood’ sufficient weight of interest to carry the reader through the private affairs of the numerous characters. . . .  The novel is badly constructed, being merely a bundle of personal histories, with no plot or story to bind them together.” *Athenaeum*, September 10, 1864
+“There is not in ‘Sybilla Lockwood’ sufficient weight of interest to carry the reader through the private affairs of the numerous characters. . . .  The novel is badly constructed, being merely a bundle of personal histories, with no plot or story to bind them together.” *Athenaeum*, September 10, 1864
 
 ***Download this fortnight’s novel:***
 

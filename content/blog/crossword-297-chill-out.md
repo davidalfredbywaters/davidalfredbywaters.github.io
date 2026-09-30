@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*That’s right, relax!  Take it easy!  Keep your shirt on!  Cool off!  Kick back!  Lighten up!  Simmer down!  We’re just crossin’ some words and keepin’ it real!  God forbid anyone should suppose that, because of our proclivity for making complex linguistic structures, we mean thereby to pretend to some off-putting level of literary or intellectual proficiency. We’re just chillin’.*
+*That’s right, relax!  Take it easy!  Keep your shirt on!  Cool off!  Kick back!  Lighten up!  Simmer down!  We’re just crossin’ some words and keepin’ it real!  God forbid anyone should suppose that, because of our proclivity for making complex linguistic structures, we mean thereby to pretend to some off-putting level of literary or intellectual proficiency.  We’re just chillin’.*
 
 ***
 

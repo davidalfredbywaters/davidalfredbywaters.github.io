@@ -15,13 +15,13 @@ categories: [Novels]
 
 *Alexander James Beresford-Hope (1820-1887), a well-known politician and patron of architecture, took up novel writing late in life, producing this and its sequel (*The Brandreths*) a couple of years later. His spirited delineation of his hapless characters is entertaining, if a little ruthless.*
 
-“The author . . . loves to look on the lively side of things, and his novel may be described as a comedy of life and character.  All his personages are more or less conspicuous by some eccentricity, foible, or amiable weakness; his incidents and complications are generally humorous, and the drollery is brought to a climax in the *dénouement*.” *Saturday Review*, October 16, 1880
+“The author . . . loves to look on the lively side of things, and his novel may be described as a comedy of life and character.  All his personages are more or less conspicuous by some eccentricity, foible, or amiable weakness; his incidents and complications are generally humorous, and the drollery is brought to a climax in the *dénouement*.” *Saturday Review*, October 16, 1880
 
 “Thoroughly and in every sense a novel, conceived in a light and happy vein, and scarcely even demanding a serious thought from beginning to end.” *Athenaeum*, October 23, 1880
 
 *A contrasting view:*
 
-It is “lively enough as regards some passages” but “there is not a single character capable of creating a genuine interest in the mind of the reader. . . . It seemed somewhat coarse all through, and left a nasty taste in the mouth.” *Academy*, November 20, 1880
+It is “lively enough as regards some passages” but “there is not a single character capable of creating a genuine interest in the mind of the reader. . . .  It seemed somewhat coarse all through, and left a nasty taste in the mouth.”  *Academy*, November 20, 1880
 
 ***Download this week’s novel:***
 

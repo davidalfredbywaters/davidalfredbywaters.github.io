@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*What did the aging man use to hide his bald spot? A replacement part! Get it? With the clue “comb-over consequence?” I’m going to put that phrase in a funny hairstyles-themed crossword, as soon as I think up three more funny-hairstyle puns of symmetrical length. Meanwhile the phrase will do, in the plural, as a title for today’s puzzle.*
+*What did the aging man use to hide his bald spot?  A replacement part!  Get it?  With the clue “comb-over consequence?” I’m going to put that phrase in a funny hairstyles-themed crossword,  as soon as I think up three more funny-hairstyle puns of symmetrical length.  Meanwhile the phrase will do, in the plural, as a title for today’s puzzle.*
 
 ***
 

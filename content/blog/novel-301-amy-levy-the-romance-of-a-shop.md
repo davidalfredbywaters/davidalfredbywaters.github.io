@@ -13,7 +13,7 @@ categories: [Novels]
 
 ***
 
-*Amy Levy (1861-1889) wrote only three novels before her early death by suicide.  This level-headed, good-natured account of four young women’s struggle against adversity would not lead one to expect such a fate for its author.*
+*Amy Levy (1861-1889) wrote only three novels before her early death by suicide.  This level-headed, good-natured account of four young women’s struggle against adversity would not lead one to expect such a fate for its author.*
 
 *“*Miss Levy’s story is bright and fresh; there is a dash of originality in the idea and plenty of spirit in its execution”; it is “told with both humour and pathos.” *Athenaeum*, October 27, 1888
 

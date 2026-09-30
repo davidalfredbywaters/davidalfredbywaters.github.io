@@ -3,7 +3,7 @@ title: "360 Pay to Play"
 url: /360-pay-to-play
 ---
 
-# Crossword 360: Pay to Play {.center}
+#  Crossword 360: Pay to Play {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

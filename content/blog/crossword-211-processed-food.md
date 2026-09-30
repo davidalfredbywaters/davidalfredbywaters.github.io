@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Some weeks ago (see* [Crossword 193](/blog/2021/7/31/crossword-193-identity-crisis)*) I was boasting of the wholesome food consumed by the skilled artisans here at David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender.  This week, I’m afraid some of it got tangled up in the crossword-making machinery.  We salvaged what we could.*
+*Some weeks ago (see* [Crossword 193](/blog/2021/7/31/crossword-193-identity-crisis)*) I was boasting of the wholesome food consumed by the skilled artisans here at David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender.  This week, I’m afraid some of it got tangled up in the crossword-making machinery.  We salvaged what we could.*
 
 ***
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*The 70’s!  Are you nostalgic for leisure suits? Pet rocks? Beanbag chairs? Disco dancing?  Are you nostalgic for a time when bad presidents had to resign, and Covid-19 was unknown? Sorry; the title is just a pun.  It’s 2020. Let us sob and solve together.*
+*The 70’s!  Are you nostalgic for leisure suits? Pet rocks? Beanbag chairs? Disco dancing?  Are you nostalgic for a time when bad presidents had to resign, and Covid-19 was unknown? Sorry; the title is just a pun.  It’s 2020.  Let us sob and solve together.*
 
 ***
 
@@ -21,6 +21,6 @@ categories: [Crosswords]
 
 ***Solve this week’s crossword online:***
 
-[123 The Seventies](/123-the-seventies-online)﻿
+[123 The Seventies](/123-the-seventies-online)﻿<br>
 
 ![](/images/Pointing-Hand-55.png)

@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*“Oh goodness infinite, goodness immense!,/That all this good of evil shall produce,/And evil turn to good!” you will exclaim, “replete with joy and wonder,” after you finish this puzzle.  (See John Milton,* Paradise Lost*, XII.468-71)*
+*“Oh goodness infinite, goodness immense!,/That all this good of evil shall produce,/And evil turn to good!” you will exclaim, “replete with joy and wonder,” after you finish this puzzle.  (See John Milton,* Paradise Lost*, XII.468-71)*
 
-*We owe 32 Across to my test-solver, proofreader, and sometime editor “Bob Kerfuffle,” who has also spared me the embarrassment and you the annoyance of many errors of all kinds.  He will not permit me to use his real name, preferring to “do good by stealth.” (See Alexander Pope,* Epilogue to the Satires of Horace*, Dialogue I, l.136)*
+*We owe 32 Across to my test-solver, proofreader, and sometime editor “Bob Kerfuffle,” who has also spared me the embarrassment and you the annoyance of many errors of all kinds.  He will not permit me to use his real name, preferring to “do good by stealth.” (See Alexander Pope,* Epilogue to the Satires of Horace*, Dialogue I, l.136)*
 
 ***
 

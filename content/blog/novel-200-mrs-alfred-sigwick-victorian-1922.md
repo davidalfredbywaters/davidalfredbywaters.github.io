@@ -15,7 +15,7 @@ categories: [Novels]
 
 *Here is another novel by Sidgwick (see Novels* [*082*](/blog/2019/6/11/novel-082-mrs-alfred-sidgwick-cynthias-way)*,* [*142*](/blog/2020/8/4/novel-142-mrs-alfred-sidgwick-the-inner-shrine-1900)*). It was not actually published during the Victorian period, but it is named for it—and it looks back on it with a sort of ambivalent nostalgia.*
 
-“Mrs. Alfred Sidgwick introduces one to a world in which there are always a number of delightful people, and ‘Victorian’ . . . is no exception.” *The Queenslander*, July 15, 1922
+“Mrs. Alfred Sidgwick introduces one to a world in which there are always a number of delightful people, and ‘Victorian’ . . . is no exception.”  *The Queenslander*, July 15, 1922
 
 Download this week’s novel:
 

@@ -3,7 +3,7 @@ title: "299 Six-Pack (online)"
 url: /299-sixpack-online
 ---
 
-# Crossword 299: Six-Pack {.center}
+#  Crossword 299: Six-Pack {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

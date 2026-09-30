@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I confess that when I applied the title “Teaser Rates” to this puzzle, I wasn’t sure exactly of the phrase’s meaning.  Was it a sibling-behavior phenomenon studied by child psychologists?  Was it a metric for hair salon workers whose compensation is based in part on the size of their tonsorial creations?  It turns out that, like the title of* [*Crossword 144*](/blog/2020/8/22/crossword-144-last-in-first-out)*, it’s just another dubious financial practice.  So it sounds more fun than it is—like so many things in life. But not like this puzzle!*
+*I confess that when I applied the title “Teaser Rates” to this puzzle, I wasn’t sure exactly of the phrase’s meaning.  Was it a sibling-behavior phenomenon studied by child psychologists?  Was it a metric for hair salon workers whose compensation is based in part on the size of their tonsorial creations?  It turns out that, like the title of* [*Crossword 144*](/blog/2020/8/22/crossword-144-last-in-first-out)*, it’s just another dubious financial practice.  So it sounds more fun than it is—like so many things in life.  But not like this puzzle!*
 
 ***
 

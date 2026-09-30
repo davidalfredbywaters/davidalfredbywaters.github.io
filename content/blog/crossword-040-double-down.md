@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I try, as much as possible (given my other aims) to avoid product names in my crosswords, because I want my crosswords to continue to provide enjoyment centuries hence, when all those products will be forgotten.   And I especially dislike “fashion labels,” which encourage us to act from combined motives of  personal vanity, financial recklessness, and mindless herd conformity.  When this puzzle, however, insisted on one designer-label name, I figured I might as well “double down.”  Solvers of the future will infer them from the crossings.*
+*I try, as much as possible (given my other aims) to avoid product names in my crosswords, because I want my crosswords to continue to provide enjoyment centuries hence, when all those products will be forgotten.   And I especially dislike “fashion labels,” which encourage us to act from combined motives of  personal vanity, financial recklessness, and mindless herd conformity.  When this puzzle, however, insisted on one designer-label name, I figured I might as well “double down.”  Solvers of the future will infer them from the crossings.*
 
 ***
 

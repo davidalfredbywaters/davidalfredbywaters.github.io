@@ -3,7 +3,7 @@ title: "333 Shrift"
 url: /333-shrift
 ---
 
-# Crossword 333: Shrift {.center}
+#  Crossword 333: Shrift {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

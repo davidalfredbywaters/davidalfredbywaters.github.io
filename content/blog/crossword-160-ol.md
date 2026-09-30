@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Have no fear:  this puzzle has nothing to do with bullfighting, or soccer, or anything that requires you to watch people kill animals or run around on a rectangular surface.  I put an accent over the "e" just for the look of the thing.*
+*Have no fear:  this puzzle has nothing to do with bullfighting, or soccer, or anything that requires you to watch people kill animals or run around on a rectangular surface.  I put an accent over the "e" just for the look of the thing.*
 
 ***
 

@@ -15,9 +15,9 @@ categories: [Novels]
 
 *Charles Hamilton Aïdé (1826-1906) wrote some 17 novels between 1858 and 1901, most of them, like this one, social comedies in genteel settings.*
 
-“A bright, readable tale, written in excellent English, and containing plenty of clever dialogue.” *Athenaeum*, March 15, 1884
+“A bright, readable tale, written in excellent English, and containing plenty of clever dialogue.”  *Athenaeum*, March 15, 1884
 
-“In all Mr. Hamilton Aïdé’s novels, good-taste and moderation are as conspicuous as knowledge of the world, and a certain subdued romance which is a pleasant corrective of the pessimism that ‘Society’ novels must reveal unless they are utterly vulgar. . . . Some scenes in this too brief story have genuine beauty, others are humorous and caustic, and the whole story is good.” *Spectator*, April 5, 1884
+“In all Mr. Hamilton Aïdé’s novels, good-taste and moderation are as conspicuous as knowledge of the world, and a certain subdued romance which is a pleasant corrective of the pessimism that ‘Society’ novels must reveal unless they are utterly vulgar. . . .  Some scenes in this too brief story have genuine beauty, others are humorous and caustic, and the whole story is good.”  *Spectator*, April 5, 1884
 
 ***Download this week’s novel:***
 

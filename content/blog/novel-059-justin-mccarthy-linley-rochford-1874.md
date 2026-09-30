@@ -13,13 +13,13 @@ categories: [Novels]
 
 ***
 
-*Justin McCarthy (1830-1912), an important Irish politician as well as a journalist and novelist, published some 25 works of fiction between 1866 and 1901.  The contrast here between the attitudes of the husband and wife towards life and each other is particularly well delineated.*
+*Justin McCarthy (1830-1912), an important Irish politician as well as a journalist and novelist, published some 25 works of fiction between 1866 and 1901.  The contrast here between the attitudes of the husband and wife towards life and each other is particularly well delineated.*
 
 “Mr. McCarthy’s language is correct and well chosen: the events of his story bear each its due and proportionate share in working it out; his scene is not over-crowded with characters, and those whom he introduces are reasonable, probable, and consistent with themselves.” *Athenaeum*, October 10, 1874
 
 “Besides their general truthfulness to nature, there is mostly to be discovered playing round the several characters that lambent flame of humour which is serviceable in lighting up particular traits and idiosyncracies, and setting them clearly in the reader’s eye.” *Examiner*, October 17, 1874
 
-“A close observer and excellent delineator of character, Mr. McCarthy contrives to combine in his portraits reality and originality, and while he does not disdain to mention trifling incidents and minute but distinctive traits, he never wearies by prolixity.” *Morning Post*, October 22, 1874
+“A close observer and excellent delineator of character, Mr. McCarthy contrives to combine in his portraits reality and originality, and while he does not disdain to mention trifling incidents and minute but distinctive traits, he never wearies by prolixity.”  *Morning Post*, October 22, 1874
 
 ***Download this week’s novel:***
 

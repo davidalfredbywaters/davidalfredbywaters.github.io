@@ -17,7 +17,7 @@ categories: [Novels]
 
 “There is a pathetic charm in Miss Black’s stories which must compel the sympathy of her readers”; this is “distinctly a clever, wholesome, and affecting romance.” Athenaeum, January 17, 1880
 
-“We can . . . speak well of *Orlando*, and, but for certain *longueurs* in it, we could speak very well. . . .  There is some freshness about most of the characters. . . .  The book is rather one of those which one reads with a pleasant and equable feeling of satisfaction than one of those which deserve the terms ‘enthralling,’ ‘entrancing,’ ‘engrossing,’ or any other of the usual laudatory participles.  But of its kind it is very far from unsuccessful.” *Academy*, January 24, 1880
+“We can . . . speak well of *Orlando*, and, but for certain *longueurs* in it, we could speak very well. . . .  There is some freshness about most of the characters. . . .  The book is rather one of those which one reads with a pleasant and equable feeling of satisfaction than one of those which deserve the terms ‘enthralling,’ ‘entrancing,’ ‘engrossing,’ or any other of the usual laudatory participles.  But of its kind it is very far from unsuccessful.”  *Academy*, January 24, 1880
 
 “Miss Black has woven an interesting and touching story out of simple and natural materials.” *Saturday Review*, April 10, 1880
 

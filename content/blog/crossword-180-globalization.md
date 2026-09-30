@@ -8,7 +8,7 @@ url: /blog/2021/5/1/crossword-180-globalization
 
 ***
 
-*For me, crosswords aren’t about wordplay, enigmas, and such contemptible stuff, they’re about making the world a better place.  Here’s a puzzle that not only mentions good things (many other constructors justly praise themselves and each other for that), it actively promotes cultural exchange, global understanding, world peace, united human progress towards a brighter future!  Solve it and become a better person!*
+*For me, crosswords aren’t about wordplay, enigmas, and such contemptible stuff, they’re about making the world a better place.  Here’s a puzzle that not only mentions good things (many other constructors justly praise themselves and each other for that), it actively promotes cultural exchange, global understanding, world peace, united human progress towards a brighter future!  Solve it and become a better person!*
 
 ***
 

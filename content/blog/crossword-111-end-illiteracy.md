@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*In the scary world of the future, when everything is done by video, will literacy be necessary, or even useful?  And what then will become of the Victorian novel recommendation?  And what then will become of the crossword puzzle?  Well, let’s enjoy them while we can.*
+*In the scary world of the future, when everything is done by video, will literacy be necessary, or even useful?  And what then will become of the Victorian novel recommendation?  And what then will become of the crossword puzzle?  Well, let’s enjoy them while we can.*
 
 ***
 

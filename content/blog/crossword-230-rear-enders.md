@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Rear ends have always been funny (see Chaucer’s “Miller’s Tale” for an early example in English), but rear-enders haven’t—until now!  This week’s puzzle is one more installment in my effort to make everything funny.  Next week: mildew!*
+*Rear ends have always been funny (see Chaucer’s “Miller’s Tale” for an early example in English), but rear-enders haven’t—until now!  This week’s puzzle is one more installment in my effort to make everything funny.  Next week: mildew!*
 
 ***
 
@@ -21,6 +21,7 @@ categories: [Crosswords]
 
 ***Solve this week’s crossword online:***
 
-[230 Rear-Enders](/230-rearenders-online)
+[230 Rear-Enders](/230-rearenders-online)<br>
+<br>
 
 ![](/images/Pointing-Hand-66.png)

@@ -3,7 +3,7 @@ title: "324 Fashion Shoots"
 url: /324-fashion-shoots
 ---
 
-# Crossword 325: Fashion Shoots {.center}
+#  Crossword 325: Fashion Shoots {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*We like to keep up with the fashions here at David Alfred Bywaters’s Crossword Cavalcade and Fortnightly Victorian Novel Recommender.  When people started wearing their hats backwards, we wore our hats backwards.  And then when people started wearing them forwards again, so did we.  This helps us feel like we’re a part of something bigger and stronger than our sad individual selves crawling around a comfortless world pointlessly and alone. Have you seen our new polo shirts?*
+*We like to keep up with the fashions here at David Alfred Bywaters’s Crossword Cavalcade and Fortnightly Victorian Novel Recommender.  When people started wearing their hats backwards, we wore our hats backwards.  And then when people started wearing them forwards again, so did we.  This helps us feel like we’re a part of something bigger and stronger than our sad individual selves crawling around a comfortless world pointlessly and alone. Have you seen our new polo shirts?*
 
 ***
 

@@ -3,7 +3,7 @@ title: "350 Practice Phrases for the Aspirational"
 url: /350-practice-phrases-for-the-aspirational
 ---
 
-# Crossword 350: Practice Phrases for the Aspirational {.center}
+#  Crossword 350: Practice Phrases for the Aspirational {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

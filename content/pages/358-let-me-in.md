@@ -3,7 +3,7 @@ title: "358 Let Me In"
 url: /358-let-me-in
 ---
 
-# Crossword 358: Let Me In {.center}
+#  Crossword 358: Let Me In {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

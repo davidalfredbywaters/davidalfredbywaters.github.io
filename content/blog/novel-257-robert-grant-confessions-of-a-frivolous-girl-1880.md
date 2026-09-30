@@ -13,15 +13,15 @@ categories: [Novels]
 
 ***
 
-*Robert Grant (1852-1940) wrote some fifteen novels, of which the last appeared in 1931.  This was his first, a light-hearted representation of the sad quandaries facing a fashionable young woman of the period.*
+*Robert Grant (1852-1940) wrote some fifteen novels, of which the last appeared in 1931.  This was his first, a light-hearted representation of the sad quandaries facing a fashionable young woman of the period.*
 
-“Mr. Grant writes without affectation, and appears to know New York society well; his book is decidedly attractive and lively.” *Athenaeum*, October 29, 1881
+“Mr. Grant writes without affectation, and appears to know New York society well; his book is decidedly attractive and lively.”  *Athenaeum*, October 29, 1881
 
-“The naïve account which the young lady gives of her triumphs is exceedingly amusing. . . . Very lifelike and amusing are her incidental sketches of the four gentlemen who specially honour her by their preference.” *Spectator*, November 5, 1881
+“The naïve account which the young lady gives of her triumphs is exceedingly amusing. . . .  Very lifelike and amusing are her incidental sketches of the four gentlemen who specially honour her by their preference.”  *Spectator*, November 5, 1881
 
 *A contrasting view:*
 
-“It is a long time since we met with a book—if, indeed, this is not entirely by itself—which credited our fair American cousins with so much vulgarity and so many little petty intrigues.” *Academy*, February 26, 1881
+“It is a long time since we met with a book—if, indeed, this is not entirely by itself—which credited our fair American cousins with so much vulgarity and so many little petty intrigues.”  *Academy*, February 26, 1881
 
 ***Download this week’s novel:***
 

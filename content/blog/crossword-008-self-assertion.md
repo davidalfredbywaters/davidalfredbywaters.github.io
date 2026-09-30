@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Last week’s humility didn’t last.  But as crossword favorite Lao-Tse says somewhere (or was it Lao-Tzu?), true humility is proven by nothing so clearly as unmerited and unshakable self-regard.*
+*Last week’s humility didn’t last.  But as crossword favorite Lao-Tse says somewhere (or was it Lao-Tzu?), true humility is proven by nothing so clearly as unmerited and unshakable self-regard.*
 
 ***
 

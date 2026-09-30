@@ -3,7 +3,7 @@ title: "305b Deist (online)"
 url: /305b-deist-online
 ---
 
-# Crossword 305b: Deist {.center}
+#  Crossword 305b: Deist {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*My late foray into gritty realism seems not to have paid off:  ad revenue is flat (at $0.00), circulation has not increased—and in fact I’ve decided to abandon the whole idea and return to my old sunshiny ways.  So in today’s puzzle I turn again to my longstanding goal of bringing peace to a troubled world.*
+*My late foray into gritty realism seems not to have paid off:  ad revenue is flat (at $0.00), circulation has not increased—and in fact I’ve decided to abandon the whole idea and return to my old sunshiny ways.  So in today’s puzzle I turn again to my longstanding goal of bringing peace to a troubled world.*
 
 ***
 

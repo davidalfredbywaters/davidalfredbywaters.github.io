@@ -3,7 +3,7 @@ title: "343 Dealing with Affronts"
 url: /343-dealing-with-affronts
 ---
 
-# Crossword 343: Dealing with Affronts {.center}
+#  Crossword 343: Dealing with Affronts {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

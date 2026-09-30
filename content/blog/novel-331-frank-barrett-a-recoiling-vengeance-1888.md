@@ -15,9 +15,9 @@ categories: [Novels]
 
 *Frank Barrett (1845-1926) wrote some 40 novels in a variety of subgenres between 1874 and 1914; this one has a particularly engaging narrator.*
 
-“A very pretty, natural, and refreshing story is *A Recoiling Vengeance*, although a slight and artless one. . . . in its clearness and brightness it reminds us a little of the manner of Anthony Trollope.” *Saturday Review*, September 8, 1888
+“A very pretty, natural, and refreshing story is *A Recoiling Vengeance*, although a slight and artless one. . . .  in its clearness and brightness it reminds us a little of the manner of Anthony Trollope.”  *Saturday Review*, September 8, 1888
 
-Barrett has “a style which has ease and freedom, and at the same time a certain grace and restraint. . . . It is a bright, taking story, rendered all the more attractive by a vein of very pleasant humour which runs through it.” *Spectator*, September 29, 1888
+Barrett has “a style which has ease and freedom, and at the same time a certain grace and restraint. . . .  It is a bright, taking story, rendered all the more attractive by a vein of very pleasant humour which runs through it.”  *Spectator*, September 29, 1888
 
 ***Download this fortnight’s novel:***
 

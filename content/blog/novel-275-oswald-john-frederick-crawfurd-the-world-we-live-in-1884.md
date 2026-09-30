@@ -17,7 +17,7 @@ categories: [Novels]
 
 “A very good story, told with skill, taste, and what in music is called *brio*. . . . The talk is excellent, various, natural . . . ; characteristic, so that we know the talkers, and make mental portraits of them.” *Spectator*, July 5, 1884
 
-“A capital novel.  It is lively and sparkling throughout, and one can only regret that it is so short.” *Athenaeum*, July 5, 1884
+“A capital novel.  It is lively and sparkling throughout, and one can only regret that it is so short.” *Athenaeum*,  July 5, 1884
 
 ***Download this fortnight’s novel:***
 

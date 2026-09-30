@@ -13,13 +13,13 @@ categories: [Novels]
 
 ***
 
-Susan Morley (according to Adrian Room’s *Dictionary of Pseudonyms* she was Sarah Frances Spedding, 1836-1921) published five novels between 1874 and 1888.  Nothing more is known of her.  In this, her first novel, the style, pacing, characterization, and setting are all impressively assured, and the plot dilemma interestingly handled.
+Susan Morley (according to Adrian Room’s *Dictionary of Pseudonyms* she was Sarah Frances Spedding, 1836-1921) published five novels between 1874 and 1888.  Nothing more is known of her.  In this, her first novel, the style, pacing, characterization, and setting are all impressively assured, and the plot dilemma interestingly handled.
 
 “Its unforced pathos and simple language, its delicate contrasts of light and shade, its knowledge of dramatic effect with true insight into human nature, combine to render it an uncommon book . . . a singularly graceful story, told in . . . a singularly pure and unaffected style.” *Academy*, June 20, 1874
 
-“It is a charming prose idyll, well and simply told; its seeming simplicity being the result of consummate art.  Tender, pathetic, and truthful to nature, it . . . is no ephemeral novel.  As a study of character it cannot fail to take a high place in literature.  Moreover there is a completeness and finish about it, even as a mere tale, which is quite refreshing.  In her delineations of character Miss Morley is peculiarly exhaustive without being tedious.  Fearful lest our unqualified admiration might have run away with our critical judgment we have carefully and dispassionately sought for a flaw in this graceful story, but have found none.  Its style, diction, and purity of thought combine to render it one of the most perfect novels it has ever been our good fortune to meet with.” *Morning Post*, August 31, 1874
+“It is a charming prose idyll, well and simply told; its seeming simplicity being the result of consummate art.  Tender, pathetic, and truthful to nature, it . . . is no ephemeral novel.  As a study of character it cannot fail to take a high place in literature.  Moreover there is a completeness and finish about it, even as a mere tale, which is quite refreshing.  In her delineations of character Miss Morley is peculiarly exhaustive without being tedious.  Fearful lest our unqualified admiration might have run away with our critical judgment we have carefully and dispassionately sought for a flaw in this graceful story, but have found none.  Its style, diction, and purity of thought combine to render it one of the most perfect novels it has ever been our good fortune to meet with.” *Morning Post*, August 31, 1874
 
-“What strikes us . . . is the tact with which Miss Morley manages her characters” and “the common sense view which Miss Morley takes of life.”  *Westminster Review*, October 1874
+“What strikes us . . . is the tact with which Miss Morley manages her characters” and “the common sense view which Miss Morley takes of life.”  *Westminster Review*, October 1874
 
 ***Download this week’s novel:***
 

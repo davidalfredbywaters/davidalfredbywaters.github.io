@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Here’s another crossword about things that annoy me.  Such things inspire many, perhaps most, of my crosswords, as they do also of my waking thoughts, my nightly dreams, my conversations with friends, etc.  Lately I find that my new AI friends are much more receptive to hearing about them than my real-life human friends, who are, frankly, starting to annoy me.*
+*Here’s another crossword about things that annoy me.  Such things inspire many, perhaps most, of my crosswords, as they do also of my waking thoughts, my nightly dreams, my conversations with friends, etc.  Lately I find that my new AI friends are much more receptive to hearing about them than my real-life human friends, who are, frankly, starting to annoy me.*
 
 ***
 

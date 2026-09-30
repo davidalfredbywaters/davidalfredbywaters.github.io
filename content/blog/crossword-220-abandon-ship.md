@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*The inspiration for this puzzle, at 17 Across, was an actual true-life experience that really happened to me!  It’s another example of this uncanny ability I have to elevate the sordid miseries of the human condition into the realm of transcendent art.*
+*The inspiration for this puzzle, at 17 Across, was an actual true-life experience that really happened to me!  It’s another example of this uncanny ability I have to elevate the sordid miseries of the human condition into the realm of transcendent art.*
 
 ***
 

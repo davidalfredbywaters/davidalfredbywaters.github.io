@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This puzzle is amusing only if you know the French phrases on which it’s based.  If you think you don’t, consult this helpful list of* [Six French Phrases Every Crossword-Solver Should Know](/s/Six-French-Phrases-k2yp.pdf) *before you start.  Memorize these phrases and use them habitually in conversation, impressing your friends with your cosmopolitanism. Then, after some months have passed, and their use has become second nature to you, attempt the crossword below.  You’ll find it’s well worth the time and effort.*
+*This puzzle is amusing only if you know the French phrases on which it’s based.  If you think you don’t, consult this helpful list of* [Six French Phrases Every Crossword-Solver Should Know](/s/Six-French-Phrases-k2yp.pdf) *before you start.  Memorize these phrases and use them habitually in conversation, impressing your friends with your cosmopolitanism. Then, after some months have passed, and their use has become second nature to you, attempt the crossword below.  You’ll find it’s well worth the time and effort.*
 
 ***
 

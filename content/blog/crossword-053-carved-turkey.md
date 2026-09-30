@@ -13,7 +13,7 @@ Hearty Thanksgiving Greeting
 
 ***
 
-*Thursday was Thanksgiving.  I was thankful for you; and you, I’m willing to suppose, were thankful for me.  But now we have these turkey parts all over the place. Like so many of my puzzles, this week’s holds a mirror up to nature, showing the very age and body of the time his form and pressure.*
+*Thursday was Thanksgiving.  I was thankful for you; and you, I’m willing to suppose, were thankful for me.  But now we have these turkey parts all over the place.  Like so many of my puzzles, this week’s holds a mirror up to nature, showing the very age and body of the time his form and pressure.*
 
 ***Download this week’s crossword:***
 

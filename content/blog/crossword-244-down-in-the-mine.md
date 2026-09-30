@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*We at David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender aren’t satisfied with the gems of wordplay that can be purchased in the public marketplace.  We prefer to dig our own out of the bowels of the earth, braving darkness and damp, noxious vapors and the ever-present threat of semantic collapse—all so that you, the solver, can adorn your mental domicile at our expense, little suspecting the cost.  But we wouldn’t have it any other way.*
+*We at David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender aren’t satisfied with the gems of wordplay that can be purchased in the public marketplace.  We prefer to dig our own out of the bowels of the earth, braving darkness and damp, noxious vapors and the ever-present threat of semantic collapse—all so that you, the solver, can adorn your mental domicile at our expense, little suspecting the cost.  But we wouldn’t have it any other way.*
 
 ***
 

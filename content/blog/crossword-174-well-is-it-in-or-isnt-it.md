@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Like other hip crossword constructors of today, I ask myself that question over and over again, as I decide on each word:  not “will it be known to the average solver?” but “is it* in?*”  Only the hottest new celebrities, the coolest TV shows, the freshest slang, will do.  To be sure, the French painter in today’s puzzle died in 1665, and its “mild oath” was in use as early as 1815:  but they’re fadding—wait, I mean trending—now!*
+*Like other hip crossword constructors of today, I ask myself that question over and over again, as I decide on each word:  not “will it be known to the average solver?” but “is it* in?*”  Only the hottest new celebrities, the coolest TV shows, the freshest slang, will do.  To be sure, the French painter in today’s puzzle died in 1665, and its “mild oath” was in use as early as 1815:  but they’re fadding—wait, I mean trending—now!*
 
 ***
 

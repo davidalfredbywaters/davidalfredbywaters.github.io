@@ -15,9 +15,9 @@ categories: [Novels]
 
 *Here is another novel by Eggleston (see Novel* [*162*](/blog/2020/12/22/novel-162-edward-eggleston-the-faith-doctor-1891)*) this one set not in New York City but in an Indiana town like that in which the author was born and raised.*
 
-“‘Roxy’ may be accepted as the latest example of a purely American novel, and to say the least, one of the very best. . . .  It is the genuine product of the Western soil, inspired by familiar personal knowledge of the people and profound sympathy with primitive life in its early imperfect manifestations.  The writer has drawn exclusively from Nature, without the aid of caricature or fictitious embellishments.” *New York Tribune*, October 1, 1878
+“‘Roxy’ may be accepted as the latest example of a purely American novel, and to say the least, one of the very best. . . .  It is the genuine product of the Western soil, inspired by familiar personal knowledge of the people and profound sympathy with primitive life in its early imperfect manifestations.  The writer has drawn exclusively from Nature, without the aid of caricature or fictitious embellishments.” *New York Tribune*, October 1, 1878
 
-“A remarkable novel, so remarkable that you feel bound, having once begun its perusal, to finish the two volumes at a sitting, and inclined to dip into them at odd moments afterwards, and roll passages as sweet morsels under your tongue.” *Spectator*, October 5, 1878
+“A remarkable novel, so remarkable that you feel bound, having once begun its perusal, to finish the two volumes at a sitting, and inclined to dip into them at odd moments afterwards, and roll passages as sweet morsels under your tongue.”  *Spectator*, October 5, 1878
 
 *A contrasting view:*
 

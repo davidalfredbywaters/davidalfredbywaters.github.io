@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*It’s time for David Alfred Bywaters’s Crossword Cavalcade and Fortnightly Victorian Novel Recommender to launch its initial public offering.  True, our profit margins are in negative territory as yet, but prospects for growth are enormous; and the infusion of cash we’re expecting from our stock sale will allow us to (1) develop and implement an AI solution that will reduce our labor costs by ninety-nine percent, and (2) purchase enough social media influence to increase our eyeballs a thousand million times.  I’ll be issuing a prospectus shortly; you’ll want to get in on the ground floor.*
+*It’s time for David Alfred Bywaters’s Crossword Cavalcade and Fortnightly Victorian Novel Recommender to launch its initial public offering.  True, our profit margins are in negative territory as yet, but prospects for growth are enormous; and the infusion of cash we’re expecting from our stock sale will allow us to (1) develop and implement an AI solution that will reduce our labor costs by ninety-nine percent, and (2) purchase enough social media influence to increase our eyeballs a thousand million times.  I’ll be issuing a prospectus shortly; you’ll want to get in on the ground floor.*
 
 ***
 

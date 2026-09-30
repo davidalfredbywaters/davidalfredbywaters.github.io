@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Wait!  Come back!  Not you!—the “L.”  Everybody’s welcome here at David Alfred Bywaters’s Weekly Crossword Cavalcade—even you.  As so often before, we at “The Cavalcade” have taken something unpleasant, a phrase that may perhaps evoke bitter memories, and made it—fun! (By “we” I mean, of course, “I.”)*
+*Wait!  Come back!  Not you!—the “L.”  Everybody’s welcome here at David Alfred Bywaters’s Weekly Crossword Cavalcade—even you.  As so often before, we at “The Cavalcade” have taken something unpleasant, a phrase that may perhaps evoke bitter memories, and made it—fun! (By “we” I mean, of course, “I.”)*
 
 ***
 

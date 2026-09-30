@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Elizabeth Glaister (1840-1892) wrote five novels between 1873 and 1890.  This one has a lively style and an unusual comic heroine.*
+*Elizabeth Glaister (1840-1892) wrote five novels between 1873 and 1890.  This one has a lively style and an unusual comic heroine.*
 
-“Although the title of ‘The Perfect Path’ suggests too strongly something in the nature of a religious novel—one of the most terrible forms of literature—it is in reality a very lively story, in which the author, by keeping well within her powers, has succeeded.  The heroine is very graphically presented and makes a charming figure.” *Athenaeum*, February 16, 1884
+“Although the title of ‘The Perfect Path’ suggests too strongly something in the nature of a religious novel—one of the most terrible forms of literature—it is in reality a very lively story, in which the author, by keeping well within her powers, has succeeded.  The heroine is very graphically presented and makes a charming figure.”  *Athenaeum*, February 16, 1884
 
-“There are some good character studies in this entertaining story.” *Morning Post*, February 27, 1884
+“There are some good character studies in this entertaining story.”  *Morning Post*, February 27, 1884
 
 ***Download this week’s novel:***
 

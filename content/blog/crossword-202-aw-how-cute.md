@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*What makes my crosswords so exceptionally adorable?  It’s not their symmetrical features; most crosswords have those.  They aren’t rounded or fuzzy—on the contrary, they are geometrically rectilinear and semantically exact.  But their babbling delight in language, their wide-eyed, uncomplicated openness to life give them an infantile appeal very unlike the hard-edged affect of their adolescent meme-grubbing, slang-repeating, hipster-referencing competitors.*
+*What makes my crosswords so exceptionally adorable?  It’s not their symmetrical features; most crosswords have those.  They aren’t  rounded or fuzzy—on the contrary, they are geometrically rectilinear and semantically exact.  But their babbling delight in language, their wide-eyed, uncomplicated openness to life give them an infantile appeal very unlike the hard-edged affect of their adolescent meme-grubbing,  slang-repeating,  hipster-referencing competitors.*
 
 ***
 

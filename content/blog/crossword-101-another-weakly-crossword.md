@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I know what you’re saying:  “But your crosswords aren't weakly, David Alfred Bywaters; don't be so hard on yourself!”  And of course you’re right.  They’re weakly (unclogged as they are by professional sports, super-heroes, Star Wars trivia, and the latest fratboy slang) only as some agile, clever, neatly dressed fellow sipping a cool drink at the oceanside bar is weakly in comparison to the shirtless, musclebound lout gaping emptily on the beach below.*
+*I know what you’re saying:  “But your crosswords aren't weakly, David Alfred Bywaters; don't be so hard on yourself!”  And of course you’re right.  They’re weakly (unclogged as they are by professional sports, super-heroes, Star Wars trivia, and the latest fratboy slang) only as some agile, clever, neatly dressed fellow sipping a cool drink at the oceanside bar is weakly in comparison to the shirtless, musclebound lout gaping emptily on the beach below.*
 
 ***
 

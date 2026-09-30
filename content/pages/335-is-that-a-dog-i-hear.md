@@ -3,7 +3,7 @@ title: "335 Is That a Dog I Hear?"
 url: /335-is-that-a-dog-i-hear
 ---
 
-# Crossword 335: Is That a Dog I Hear? {.center}
+#  Crossword 335: Is That a Dog I Hear? {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

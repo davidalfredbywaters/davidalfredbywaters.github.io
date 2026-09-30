@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Are you seeking adventure, daring solver?  You’ve come to the right place!  You’ll find it in the attached puzzle!—that is, if  you redefine the word “seeking” (dividing it into two parts and interpreting the first part as a homophone), and apply the result to common phrases so as to arrive at new phrases having to do with things like carpet installation and insurance.  And if that doesn’t sound like adventure to you, well, maybe you haven’t come to the right place after all.*
+*Are you seeking adventure, daring solver?  You’ve come to the right place!  You’ll find it in the attached puzzle!—that is, if  you redefine the word “seeking” (dividing it into two parts and interpreting the first part as a homophone), and apply the result to common phrases so as to arrive at new phrases having to do with things like carpet installation and insurance.  And if that doesn’t sound like adventure to you, well, maybe you haven’t come to the right place after all.*
 
 *Speaking of C-kings, that’s the future Charles II at the knee of Charles I in this week’s painting; and here’s a timely bonus question for you:* *who is Charles II’s brother’s daughter’s cousin’s cousin’s second-cousin’s son’s grandson’s son’s brother’s niece’s son’s son’s son’s brother’s daughter’s eldest son?*
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This puzzle comes with an important disclaimer:  the “shrift” it provides is not effective as a means of remitting sin or conferring absolution.  If that’s what you want, you need a priest.*
+*This puzzle comes with an important disclaimer:  the “shrift” it provides is not effective as a means of remitting sin or conferring absolution.  If that’s what you want, you need a priest.*
 
 ***
 

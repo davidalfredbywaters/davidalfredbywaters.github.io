@@ -16,7 +16,7 @@ url: /blog/2025/4/12/novel-327-david-christie-murray-cynic-fortune-1886
 
 “The elements of the story . . . are rather well worn” but “every part of the book is well written and lively.” *Academy*, September 18, 1886
 
-“A very neatly told story, and it shows some good bits of character”; the author “provides his readers with a good deal of entertainment, and his well-known vivacity of style presents it in a very acceptable form.” *Athenaeum*, September 25, 1886
+“A very neatly told story, and it shows some good bits of character”; the author “provides his readers with a good deal of entertainment, and his well-known vivacity of style presents it in a very acceptable form.”  *Athenaeum*, September 25, 1886
 
 ***Download this fortnight’s novel:***
 

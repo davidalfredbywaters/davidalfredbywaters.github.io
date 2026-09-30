@@ -15,11 +15,11 @@ categories: [Novels]
 
 *Eleanor Frances Poynter (1840-1929), the sister of the painter Sir Edward John Poynter and of the translator Clara Bell, wrote some seven novels between 1870 and 1892, of which the first is this poignant story of vulnerable innocence in a hard and confusing world.*
 
-“It is an agreeable task to record a book which can be read with genuine pleasure. My Little Lady’s history” is “written in a simple graceful style.” *Athenaeum*, December 17, 1870
+“It is an agreeable task to record a book which can be read with genuine pleasure.  My Little Lady’s history” is “written in a simple graceful style.” *Athenaeum*, December 17, 1870
 
-“The whole book is charming; quietly told, quietly thought, without glare or flutter, and interesting in both character and story.” *Saturday Review*, December 17, 1870
+“The whole book is charming; quietly told, quietly thought, without glare or flutter, and interesting in both character and story.”  *Saturday Review*, December 17, 1870
 
-“It is really pleasant to read a novel like ‘My Little Lady’—a simple story, so vividly potraying a few characters that we can imagine we have known them, felt all their troubles, and rejoiced in their happiness.” *Examiner*, January 7, 1871
+“It is really pleasant to read a novel like ‘My Little Lady’—a simple story, so vividly potraying a few characters that we can imagine we have known them, felt all their troubles, and rejoiced in their happiness.”  *Examiner*, January 7, 1871
 
 ***Download this week’s novel:***
 

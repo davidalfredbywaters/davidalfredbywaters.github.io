@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This is the first of a projected series of 81 puzzles honoring the multiplication table, which I intend to publish as a mnemonic aid for grade-school students.  After that I’ll honor the periodic table of elements with a series of 118 or 119, depending on whether ununennium is discovered in the meantime.  And then, concluding my table series series, I’ll honor the Knights of the Round Table:  Sir Lancelot, Sir Gawain, Sir Galahad, Sir Bagdemagus, Sir Segwarides, Sir Gumret le petit, Sir Bleoberis de Ganis, Sir. . . well, according to one medieval source, there were 1600 of them; and their table, allowing each knight three feet of space (which, given the armor involved, is not particularly generous), must have taken up over 42 acres. Since their puzzles, posted at the rate of one per fortnight, will take up over 60 years, I may have to omit a few.*
+*This is the first of a projected series of 81 puzzles honoring the multiplication table, which I intend to publish as a mnemonic aid for grade-school students.  After that I’ll honor the periodic table of elements with a series of 118 or 119, depending on whether ununennium is discovered in the meantime.  And then, concluding my table series series, I’ll honor the Knights of the Round Table:  Sir Lancelot, Sir Gawain, Sir Galahad, Sir Bagdemagus, Sir Segwarides, Sir Gumret le petit, Sir Bleoberis de Ganis, Sir. . . well, according to one medieval source, there were 1600 of them; and their table, allowing each knight three feet of space (which, given the armor involved, is not particularly generous), must have taken up over 42 acres.  Since their puzzles, posted at the rate of one per fortnight, will take up over 60 years, I may have to omit a few.*
 
 ***
 

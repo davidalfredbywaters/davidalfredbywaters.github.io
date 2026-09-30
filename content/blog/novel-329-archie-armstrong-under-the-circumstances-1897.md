@@ -18,7 +18,7 @@ Armstrong “can tell a story very pleasantly, and has an instinct for a plot.�
 
 A “well-told story of to-day, written in good English.” *Athenaeum*, March 20, 1897
 
-“Distinctly good”; the heroine is “very lifelike.” *Spectator*, October 9, 1897
+“Distinctly good”; the heroine is “very lifelike.”  *Spectator*, October 9, 1897
 
 ***Download this fortnight’s novel:***
 

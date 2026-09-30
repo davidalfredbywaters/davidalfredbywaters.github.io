@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*So you’ve never heard Fats Domino's 1957 recording of “What Will ___ My Heart?” (44 Across)?  Correct that omission right away.  Then try the 1936 version by Andy Kirk and forgotten crooner Elmer “Pha” Terrell.  Then try Dinah Washington’s version, from 1956.  Has your rage against my long partials and obscure cluing turned to gratitude?*
+*So you’ve never heard Fats Domino's 1957 recording of “What Will ___ My Heart?” (44 Across)?  Correct that omission right away.  Then try the 1936 version by Andy Kirk and forgotten crooner Elmer “Pha” Terrell.  Then try Dinah Washington’s version, from 1956.  Has your rage against my long partials and obscure cluing turned to gratitude?*
 
 ***
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Have you duly considered, mortal solver, that everything you now see will someday disappear?  That the sun, by the light of which you see everything, will itself disappear?  Of course, by the time that happens you will have ceased either to see or to be seen—and have you thought about that lately, solver, really thought about it?  Would you like to think about it?  Or would you rather do a crossword puzzle?*
+*Have you duly considered, mortal solver, that everything you now see will someday disappear?  That the sun, by the light of which you see everything, will itself disappear?  Of course, by the time that happens you will have ceased either to see or to be seen—and have you thought about that lately, solver, really thought about it?  Would you like to think about it?  Or would you rather do a crossword puzzle?*
 
 ***
 

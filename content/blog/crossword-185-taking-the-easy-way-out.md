@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Yes, we’re taking the easy way out again.  Someday I’ll stuff my puzzles full of things you’ll feel bad about not knowing.  Someday I’ll make my theme answers turn corners, and double back on themselves, and run outside the grid, and use the black squares in odd ways, and otherwise require all sorts of reinterpretation, so that, though they look like random assemblages of letters in the grid, they turn out (once you’ve discovered the trick) to be the names of celebrities you ought to admire.  Someday.  But not today.*
+*Yes, we’re taking the easy way out again.  Someday I’ll stuff my puzzles full of things you’ll feel bad about not knowing.  Someday I’ll make my theme answers turn corners, and double back on themselves, and run outside the grid, and use the black squares in odd ways, and otherwise require all sorts of reinterpretation, so that, though they look like random assemblages of letters in the grid, they turn out (once you’ve discovered the trick) to be the names of celebrities you ought to admire.  Someday.  But not today.*
 
 ***
 

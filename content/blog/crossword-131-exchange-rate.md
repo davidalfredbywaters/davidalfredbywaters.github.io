@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*Bankers!  If a dollar is worth a ducat, and I have dollars and want ducats, and I give a banker 1,000, or 1,000,000, dollars, the banker gives me, maybe, 970, or 970,000 ducats, pocketing the odd 30, or 30,000.  And what has the banker done to earn 30,000 dollars, or even 30? A dollar (or a ducat) or two might cover the banker’s costs—a little time, some storage expenses, some postage maybe—but why this per-dollar assessment?*
+*Bankers!  If a dollar is worth a ducat, and I have dollars and want ducats, and I give a banker 1,000, or 1,000,000, dollars, the banker gives me, maybe, 970, or 970,000 ducats, pocketing the odd 30, or 30,000.  And what has the banker done to earn 30,000 dollars, or even 30?  A dollar (or a ducat) or two might cover the banker’s costs—a little time, some storage expenses, some postage  maybe—but why this per-dollar assessment?*
 
-*It’s a firm rule—one that some economist surely must have formalized somewhere—that in any system with money, the people who handle the money end up with the greatest share.  Business executives, college administrators, bankers—they pocket the cash, while others make the widgets, and teach the classes, and construct the crosswords.*
+*It’s a firm rule—one that some economist surely must have formalized somewhere—that in any system with money, the people who handle the money end up with the greatest share.  Business executives, college administrators, bankers—they pocket the cash, while others make the widgets, and teach the classes, and construct the crosswords.*
 
 *If this troubles you sometimes, if you’re a crossword-solving banker with an uneasy conscience, why not see whether generous donations to crossword-making non-bankers doesn’t have a soothing effect?*
 

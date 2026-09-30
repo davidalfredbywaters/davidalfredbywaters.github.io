@@ -3,7 +3,7 @@ title: "359 Dimensional Instability"
 url: /359-dimensional-instability
 ---
 
-# Crossword 359: Dimensional Instability {.center}
+#  Crossword 359: Dimensional Instability {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

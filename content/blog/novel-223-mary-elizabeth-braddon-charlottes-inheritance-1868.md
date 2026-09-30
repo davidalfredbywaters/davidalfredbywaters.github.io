@@ -15,11 +15,11 @@ categories: [Novels]
 
 *Here, as promised, is the sequel to last week’s novel.*
 
-*“*Miss Braddon’s enlarged experience as a writer of fiction is very discernible in this volume, which is decidedly one of her best, if not the best, she has given to the public. . . .  *Charlotte’s Inheritance* is well written, and contains some excellent character-drawing, unspoiled by exaggeration for mere effect.  Even the very repulsive personage, so indispensable to the authoress . . . is not, it is painful to confess, without his probabilities.” *Spectator*, October 25, 1868
+*“*Miss Braddon’s enlarged experience as a writer of fiction is very discernible in this volume, which is decidedly one of her best, if not the best, she has given to the public. . . .  *Charlotte’s Inheritance* is well written, and contains some excellent character-drawing, unspoiled by exaggeration for mere effect.  Even the very repulsive personage, so indispensable to the authoress . . . is not, it is painful to confess, without his probabilities.”  *Spectator*, October 25, 1868
 
 *A contrasting view:*
 
-It “seems to have been put together for the stage, and with an eye to effects.  It is an extremely disagreeable story, and it has nothing to redeem its coarse reality.” *Athenaeum*, March 21, 1868
+It “seems to have been put together for the stage, and with an eye to effects.  It is an extremely disagreeable story, and it has nothing to redeem its coarse reality.”  *Athenaeum*, March 21, 1868
 
 ***Download this week’s novel:***
 

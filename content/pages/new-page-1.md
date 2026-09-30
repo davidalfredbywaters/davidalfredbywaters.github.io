@@ -287,7 +287,7 @@ url: /new-page-1
 
 [142](/blog/2020/8/8/crossword-142-like-fine-wine) Like Fine Wine
 
-[143](2020/5/16/crossword-143-pr-issues) PR Issues
+[143](/blog/2020/5/16/crossword-143-pr-issues) PR Issues
 
 [144](/blog/2020/8/22/crossword-144-last-in-first-out) Last In, First Out
 
@@ -473,7 +473,7 @@ url: /new-page-1
 
 [235](/blog/2022/5/21/crossword-235-ten-four) Ten-Four
 
-[236](/blog/2022/5/28/crossword-236-cross-out) Cross Out
+[236](/blog/2022/5/28/crossword-236-cross-out)  Cross Out
 
 [237](/blog/2022/6/4/crossword-237-alternating-biconsonantal-pentads) Alternating Biconsonantal Pentads
 
@@ -571,7 +571,7 @@ url: /new-page-1
 
 [284](/blog/2023/8/26/crossword-284-meal-preparation) Meal Preparation
 
-[285](2023/9/9/crossword-285-all-the-wrong-places) All the Wrong Places
+[285](/blog/2023/9/9/crossword-285-all-the-wrong-places) All the Wrong Places
 
 [286](/blog/2023/9/23/crossword-286-senior-centers) Senior Centers
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Ahoy! Avast! Clear the decks! Batten down the hatches! Trim the jib! Man the sheets! Belay the taffrails! Man the jib! Trim the sheets! Hoist up the John B. sail! See how the mainsail sets! Call for the captain ashore! I want to go home.*
+*Ahoy! Avast! Clear the decks! Batten down the hatches! Trim the jib! Man the sheets! Belay the taffrails! Man the jib! Trim the sheets! Hoist up the John B. sail! See how the mainsail sets! Call for the captain ashore! I want to go home.*
 
 ***
 

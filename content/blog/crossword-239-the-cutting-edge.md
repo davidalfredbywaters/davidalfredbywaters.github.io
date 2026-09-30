@@ -8,7 +8,7 @@ url: /blog/2022/6/18/crossword-239-the-cutting-edge
 
 ***
 
-*Here’s another puzzle on the very cutting edge of cruciverbal development.  Unfortunately for me, I’m so far in advance of current trends, so near the horizon of word-crossing possibility, that few of my contemporaries enjoy sufficient keenness of vision to discern either the cutting edge itself or my presence there.  But never mind; as I’ve said before, I create not for the current generation of fools, but for posterity.*
+*Here’s another puzzle on the very cutting edge of cruciverbal development.  Unfortunately for me, I’m so far in advance of current trends, so near the horizon of word-crossing possibility, that few of my contemporaries enjoy sufficient keenness of vision to discern either the cutting edge itself or my presence there.  But never mind; as I’ve said before, I create not for the current generation of fools, but for posterity.*
 
 ***
 

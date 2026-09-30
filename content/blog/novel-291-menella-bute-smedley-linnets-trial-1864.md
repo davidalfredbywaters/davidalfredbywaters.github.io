@@ -15,11 +15,11 @@ categories: [Novels]
 
 *Menella Bute Smedley (1820-1877), cousin of Frank Smedley (see* [*Novel 048*](/blog/2018/10/16/novel-048-frank-smedley-frank-fairlegh-1850)*), wrote eight novels between 1849 and 1868; this one features sharply delineated characters in a quiet domestic scene.*
 
-“There is no doubt that ‘Linnet’s Trial’ will find many admirers; it is a well-sustained story, and the characters are elaborated with a firm hand, and evidences of a perception at once keen and clear. . . . The volumes are beautifully printed on delicate cream-tinted paper.” *Art Journal*, April 1864
+“There is no doubt that ‘Linnet’s Trial’ will find many admirers; it is a well-sustained story, and the characters are elaborated with a firm hand, and evidences of a perception at once keen and clear. . . .  The volumes are beautifully printed on delicate cream-tinted paper.”  *Art Journal*, April 1864
 
-“A pretty, well-written story. . . . The conversations are lively and clever, and the incidents sufficiently interesting.” *Athenaeum*, June 18, 1864
+“A pretty, well-written story. . . .  The conversations are lively and clever, and the incidents sufficiently interesting.”  *Athenaeum*, June 18, 1864
 
-“A very interesting story.  The discrimination of character is really remarkable, and quite without visible effort. . . . It may be recommended for the youngest of young ladies.” *Spectator*, September 3, 1864
+“A very interesting story.  The discrimination of character is really remarkable, and quite without visible effort. . . .  It may be recommended for the youngest of young ladies.”  *Spectator*, September 3, 1864
 
 ***Download this fortnight’s novel:***
 

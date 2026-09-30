@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*If you double the shortening in a recipe, is the result twice as fat, or half as long?  Or both?*
+*If you double the shortening in a recipe, is the result twice as fat, or half as long?  Or both?*
 
 ***
 

@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*About Cecil Clayton nothing is known, except that two novels appeared under this name,* Effie’s Game *in 1873 and this one three years later.  It has some excellent characters, a good style, and a pleasantly untroubled plot, as though the author were too soft-hearted to inflict much pain on her (or his?) creations.*
+*About Cecil Clayton nothing is known, except that two novels appeared under this name,* Effie’s Game *in 1873 and this one three years later.  It has some excellent characters, a good style, and a pleasantly untroubled plot, as though the author were too soft-hearted to inflict much pain on her (or his?) creations.*
 
 *“Azalea* is a story which, without having anything new either in plot or characters, is distinctly easy and pleasant to read, in consequence of its thoroughly cultured and well-bred tone.” *Academy*, September 9, 1876
 
-“People whose nerves have been shaken by overwork or anxiety, people who wish to forget that there are such things as passion and suffering in the world, should read this smoothest of all smooth tales, and enjoy the society of the innocent persons.  The worst characters in *Azalea* are sometimes flippant or a little peevish, but their failings are never allowed to interfere with the tranquil happiness of the hero and heroine.” *Saturday Review*, September 16, 1876
+“People whose nerves have been shaken by overwork or anxiety, people who wish to forget that there are such things as passion and suffering in the world, should read this smoothest of all smooth tales, and enjoy the society of the innocent persons.  The worst characters in *Azalea* are sometimes flippant or a little peevish, but their failings are never allowed to interfere with the tranquil happiness of the hero and heroine.” *Saturday Review*, September 16, 1876
 
 ***Download this week’s novel:***
 

@@ -15,13 +15,13 @@ categories: [Novels]
 
 *Sabine Baring-Gould (1834-1924) wrote some fifty works of fiction and nearly a hundred other works in various genres, including the hymn “Onward, Christian Soldiers.” This novel consistently entertains despite its sometimes contrived damsel-in-distress plot.*
 
-“A domestic novel of some merit. . . . The narrative, simple as it is, is worked out so well, and with so true an adherence generally to nature, that . . . the author deserves considerable credit”; he has also “a fund of shrewd sense.” *Athenaeum*, June 27, 1868
+“A domestic novel of some merit. . . .  The narrative, simple as it is, is worked out so well, and with so true an adherence generally to nature, that . . . the author deserves considerable credit”; he has also “a fund of shrewd sense.”  *Athenaeum*, June 27, 1868
 
-“A highly original and vigorous novel, although the promise of the first volume is not quite sustained.” *Spectator*, September 12, 1868
+“A highly original and vigorous novel, although the promise of the first volume is not quite sustained.”  *Spectator*, September 12, 1868
 
 *A contrasting view:*
 
-“In incident and plot it is most deficient, and in style it is decidedly vulgar.  It possesses no redeeming point.” *Examiner*, September 12, 1868
+“In incident and plot it is most deficient, and in style it is decidedly vulgar.  It possesses no redeeming point.”  *Examiner*, September 12, 1868
 
 ***Download this week’s novel:***
 

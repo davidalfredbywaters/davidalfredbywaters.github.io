@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Florence Wilford (1836-1897) wrote some sixteen novels between 1858 and 1895, many of them for children or young adults.  This one, though it does not directly attack Victorian social constraints, nonetheless vividly represents their destructive effect on talented women.*
+*Florence Wilford (1836-1897) wrote some sixteen novels between 1858 and 1895, many of them for children or young adults.  This one, though it does not directly attack Victorian social constraints, nonetheless vividly represents their destructive effect on talented women.*
 
-*“*A clever woman’s plea for clever women, made in a quiet and feminine manner, and yet ably and humorously turning the tables. . . .  It is well and gracefully done.” *Saturday Review*, January 9, 1869
+*“*A clever woman’s plea for clever women, made in a quiet and feminine manner, and yet ably and humorously turning the tables. . . .  It is well and gracefully done.”  *Saturday Review*, January 9, 1869
 
-“Admirably worked out”; the heroine’s character is “delineated in all its true nobility, with really exquisite insight”; “a fine study of character under special circumstances.” *Spectator*, October 8, 1892
+“Admirably worked out”; the heroine’s character is “delineated in all its true nobility, with really exquisite insight”; “a fine study of character under special circumstances.”  *Spectator*, October 8, 1892
 
 ***Download this week’s novel:***
 

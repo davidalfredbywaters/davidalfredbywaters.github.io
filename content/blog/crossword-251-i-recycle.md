@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*That’s right!  I recycle!  I separate cans, bottles, and paper.  I break down the boxes and I tear the labels off the cans.  I even tear the little plastic windows off the business envelopes and the pasta boxes.  And, like other people who use yard signs, bumper stickers, banners, tee shirts, and other such means to announce their possession of basic virtues, I thought everybody would be glad to know this about me.  You are glad, aren’t you? Of course. So here’s a crossword for you, in my honor.*
+*That’s right!  I recycle!  I separate cans, bottles, and paper.  I break down the boxes and I tear the labels off the cans.  I even tear the little plastic windows off the business envelopes and the pasta boxes.  And, like other people who use yard signs, bumper stickers, banners, tee shirts, and other such means to announce their possession of basic virtues, I thought everybody would be glad to know this about me.  You are glad, aren’t you?  Of course.  So here’s a crossword for you, in my honor.*
 
 ***
 

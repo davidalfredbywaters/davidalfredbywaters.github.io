@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I apologize in advance if 16 Across seems too risqué to some solvers.  Just imagine what I might have done with 27 Across, if I were not committed to the highest standards of decency.*
+*I apologize in advance if 16 Across seems too risqué to some solvers.  Just imagine what I might have done with 27 Across, if I were not committed to the highest standards of decency.*
 
 ***
 

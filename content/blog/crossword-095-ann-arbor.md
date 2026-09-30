@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Today is my beloved mother's birthday.  Alert solvers might be able, on the basis of this puzzle’s title and theme answers, to guess her name.*
+*Today is my beloved mother's birthday.  Alert solvers might be able, on the basis of this puzzle’s title and theme answers, to guess her name.*
 
 ***
 

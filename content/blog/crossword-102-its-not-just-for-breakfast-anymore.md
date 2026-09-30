@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This puzzle’s title phrase, as the solver will probably know, comes from an old orange juice commercial. It has since been humorously appropriated to beer.  “Beer: It’s Not Just for Breakfast Anymore.”  Ha ha.  And that’s not all.  An internet search turns up several hundred other things you can insert into this ready-make little joke: pizza, bourbon, coke, chocolate, roadkill, napalm, breakfast, prozac, social media, etc., etc.  It’s the hive mind at work, and I’m not too proud to make my own little contribution.*
+*This puzzle’s title phrase, as the solver will probably know, comes from an old orange juice commercial. It has since been humorously appropriated to beer.  “Beer: It’s Not Just for Breakfast Anymore.”  Ha ha.  And that’s not all.  An internet search turns up several hundred other things you can insert into this ready-make little joke: pizza, bourbon, coke, chocolate, roadkill, napalm, breakfast, prozac, social media, etc., etc.  It’s the hive mind at work, and I’m not too proud to make my own little contribution.*
 
 ***
 

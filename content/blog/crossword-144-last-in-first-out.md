@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*I’m afraid I took up the catchy-sounding phrase that supplies today’s puzzle’s title without any clear idea of what it meant.  Something to do with airplane seating policies?  Corporate layoffs?  Is it a terse statement of the cultural truism that, when the worst things grow popular, the best are neglected?*
+*I’m afraid I took up the catchy-sounding phrase that supplies today’s puzzle’s title without any clear idea of what it meant.  Something to do with airplane seating policies?  Corporate layoffs?  Is it a terse statement of the cultural truism that, when the worst things grow popular, the best are neglected?*
 
-*According to Wikipedia, it is most commonly used to describe an accounting method designed to evade taxes in times of inflation.  Oh well.  It makes a good crossword title anyway.*
+*According to Wikipedia, it is most commonly used to describe an accounting method designed to evade taxes in times of inflation.  Oh well.  It makes a good crossword title anyway.*
 
 ***
 

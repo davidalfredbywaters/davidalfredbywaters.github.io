@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Emma Willsher Atkinson (1826-1900) is known to have written only one novel—this one.  Despite some sentimentalism and didacticism (especially near the end), she gives us several striking characters and sharply defined social and moral dilemmas.*
+*Emma Willsher Atkinson (1826-1900) is known to have written only one novel—this one.  Despite some sentimentalism and didacticism (especially near the end), she gives us several striking characters and sharply defined social and moral dilemmas.*
 
 The author “has performed a very difficult task creditably”; she “has not shrunk from showing that extremes with a little friendly mediation will sometimes meet.’“ *Leader and Saturday Analyst*, October 15, 1859
 
-"The novel may offend readers of either extreme, being itself of none, yet it is wholesome and kindly in its tone.  It is a little touched with excess of feminine sentiment, but at the same time has feminine perceptions of character, and is not without humour” *Examiner*, November 26, 1859
+"The novel may offend readers of either extreme, being itself of none, yet it is wholesome and kindly in its tone.  It is a little touched with excess of feminine sentiment, but at the same time has feminine perceptions of character, and is not without humour” *Examiner*, November 26, 1859
 
 ***Download this week's novel:***
 

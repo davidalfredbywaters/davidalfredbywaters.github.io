@@ -13,7 +13,7 @@ categories: [Novels]
 
 ***
 
-*Emma Newby (1825-1899) wrote 13 novels between 1854 and 1879.  This one is chiefly notable for the chillingly calculated behavior of the heroine’s parents.*
+*Emma Newby (1825-1899) wrote 13 novels between 1854 and 1879.  This one is chiefly notable for the chillingly calculated behavior of the heroine’s parents.*
 
 “The consciousness and confidence of power are visible in Mrs. Newby’s latest work, in which the reader will find a very romantic story very cleverly told.” *Manchester Guardian*, August 28, 1866
 

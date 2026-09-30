@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Life is, of course, when you think about it, a do-*and*-die situation.  But this is just a crossword, and one of the great things about crosswords is that you don’t have to do them, that your doing or not doing a crossword will never matter to anybody in any way, will never lead to any extrinsic reward, or punishment, of any kind.  And doesn’t that make you want to do one right now?*
+*Life is, of course, when you think about it, a do-*and*-die situation.  But this is just a crossword, and one of the great things about crosswords is that you don’t have to do them, that your doing or not doing a crossword will never matter to anybody in any way, will never lead to any extrinsic reward, or punishment, of any kind.  And doesn’t that make you want to do one right now?*
 
 ***
 

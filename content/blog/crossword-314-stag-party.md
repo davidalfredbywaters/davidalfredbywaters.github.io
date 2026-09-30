@@ -9,10 +9,11 @@ categories: [Crosswords]
 
 ***
 
-*This puzzle should not be taken as an endorsement of those tasteless social events from which women are excluded (except as performers).  In fact I find the idea of “stag parties” in that sense distinctly disagreeable.  But if forest creatures wish to gather for their own festive purposes, I do not feel that I, from my necessarily anthropocentric subject position, have any right to condemn them.*
+*This puzzle should not be taken as an endorsement of those tasteless social events from which women are excluded (except as performers).  In fact I find the idea of “stag parties” in that sense distinctly disagreeable.  But if forest creatures wish to gather for their own festive purposes, I do not feel that I, from my necessarily anthropocentric subject position, have any right to condemn them.*
 
 ***
 
+<br>
 ***Download this fortnight’s crossword:***
 
 [314-Stag-Party.puz](/s/314-Stag-Party.puz)

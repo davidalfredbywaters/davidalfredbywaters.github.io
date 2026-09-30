@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Think ahead!  Don’t be caught unawares—plan for every contingency!  What about tomorrow, next year, ten years from now?  In twenty years, you’ll be twenty years older.  In seventy years, you’ll be seventy years older—or, probably, dead!  In two hundred years you and everybody who remembers you will be dead!  In five billion years the earth will be an empty cinder!*
+*Think ahead!  Don’t be caught unawares—plan for every contingency!  What about tomorrow, next year, ten years from now?  In twenty years, you’ll be twenty years older.  In seventy years, you’ll be seventy years older—or, probably, dead!  In two hundred years you and everybody who remembers you will be dead!  In five billion years the earth will be an empty cinder!*
 
 *Well maybe, instead of thinking ahead, you should just do this crossword.*
 

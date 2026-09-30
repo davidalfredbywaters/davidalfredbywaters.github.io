@@ -7,7 +7,7 @@ categories: [Crosswords]
 
 ![John Frederick Lewis, Veiled Egyptian Girl, Cairo](/images/John-Frederick-Lewis-Veiled-Egyptian-Girl-Cairo.jpg "John Frederick Lewis, Veiled Egyptian Girl, Cairo")
 
-*Don’t let the title frighten you: this crossword is, like all my crosswords, free from full or even partial nudity, in fact of “erotic” content of any kind, and appropriate for family solving. In fact, I cleanse various phrases that might have once had an impure implication and redirect them to innocent ends,* *for* *my aim as a constructor is and has always been to save the world from itself, one puzzle at a time.*
+*Don’t let the title frighten you: this crossword is, like all my crosswords, free from full or even partial nudity, in fact of “erotic” content of any kind, and appropriate for family solving.  In fact, I cleanse various phrases that might have once had an impure implication and redirect them to innocent ends,* *for* *my aim as a constructor is and has always been to save the world from itself, one puzzle at a time.*
 
 ***Download this fortnight’s crossword:***
 

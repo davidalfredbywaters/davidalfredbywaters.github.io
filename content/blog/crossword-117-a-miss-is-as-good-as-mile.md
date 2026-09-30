@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*“A miss is as good as a mile”—what an odd expression!  “Miss” and “mile” are grammatically but not conceptually parallel.  “Good” actually means “bad.”  It’s a triumph of sound over sense, and therefore well suited to this web site.*
+*“A miss is as good as a mile”—what an odd expression!  “Miss” and “mile” are grammatically but not conceptually parallel.  “Good” actually means “bad.”  It’s a triumph of sound over sense, and therefore well suited to this web site.*
 
 ***
 

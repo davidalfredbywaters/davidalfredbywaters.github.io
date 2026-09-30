@@ -8,7 +8,7 @@ url: /blog/2019/3/9/crossword-068-ignis-fatuus
 
 ***
 
-*Today’s puzzle suggests a number of illustration possibilities.  A nice marsh landscape would fit the title.  All too much modern art would fit 37 Across.  I’ve settled on the above, which neatly combines 9 Across and 62 Across*
+*Today’s puzzle suggests a number of illustration possibilities.  A nice marsh landscape would fit the title.  All too much modern art would fit 37 Across.  I’ve settled on the above, which neatly combines 9 Across and 62 Across*
 
 ***
 
@@ -23,3 +23,7 @@ url: /blog/2019/3/9/crossword-068-ignis-fatuus
 [068 Ignis Fatuus](/068-ignis-fatuus-online)
 
 ![](/images/Pointing-Hand-28.png)
+
+<br>
+
+<br>

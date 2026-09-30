@@ -13,7 +13,7 @@ categories: [Novels]
 
 ***
 
-*For Walford, see Novels* [*018*](/blog/2018/3/20/novel-018-lb-walford-a-stiff-necked-generation-1889)*,* [*066*](/blog/2019/2/19/novel-066-lucy-b-walford-the-babys-grandmother-1884)*,* [*121*](/blog/2020/3/10/novel-121-lb-walford-troublesome-daughters-1880)*,* [*174*](/blog/2021/3/16/novel-174-lucy-b-walford-cousins-1879)*,* [*227*](/blog/2022/3/22/novel-227-lucy-b-walford-pauline-1877)*,* [*279*](/blog/2023/3/21/lucy-b-walford-the-one-good-guest-1892)*, and* [335](/blog/2025/8/2/novel-335-lucy-b-walford-the-mischief-of-monica-1891).
+*For Walford, see Novels* [*018*](/blog/2018/3/20/novel-018-lb-walford-a-stiff-necked-generation-1889)*,* [*066*](/blog/2019/2/19/novel-066-lucy-b-walford-the-babys-grandmother-1884)*,* [*121*](/blog/2020/3/10/novel-121-lb-walford-troublesome-daughters-1880)*,* [*174*](/blog/2021/3/16/novel-174-lucy-b-walford-cousins-1879)*,* [*227*](/blog/2022/3/22/novel-227-lucy-b-walford-pauline-1877)*,*[*279*](/blog/2023/3/21/lucy-b-walford-the-one-good-guest-1892)*, and* [335](/blog/2025/8/2/novel-335-lucy-b-walford-the-mischief-of-monica-1891).
 
 The characters are “presented with all the verisimilitude of Mrs. Walford’s facile style, just tipped with humour as of old”; as a whole it stands out “from the rest of Mrs. Walford’s work on a height apart.” *Academy,* February 22, 1896
 

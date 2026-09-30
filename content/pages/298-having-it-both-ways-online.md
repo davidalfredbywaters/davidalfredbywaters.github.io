@@ -3,7 +3,7 @@ title: "298 Having It Both Ways (online)"
 url: /298-having-it-both-ways-online
 ---
 
-# Crossword 298: Having It Both Ways {.center}
+#  Crossword 298: Having It Both Ways {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*The foodstuffs alluded to in this puzzle would not make for a particularly healthy or appetizing meal, but it might be better than the one in the picture above, which seems to consist of a salad, a roast with a chocolate doughnut (?) on top of it, and a giant slice of cake.  Appetizing or not, however, I like this picture—the huge fish painting at the left, the horses looking through the window, the dog statues on the hearth, and the wary reactions of the pretty woman and her guardian, seated on the right, to the blotchy-faced man who seems to be inviting himself to join them.*
+*The foodstuffs alluded to in this puzzle would not make for a particularly healthy or appetizing meal, but it might be better than the one in the picture above, which seems to consist of a salad, a roast with a chocolate doughnut (?) on top of it, and a giant slice of cake.  Appetizing or not, however, I like this picture—the huge fish painting at the left, the horses looking through the window, the dog statues on the hearth, and the wary reactions of the pretty woman and her guardian, seated on the right, to the blotchy-faced man who seems to be inviting himself to join them.*
 
 ***
 

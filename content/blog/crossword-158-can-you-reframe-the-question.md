@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*So many of those other crossword constructors think they have all the answers!  I, in contrast, retain the questioning mind of a curious child, open to experience, hungering insatiably for new knowledge.  Someday I mean to make a puzzle filled only with open-ended answers, prompted by welcoming, non-restrictive clues like “Stuff” and “Thing.”  Meanwhile here’s another one for which I do have all the answers—78 of them.*
+*So many of those other crossword constructors think they have all the answers!  I, in contrast, retain the questioning mind of a curious child, open to experience, hungering insatiably for new knowledge.  Someday I mean to make a puzzle filled only with open-ended answers, prompted by welcoming, non-restrictive clues like “Stuff” and “Thing.”  Meanwhile here’s another one for which I do have all the answers—78 of them.*
 
 ***
 

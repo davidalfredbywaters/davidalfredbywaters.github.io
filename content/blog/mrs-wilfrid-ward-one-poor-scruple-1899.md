@@ -17,7 +17,7 @@ categories: [Novels]
 
 “The description of an old Romanist county family is excellent. . . . ; a distinctly able book.” *Athenaeum*, April 8, 1899
 
-“Mrs. Wilfrid Ward is in a position to write of Catholic society from the inside, and she has done so in a remarkable novel with a candour that will render her work attractive to thoughtful persons beyond the pale. . . .  it is excellently written and every character is well drawn. Notable too is its absolute fairness, which leaves the reader to weigh the heroine’s scruple for himself, aided but not biassed by the author. . . .  as a whole . . . a book that should make its mark.” *Saturday Review,* April 8, 1899
+“Mrs. Wilfrid Ward is in a position to write of Catholic society from the inside, and she has done so in a remarkable novel with a candour that will render her work attractive to thoughtful persons beyond the pale. . . .  it is excellently written and every character is well drawn. Notable too is its absolute fairness, which leaves the reader to weigh the heroine’s scruple for himself, aided but not biassed by the author. . . .  as a whole . . . a book that should make its mark.” *Saturday Review,* April 8, 1899
 
 ***Download this fortnight’s novel:***
 

@@ -3,7 +3,7 @@ title: "295 The Secret Garden (online)"
 url: /295-the-secret-garden-online
 ---
 
-# Crossword 295: The Secret Garden {.center}
+#  Crossword 295: The Secret Garden {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

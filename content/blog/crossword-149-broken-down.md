@@ -8,7 +8,7 @@ url: /blog/2020/9/26/crossword-149-broken-down
 
 ***
 
-*Astute solvers will recall that nine weeks ago I posted a puzzle called “Beaten Down.”  This is what the critics call a “recurring motif.”*
+*Astute solvers will recall that  nine weeks ago I posted a puzzle called “Beaten Down.”  This is what the critics call a “recurring motif.”*
 
 ***
 

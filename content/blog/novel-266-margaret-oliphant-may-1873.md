@@ -17,7 +17,7 @@ categories: [Novels]
 
 “One of the best novels of the year. . . . Nothing can be happier than the development of three characters in the second volume.” *Athenaeum*, April 19, 1873
 
-“We hesitate not to say that May Heriot is one of the very finest characters in the wide range of English fiction.  And yet there is nothing unnatural about her—you feel that there have been, and are, just such good Scotch gentlewomen as May Heriot.” *British Quarterly Review*, July 1873
+“We hesitate not to say that May Heriot is one of the very finest characters in the wide range of English fiction.  And yet there is nothing unnatural about her—you feel that there have been, and are, just such good Scotch gentlewomen as May Heriot.” *British Quarterly Review*, July 1873
 
 *A (somewhat) contrasting view:*
 

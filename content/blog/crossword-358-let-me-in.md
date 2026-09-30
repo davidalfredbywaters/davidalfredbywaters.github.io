@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Me!  It’s me time.  It’s all about me.  Not other people, and certainly not you.  Me.  I’m tired of everybody else always being everywhere and having everything.  It’s my turn.  I need to take care of me. At least, that’s what my therapist says.*
+*Me!  It’s me time.  It’s all about me.  Not other people, and certainly not you.  Me.  I’m tired of everybody else always being everywhere and having everything.  It’s my turn.  I need to take care of me. At least, that’s what my therapist says.*
 
 ***
 

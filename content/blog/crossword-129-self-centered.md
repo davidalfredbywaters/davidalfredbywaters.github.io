@@ -13,7 +13,7 @@ categories: [Crosswords]
 
 *Why? I find that other people’s crosswords show a troubling disregard for my tastes, and preferences, and interests, and opinions, and areas of expertise. And this, I suspect, is because these crosswords are made by people other than me—or, if made by me, yet edited by people other than me.*
 
-*So what’s to be done?  I thought of writing an article, or even a daily blog, scolding these various crossword purveyors for their non-me-friendly content.  But then I hit on a simpler solution: from now on, I’ll just do my own crosswords and nobody else’s.  And I recommend that you, gentle solver, take the same principled course:  give up those other crosswords and just do mine; cancel your crossword subscriptions and donate the money to me.  Me.*
+*So what’s to be done?  I thought of writing an article, or even a daily blog, scolding these various crossword purveyors for their non-me-friendly content.  But then I hit on a simpler solution: from now on, I’ll just do my own crosswords and nobody else’s.  And I recommend that you, gentle solver, take the same principled course:  give up those other crosswords and just do mine; cancel your crossword subscriptions and donate the money to me.  Me.*
 
 ***
 

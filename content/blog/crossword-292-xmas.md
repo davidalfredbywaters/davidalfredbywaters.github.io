@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Hey solvers!  Xmas is almost here!  And then comes NYE, and after that MLK Day!  There’s no time to spll thgs out!  So hurry! Do this xword rght nw!*
+*Hey solvers!  Xmas is almost here!  And then comes NYE, and after that MLK Day!  There’s no time to spll thgs out!  So hurry!  Do this xword rght nw!*
 
 ***
 

@@ -17,7 +17,7 @@ categories: [Novels]
 
 Payn “relieves the artifice of his stories with a good deal of human nature, generally of the genial kind, and is gifted with humour of the irrepressible order.” *Spectator*, November 13, 1880
 
-“Mr. Payn’s fertility of invention and freshness of style are wonderful.” *Saturday Review*, November 27, 1880
+“Mr. Payn’s fertility of invention and freshness of style are wonderful.”  *Saturday Review*, November 27, 1880
 
 “A well contrived story, full of incident, and sufficiently intricate to mystify the reader.” *Athenaeum*, December 11, 1880
 

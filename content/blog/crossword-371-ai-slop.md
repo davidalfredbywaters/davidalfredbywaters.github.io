@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*AI slop is everywhere these days: blogs and podcasts, newspapers and novels are full of the stuff.  And now, in spite of my untiring vigilance, some of it seems to have oozed into this otherwise sparklingly clean web site (I think one of the interns left the door open).  What a mess.  I hope to have it cleaned up before the new year. Meanwhile, you might want to wait to solve today’s crossword until breakfast is over.*
+*AI slop is everywhere these days: blogs and podcasts, newspapers and novels are full of the stuff.  And now, in spite of my untiring vigilance, some of it seems to have oozed into this otherwise sparklingly clean web site (I think one of the interns left the door open).  What a mess.  I hope to have it cleaned up before the new year. Meanwhile, you might want to wait to solve today’s crossword until breakfast is over.*
 
 ***
 

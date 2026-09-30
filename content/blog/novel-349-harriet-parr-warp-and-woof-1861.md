@@ -21,7 +21,7 @@ The characters are “well drawn”; “a work of considerable power and thought
 
 *A contrasting view:*
 
-It has “an atmosphere of gloom so deep that the most pleasurable situation is overshadowed by the misery actors and spectators alike know to exist around them.” The author’s “decided literary power” gives it an “air of truth” that only makes it worse. *Spectator*, December 7, 1861
+It has “an atmosphere of gloom so deep that the most pleasurable situation is overshadowed by the misery actors and spectators alike know to exist around them.” The author’s “decided literary power” gives it an “air of truth” that only makes it worse.  *Spectator*, December 7, 1861
 
 ***Download this fortnight’s novel:***
 

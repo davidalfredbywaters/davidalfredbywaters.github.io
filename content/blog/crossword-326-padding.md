@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*What would we do without padding?  Everywhere—in the pages of student essays and of Victorian novels, through hours upon hours of concept albums and superhero movies, on the chests of women and the shoulders of men, in the résumés of politicians and the expense accounts of executives, on the knees of skateboarders and the walls of maniacs—padding enhances and protects us!  And yet how often is it mindlessly maligned!  Today’s puzzle offers in contrast a humble tribute.*
+*What would we do without padding?  Everywhere—in the pages of student essays and of Victorian novels, through hours upon hours of concept albums and superhero movies, on the chests of women and the shoulders of men, in the résumés of politicians and the expense accounts of executives, on the knees of skateboarders and the walls of maniacs—padding enhances and protects us!  And yet how often is it mindlessly maligned!  Today’s puzzle offers in contrast a humble tribute.*
 
 ***
 

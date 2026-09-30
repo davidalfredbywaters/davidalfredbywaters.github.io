@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I meant to have this ready in time for Charles III’s coronation, back in May, 2023, but I felt it needed a couple years’ more polishing. So now its dedication is up for grabs.  Perhaps you, reader, are heir-apparent to a monarchy, or know somebody who is?  If so, drop me a line, and we can make a deal; I’ll settle for any minor position at the court (except groom of the stole).*
+*I meant to have this ready in time for Charles III’s coronation, back in May, 2023, but I felt it needed a couple years’ more polishing. So now its dedication is up for grabs.  Perhaps you, reader, are heir-apparent to a monarchy, or know somebody who is?  If so, drop me a line, and we can make a deal; I’ll settle for any minor position at the court (except groom of the stole).*
 
 ***
 

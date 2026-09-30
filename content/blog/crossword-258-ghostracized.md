@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Why should ghosts be traditionally associated with aversion and fear?  I’d love to encounter one, and thereby disprove to myself the seeming probability of personal annihilation.  So if you know any ghosts, please send them my way; or at least try to gather and pass on to me any tips they might be willing to share as to posthumous survival.*
+*Why should ghosts be traditionally associated with aversion and fear?  I’d love to encounter one, and thereby disprove to myself the seeming probability of personal annihilation.  So if you know any ghosts, please send them my way; or at least try to gather and pass on to me any tips they might be willing to share as to posthumous survival.*
 
 ***
 

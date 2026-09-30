@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Henry Cuyler Bunner (1855-1896) was better known for his stories and plays than his two novels.  This, the first, is a brief comedy of situation, delightful except for its odd ending.*
+*Henry Cuyler Bunner (1855-1896) was better known for his stories and plays than his two novels.  This, the first, is a brief comedy of situation, delightful except for its odd ending.*
 
-“A slight yet charming study of life in the French quarter of New York."  *Eclectic Magazine*, July, 1886
+“A slight yet charming study of life in the French quarter of New York."  *Eclectic Magazine*, July, 1886
 
-The plot is “gracefully and artistically handled”;“the story is rich in sensitive passages, both humor and pathos being well portrayed.”  *Advance*, October 7, 1886
+The plot is “gracefully and artistically handled”;“the story is rich in sensitive passages, both humor and pathos being well portrayed.”  *Advance*, October 7, 1886
 
 ***Download this week’s novel:***
 

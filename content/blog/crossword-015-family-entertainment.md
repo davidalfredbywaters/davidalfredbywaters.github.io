@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I have never been able to habituate myself to the simulated gore, on television and in the movies, for which the whole world seems to have such an insatiable appetite.  Severed limbs, gushing blood, exploding heads—I don’t see the appeal.  This crossword is my little act of protest.*
+*I have never been able to habituate myself to the simulated gore, on television and in the movies, for which the whole world seems to have such an insatiable appetite.  Severed limbs, gushing blood, exploding heads—I don’t see the appeal.  This crossword is my little act of protest.*
 
 ***
 

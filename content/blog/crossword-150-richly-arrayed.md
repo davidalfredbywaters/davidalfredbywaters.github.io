@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*Some people seem to think that, just because they never leave the house anymore, they need take no trouble about their dress—that they can sit around all day in sweatpants and t-shirts, or other sartorial atrocities named for bodily fluids or letters of the alphabet, and suffer no debilitating moral effects in consequence.*
+*Some people seem to think that, just because they never leave the house anymore, they need take no trouble about their dress—that they can sit around all day in sweatpants and  t-shirts,  or other sartorial atrocities named for bodily fluids or letters of the alphabet, and suffer no debilitating moral effects in consequence.*
 
-*Not I! When I made this puzzle, I wore a three-piece Oxford-gray vicuna-wool suit trimmed in gold thread, a hand-stitched mulberry-silk shirt of deepest burgundy, a powder-blue diamond-plated necktie, and Belgian linen underwear lined with mink.  I trust that when you solve it you also will array yourself no less richly.*
+*Not I! When I made this puzzle, I wore a three-piece Oxford-gray vicuna-wool suit trimmed in gold thread, a hand-stitched mulberry-silk shirt of deepest burgundy, a powder-blue diamond-plated necktie, and Belgian linen underwear lined with mink.  I trust that when you solve it you also will  array yourself no less richly.*
 
 ***
 

@@ -15,9 +15,9 @@ categories: [Novels]
 
 *Another tale of love and adultery, of good people at the mercy of bad ones, by the great Noell Radecliffe (see* [Novel 005](/blog/2017/12/19/novel-005-noell-radecliffe-the-secret-history-of-a-household)*), a writer as brilliant as she (he?) is forgotten.*
 
-“The character of the heroine . . .  is conceived with singular delicacy, and sustained with admirable consistency and spirit.  Other personages are introduced whom we recognise as portraitures of real life.  There is Horace Ferrers, whom we all know.  Arthur Darrell . . . is a man and not a conventional hero.  Lady Emily . . . is a picture drawn by a masterly hand, and made effective not by bold strokes and dashing outlines, but by a quiet completeness that gradually brings out the portrait distinct and perfect as a living thing.” *Critic*, January 2, 1854
+“The character of the heroine . . .  is conceived with singular delicacy, and sustained with admirable consistency and spirit.  Other personages are introduced whom we recognise as portraitures of real life.  There is Horace Ferrers, whom we all know.  Arthur Darrell . . . is a man and not a conventional hero.  Lady Emily . . . is a picture drawn by a masterly hand, and made effective not by bold strokes and dashing outlines, but by a quiet completeness that gradually brings out the portrait distinct and perfect as a living thing.”  *Critic*, January 2, 1854
 
-“Kind, good, simple, unforced, full of energy, full of feeling.” *Athenaeum*, January 14, 1854
+“Kind, good, simple, unforced, full of energy, full of feeling.”  *Athenaeum*, January 14, 1854
 
 ***Download this week’s novel:***
 

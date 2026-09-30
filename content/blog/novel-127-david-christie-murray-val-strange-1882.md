@@ -13,9 +13,9 @@ categories: [Novels]
 
 ***
 
-*Here is another extravagantly-plotted novel by David Christie Murray (see Novels* [*009*](/blog/2018/1/16/novel-009-david-christie-murray-hearts-1883)*,* [068](/blog/2019/3/5/david-christie-murray-josephs-coat-1881)*). In addition to the title character, his rival, and his beloved, it features a poor American seeking work in England.  An English critic finds in this character “that great and increasingly rare charm of freshness”; he “would suffice to redeem from insignificance even a book otherwise not noteworthy” (*Academy*, December 2, 1882).   An American critic condemns him as “the exaggerated Yankee of the stage.” (*Independent*, March 1, 1883).  You decide.*
+*Here is another extravagantly-plotted novel by David Christie Murray (see Novels* [*009*](/blog/2018/1/16/novel-009-david-christie-murray-hearts-1883)*,* [068](/blog/2019/3/5/david-christie-murray-josephs-coat-1881)*). In addition to the title character, his rival, and his beloved, it features a poor American seeking work in England.  An English critic finds in this character “that great and increasingly rare charm of freshness”; he “would suffice to redeem from insignificance even a book otherwise not noteworthy” (*Academy*, December 2, 1882).   An American critic condemns him as “the exaggerated Yankee of the stage.” (*Independent*, March 1, 1883).  You decide.*
 
-“A novel of rare merit, showing very considerable mastery of character, with unusual care of construction. . . . Without ever stooping to be grotesquely sensational,” the author “freely rings all the changes in the passions of love and jealousy, cupidity, despair, and revenge.” *Times*, February 8, 1883
+“A novel of rare merit, showing very considerable mastery of character, with unusual care of construction. . . .  Without ever stooping to be grotesquely sensational,” the author “freely rings all the changes in the passions of love and jealousy, cupidity, despair, and revenge.”  *Times*, February 8, 1883
 
 “No one who reads the first hundred pages of this novel can for a moment doubt that their writer is a man of strong powers of observation and considerable grasp of character.” *British Quarterly*, March, 1883
 

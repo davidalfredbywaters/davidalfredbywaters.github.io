@@ -8,7 +8,7 @@ url: /blog/2019/10/5/crossword-098-the-herd-of-independent-minds
 
 ***
 
-*The main purpose of my work, like that of many crossword constructors these days, is to effect political change.  I find that, if I mention a thing in one of my puzzles, people start thinking about that thing in the way I want them to think about it, and change ensues.  Way back in April 2018, for example, I included POT in a puzzle (No.* [*023*](/blog/2018/4/28/crossword-023-separation-anxiety)*, 65 Down), and since that time, marijuana legalization efforts have continued to gain ground nationally. This week, I call attention to the role of animal agriculture in global warming.*
+*The main purpose of my work, like that of many crossword constructors these days, is to effect political change.  I find that, if I mention a thing in one of my puzzles, people start thinking about that thing in the way I want them to think about it, and change ensues.  Way back in April 2018, for example, I included POT in a puzzle (No.* [*023*](/blog/2018/4/28/crossword-023-separation-anxiety)*, 65 Down), and since that time, marijuana legalization efforts have continued to gain ground nationally. This week, I call attention to the role of animal agriculture in global warming.*
 
 ***
 
@@ -23,3 +23,5 @@ url: /blog/2019/10/5/crossword-098-the-herd-of-independent-minds
 [098 The Herd of Independent Minds](/098-the-herd-of-independent-minds-online)
 
 ![](/images/Pointing-Hand-14.png)
+
+<br>

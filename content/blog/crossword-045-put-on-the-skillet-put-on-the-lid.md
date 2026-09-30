@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*I once made a cd for a friend with 24 distinct recorded versions of the song on which this puzzle is based.  He hasn’t spoken to me in years.  Do you think there’s a connection?*
+*I once made a cd for a friend with 24 distinct recorded versions of the song on which this puzzle is based.  He hasn’t spoken to me in years.  Do you think there’s a connection?*
 
-*The original title of this puzzle—which almost no one understood—was “Put on the Skillet! Put on the Lid!” The final, much superior, title was the inspiration of Ralph Bunker, who, along with a man who prefers to be called “Bob Kerfuffle,” has been test-solving my puzzles for months.  I’ll take this occasion to express my profound gratitude to both.  Would you also like to test-solve my puzzles?  Send me an email!  The qualifications are minimal:  an unerring sense of which Roman numerals correspond to which Arabic numerals would do (I find myself surprisingly shaky on this subject).  The compensation, however, is even more minimal:  nothing whatsoever!*
+*The original title of this puzzle—which almost no one understood—was “Put on the Skillet! Put on the Lid!” The final, much superior, title was the inspiration of Ralph Bunker, who, along with a man who prefers to be called “Bob Kerfuffle,” has been test-solving my puzzles for months.  I’ll take this occasion to express my profound gratitude to both.  Would you also like to test-solve my puzzles?  Send me an email!  The qualifications are minimal:  an unerring sense of which Roman numerals correspond to which Arabic numerals would do (I find myself surprisingly shaky on this subject).  The compensation, however, is even more minimal:  nothing whatsoever!*
 
 ***
 

@@ -3,7 +3,7 @@ title: "357 Dividends"
 url: /357-dividends
 ---
 
-# Crossword 357: Dividends {.center}
+#  Crossword 357: Dividends {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

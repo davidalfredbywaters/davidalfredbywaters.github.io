@@ -15,7 +15,7 @@ categories: [Novels]
 
 *Here is another engaging social comedy—or tragicomedy—by White (see* [*Novel 075*](/blog/2019/4/23/novel-075-percy-white-the-grip-of-the-bookmaker-1901)*).*
 
-One character is “a finished picture and a masterpiece. . . .  one of the most brilliantly executed portraits in modern fiction.” *Pall Mall Gazette*, December 2, 1896
+One character is “a finished picture and a masterpiece. . . .  one of the most brilliantly executed portraits in modern fiction.”  *Pall Mall Gazette*, December 2, 1896
 
 “A clever novel, subtle and discriminating in its character-drawing, containing at least one remarkable portrait, and full of excellent things that make it worth reading.”  *The Standard*, January 1, 1897.
 

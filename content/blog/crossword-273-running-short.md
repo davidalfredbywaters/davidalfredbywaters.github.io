@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*What with supply-chain issues and some strategic downsizing, our store of words has been sadly depleted.  A long course of severe weather has shut down the mines from which we imported most of our homophones. And of course a small concern like ours can’t hope to compete with the big players while the global anagram shortage keeps driving up prices.  So for now we’re going to have to make do with fewer theme answers and smaller words, such as you’ll find in today’s puzzle.*
+*What with supply-chain issues and some strategic downsizing, our store of words has been sadly depleted.  A long course of severe weather has shut down the mines from which we imported most of our homophones. And of course a small concern like ours can’t hope to compete with the big players while the global anagram shortage keeps driving up prices.  So for now we’re going to have to make do with fewer theme answers and smaller words, such as you’ll find in today’s puzzle.*
 
 ***
 

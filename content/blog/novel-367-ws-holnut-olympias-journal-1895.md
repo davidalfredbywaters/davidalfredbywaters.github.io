@@ -13,13 +13,13 @@ categories: [Novels]
 
 ***
 
-*About W.S. Holnut I can discover nothing whatsoever.  This appears to be the only work ever published under that name.*
+*About W.S. Holnut I can discover nothing whatsoever.  This appears to be the only work ever published under that name.*
 
 “A more delightful book than this has not come the way of a toiling reviewer for some little time”; “a pretty piece of kindly satire.” *Saturday Review*, April 6, 1895
 
 *A contrasting view:*
 
-“The satire is well meant, but a little heavy. . . . The story is readable, but not . . . 'convincing’” *Athenaeum*, March 16, 1895
+“The satire is well meant, but a little heavy. . . .  The story is readable, but not . . . 'convincing’” *Athenaeum*, March 16, 1895
 
 ***Download this fortnight’s novel:***
 

@@ -3,7 +3,7 @@ title: "349 Strip Joint"
 url: /349-strip-joint
 ---
 
-# Crossword 349: Strip Joint {.center}
+#  Crossword 349: Strip Joint {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

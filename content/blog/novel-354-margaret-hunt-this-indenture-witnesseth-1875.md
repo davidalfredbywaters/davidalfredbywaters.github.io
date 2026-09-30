@@ -15,7 +15,7 @@ categories: [Novels]
 
 *For Hunt, see Novels* [*039*](/blog/2018/8/14/novel-039-mrs-juliet-1892) *and* [*285*](/blog/2023/9/2/margaret-hunt-the-leaden-casket-1880)*.*
 
-Hunt “writes extremely well, and often forcibly.  She lays down her plan well beforehand, and carries it out without hurry and in good proportions”; “we are glad, on the whole, to commend this novel almost unreservedly.” *Spectator*, December 4, 1875
+Hunt “writes extremely well, and often forcibly.  She lays down her plan well beforehand, and carries it out without hurry and in good proportions”; “we are glad, on the whole, to commend this novel almost unreservedly.” *Spectator*, December 4, 1875
 
 *A somewhat contrasting view:*
 
@@ -28,3 +28,5 @@ v.1 <https://archive.org/details/thisindenturewit01hunt>
 v. 2 <https://archive.org/details/thisindenturewit02hunt>
 
 v. 3 <https://archive.org/details/thisindenturewit03hunt>
+
+<br>

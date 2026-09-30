@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Tomorrow I will publish a Sunday crossword in* The New York Times*.  The success has gone to my head.*
+*Tomorrow I will publish a Sunday crossword in* The New York Times*.  The success has gone to my head.*
 
 ***
 

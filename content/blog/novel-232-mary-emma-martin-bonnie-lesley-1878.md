@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Mary Emma Martin (1845-1931) wrote some 32 novels during the Victorian period, many of them directed to children or young ladies.  This one, her first, though equipped with routine Victorian characters following a routine Victorian plot, is nonetheless intelligent and engaging.*
+*Mary Emma Martin (1845-1931) wrote some 32 novels during the Victorian period, many of them directed to children or young ladies.  This one, her first, though equipped with routine Victorian characters following a routine Victorian plot, is nonetheless intelligent and engaging.*
 
 “There is no praise too high for Mrs. Martin’s delightful story.” *Academy*, June 21, 1878
 
-An “admirable little novelette, . . . spirited, interesting, refined and humorous.” *Spectator*, November 23, 1878
+An “admirable little novelette, . . .  spirited, interesting, refined and humorous.”  *Spectator*, November 23, 1878
 
 ***Download this week’s novel:***
 

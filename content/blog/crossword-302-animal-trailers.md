@@ -8,7 +8,7 @@ url: /blog/2024/5/4/crossword-302-animal-trailers
 
 ***
 
-*Are you feeling sad again, depressive solver?  Is your advice ignored?  Are your merits unrecognized?  Is all your love in vain?  I remember feeling that way myself once, years ago, before I became a fabulously successful, universally adored crossword constructor.  In particular I remember one day, when I was driving sorrowfully down a rural highway, barely holding back the tears of self-pity, I happened to pass an enormous trailer full of pigs, crammed ruthlessly together, hopelessly confused, mortally terrified—with good reason, as they were headed, no doubt, to the slaughterhouse—and I thought, what do I have to complain about?  Today’s puzzle is a memento of that moment of insight.  Stop whining and solve it.*
+*Are you feeling sad again, depressive solver?  Is your advice ignored?  Are your merits unrecognized?  Is all your love in vain?  I remember feeling that way myself once, years ago, before I became a fabulously successful, universally adored crossword constructor.  In particular I remember one day, when I was driving sorrowfully down a rural highway, barely holding back the tears of self-pity, I happened to pass an enormous trailer full of pigs, crammed ruthlessly together, hopelessly confused, mortally terrified—with good reason, as they were headed, no doubt, to the slaughterhouse—and I thought, what do I have to complain about?  Today’s puzzle is a memento of that moment of insight.  Stop whining and solve it.*
 
 ***
 

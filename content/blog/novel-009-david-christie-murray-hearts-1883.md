@@ -13,7 +13,7 @@ categories: [Novels]
 
 ***
 
-*David Christie Murray (1847-1907) wrote some 30 novels between 1880 and 1907.  Here he sets out to disprove the claim of an “American writer of fiction”  (attacked in his preface) that “all the stories have been told” with an involved, and involving, plot.*
+*David Christie Murray (1847-1907) wrote some 30 novels between 1880 and 1907.  Here he sets out to disprove the claim of an “American writer of fiction”  (attacked in his preface) that “all the stories have been told” with an involved, and involving, plot.*
 
 &nbsp;“The interest of the story is well sustained.” *Academy*, June 6, 1883
 
@@ -23,8 +23,8 @@ The villain’s “picture is drawn with remarkable skill”; the plot “is goo
 
 ***Download this week’s novel:***
 
-v. 1   <https://archive.org/details/heartsnovel01murr>
+v. 1   <https://archive.org/details/heartsnovel01murr>
 
-v. 2   <https://archive.org/details/heartsnovel02murr>
+v. 2   <https://archive.org/details/heartsnovel02murr>
 
-v.3   <https://archive.org/details/heartsnovel03murr>
+v.3   <https://archive.org/details/heartsnovel03murr>

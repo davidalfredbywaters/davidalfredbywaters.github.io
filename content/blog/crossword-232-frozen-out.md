@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*We all got together without even telling you, much less inviting you, and decided that, for the future, you weren’t ever going to be invited again.  A few suggested that maybe, out of pity, you might be allowed just to watch every now and then, when nothing very important was going on, but they were quickly and easily talked down.  Sorry.*
+*We all got together without even telling you, much less inviting you, and decided that, for the future, you weren’t ever going to be invited again.  A few suggested that maybe, out of pity, you might be allowed just to watch every now and then, when nothing very important was going on, but they were quickly and easily talked down.  Sorry.*
 
 ***
 

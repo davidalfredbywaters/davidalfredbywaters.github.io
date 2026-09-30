@@ -3,7 +3,7 @@ title: "306 It’s Curtains for Us! (online)"
 url: /306-its-curtains-for-us-online
 ---
 
-# Crossword 306: It’s Curtains for Us! {.center}
+#  Crossword 306: It’s Curtains for Us! {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

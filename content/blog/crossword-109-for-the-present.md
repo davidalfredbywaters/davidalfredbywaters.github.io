@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Here’s a puzzle that will inspire you to complete a certain pre-Christmas chore, if you happen to engage in this pre-Christmas chore.  If you don’t—here’s a puzzle that will inspire you to congratulate yourself for escaping a certain pre-Christmas chore.*
+*Here’s a puzzle that will inspire you to complete a certain pre-Christmas chore, if you happen to engage in this pre-Christmas chore.  If you don’t—here’s a puzzle that will inspire you to congratulate yourself for escaping a certain pre-Christmas chore.*
 
 ***
 
@@ -24,3 +24,5 @@ categories: [Crosswords]
 [109 For the Present](/109-for-the-present-online)
 
 ![](/images/Pointing-Hand-21.png)
+
+<br>

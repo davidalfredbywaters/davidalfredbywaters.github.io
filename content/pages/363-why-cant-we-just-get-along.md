@@ -3,7 +3,7 @@ title: "363 Why Can't We Just Get Along?"
 url: /363-why-cant-we-just-get-along
 ---
 
-# Crossword 363: Why Can’t We Just Get Along? {.center}
+#  Crossword 363: Why Can’t We Just Get Along? {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

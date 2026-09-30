@@ -13,7 +13,7 @@ A young woman, addled by overindulgence in novels, marries a good but unimaginat
 
 ***
 
-*Mary Elizabeth Braddon (1835-1915) wrote over 60 novels between 1861 and 1900.  In* The Doctor’s Wife *she reflects wittily and ruefully on her craft and its effects.*
+*Mary Elizabeth Braddon (1835-1915) wrote over 60 novels between 1861 and 1900.  In* The Doctor’s Wife *she reflects wittily and ruefully on her craft and its effects.*
 
 “Miss Braddon has displayed quite unexpected power, that she can create a female character ordinary and yet bizarre, analyze her emotions with delicate skill, and display her action in incidents each of which is a surprise, yet on reflection is pronounced by the reader accurate and natural.” *Spectator*, October 22, 1864
 

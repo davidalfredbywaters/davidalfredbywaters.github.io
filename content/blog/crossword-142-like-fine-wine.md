@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*Those other, Brand-X constructors fill their crosswords with stuff—memes, actors, athletes, movie characters—that arose yesterday and will be forgotten tomorrow.  Mine are designed, as the title of this one implies, to grow more rich and satisfying as the years pass.*
+*Those other, Brand-X constructors fill their crosswords with stuff—memes, actors, athletes, movie characters—that arose yesterday and will be forgotten tomorrow.  Mine are designed, as the title of this one implies, to grow more rich and satisfying as the years pass.*
 
-*To be sure, if it’s 2050, and you’re savoring this crossword along with your well-aged 2020 bottle of Lafite-Rothschild, you may be mildly puzzled by 50 Across—but, when you review the historical context, you’ll be able to congratulate  yourself and your peers on the  advances in rationality and humanity your country has made in the last thirty years.*
+*To be sure, if it’s 2050, and you’re savoring this crossword along with your well-aged 2020 bottle of Lafite-Rothschild, you may be mildly puzzled by 50 Across—but, when you review the historical context, you’ll be able to congratulate  yourself and your peers on the  advances in rationality and humanity your country has made in the last thirty years.*
 
 ***
 
@@ -23,4 +23,5 @@ categories: [Crosswords]
 
 ***Solve this week’s crossword online:***
 
-[142 Like Fine Wine﻿](/142-like-fine-wine-online)
+[142 Like Fine Wine﻿](/142-like-fine-wine-online)<br>
+<br>

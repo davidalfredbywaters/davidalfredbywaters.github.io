@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Here at David Alfred Bywaters’s Crossword Cavalcade and Fortnightly Victorian Novel Recommender we always conform our dress to the eternal and universal rules of etiquette.  We wear morning coats, evening gowns, dinner jackets, party frocks, top hats, white ties, and tails—whatever is appropriate to the time of day, the season of the year, the nature of the occasion, etc.  Never, ever do we wear “tees,” cropped or otherwise.  But our consumer research department advises us that we need to appeal to a broader demographic—to the vile habits, undeveloped tastes, uninformed opinions, and appalling manners of the vulgar multitude.  So today’s puzzle includes allusions not only to the informal dress but also to various of the other things—musical, literary, etc.—which that multitude is said to enjoy.*
+*Here at David Alfred Bywaters’s Crossword Cavalcade and Fortnightly Victorian Novel Recommender we always conform our dress to the eternal and universal rules of etiquette.  We wear morning coats, evening gowns, dinner jackets, party frocks, top hats, white ties, and tails—whatever is appropriate to the time of day, the season of the year, the nature of the occasion, etc.  Never, ever do we wear “tees,” cropped or otherwise.  But our consumer research department advises us that we need to appeal to a broader demographic—to the vile habits, undeveloped tastes, uninformed opinions, and appalling manners of the vulgar multitude.  So today’s puzzle includes allusions not only to the informal dress but also to various of the other things—musical, literary, etc.—which that multitude is said to enjoy.*
 
 ***
 

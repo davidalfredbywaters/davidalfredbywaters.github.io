@@ -3,7 +3,7 @@ title: "292 Xmas (online)"
 url: /292-xmas-online
 ---
 
-# Crossword 292: Xmas {.center}
+#  Crossword 292: Xmas {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

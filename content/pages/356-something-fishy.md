@@ -3,7 +3,7 @@ title: "356 Something Fishy"
 url: /356-something-fishy
 ---
 
-# Crossword 356: Something Fishy {.center}
+#  Crossword 356: Something Fishy {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

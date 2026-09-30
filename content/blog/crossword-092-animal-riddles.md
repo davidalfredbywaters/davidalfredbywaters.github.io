@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*When you’re done with this week’s puzzle, you’ll have not only another happy solving memory to cherish forever, but also eight hilarious riddles certain to enhance your popularity at any convivial gathering.*
+*When you’re done with this week’s puzzle, you’ll have not only another happy solving memory to cherish forever, but also eight hilarious riddles certain to enhance your popularity at any convivial gathering.*
 
 ***
 

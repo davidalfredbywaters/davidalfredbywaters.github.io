@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Here we are at Crossword 200, and it seems only yesterday that I was refusing to apologize for the obviousness of the theme of* [Crossword 100](/blog/2019/10/19/crossword-100-centered)*.  Anyway, as the puzzle below will show, I’ve learned nothing in the interim.  If I make it to Crossword 300, I might have to think up some other approach.*
+*Here we are at Crossword 200, and it seems only yesterday that I was refusing to apologize for the obviousness of the theme of* [Crossword 100](/blog/2019/10/19/crossword-100-centered)*.  Anyway, as the puzzle below will show, I’ve learned nothing in the interim.  If I make it to Crossword 300, I might have to think up some other approach.*
 
 ***
 

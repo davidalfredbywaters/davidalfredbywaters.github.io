@@ -14,7 +14,7 @@ Gustave Moreau, Hercules and the Lernaean Hydra
 
 ***
 
-*I was planning a large puzzle based on the twelve labors of Hercules.  I was going to make the labors turn corners so that they’d seem extra laborious (crossword answers that turn corners are really hot these days). I had fit in "Nemean," "Lernaean," "Ceryneian," "Erymanthian," and "Augean," all very neatly—but "Stymphalian" defeated me. Oh well—here’s this instead.*
+*I was planning a large puzzle based on the twelve labors of Hercules.  I was going to make the labors turn corners so that they’d seem extra laborious (crossword answers that turn corners are really hot these days).  I had fit in "Nemean," "Lernaean," "Ceryneian," "Erymanthian," and "Augean," all very neatly—but "Stymphalian"  defeated me.  Oh well—here’s this instead.*
 
 ***Download this week’s crossword:***
 
@@ -27,3 +27,5 @@ Gustave Moreau, Hercules and the Lernaean Hydra
 [076 Hydration](/076-hydration-online)
 
 ![](/images/Pointing-Hand-35.png)
+
+<br>

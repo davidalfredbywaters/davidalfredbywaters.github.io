@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Beware! On the outside you’ll find  pleasant phrases about this and that (Biblical dogs, dairy farmers, Hibernian patriots, luxury homes, intoxicated birds) but oh! what lurks within?  Your spine will tingle, your flesh will creep; it will be weeks before you again dare to work a crossword alone.*
+*Beware!  On the outside you’ll find  pleasant phrases about this and that (Biblical dogs, dairy farmers, Hibernian patriots, luxury homes, intoxicated birds) but oh! what lurks within?  Your spine will tingle, your flesh will creep; it will be weeks before you again dare to work a crossword alone.*
 
 ***
 

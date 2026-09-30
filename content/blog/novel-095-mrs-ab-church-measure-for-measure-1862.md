@@ -13,9 +13,9 @@ categories: [Novels]
 
 ***
 
-*About Mrs. A.B. Church nothing is known except that she wrote four novels between 1860 and 1881, of which this is the second.  The arbitrary mystification at the beginning is a bit annoying, but the novel improves greatly as it goes on; the portrait of the villain who appears in the latter half is especially good.*
+*About Mrs. A.B. Church nothing is known except that she wrote four novels between 1860 and 1881, of which this is the second.  The arbitrary mystification at the beginning is a bit annoying, but the novel improves greatly as it goes on; the portrait of the villain who appears in the latter half is especially good.*
 
-“Without being a striking story, ‘Measure for Measure’ is pleasing and interesting, and there is a refinement about the author’s style which might recommend an even less remarkable production.” *Morning Post*, September 3, 1862
+“Without being a striking story, ‘Measure for Measure’ is pleasing and interesting, and there is a refinement about the author’s style which might recommend an even less remarkable production.”  *Morning Post*, September 3, 1862
 
 “This is a novel with a clever plot, skilfully and lightly telling its tale through the sort of conversation that a woman finds and makes . . . when she forms part of society in an English village near a small country town.” *Examiner*, September 6, 1862
 

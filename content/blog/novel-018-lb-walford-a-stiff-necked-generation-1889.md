@@ -13,13 +13,13 @@ categories: [Novels]
 
 ***
 
-*Lucy Bethia Walford (1845-1915) wrote over 40 novels between 1874 and 1914.  This one cleverly represents hopeless mutual incomprehension between characters of different social backgrounds.*
+*Lucy Bethia Walford (1845-1915) wrote over 40 novels between 1874 and 1914.  This one cleverly represents hopeless mutual incomprehension between characters of different social backgrounds.*
 
-“It is a society novel of an excellent type:  abounding in clever delineations of human character, interesting snatches of bright conversation, and pretty descriptions of natural scenery.” *Scots Observer,*January 5, 1889
+“It is a society novel of an excellent type:  abounding in clever delineations of human character, interesting snatches of bright conversation, and pretty descriptions of natural scenery.” *Scots Observer,*January 5, 1889
 
-“There is much that is unusually clever in the story.  The author’s sense of humour is genuine”; her “characters are, without exception, lifelike, even the workings of a young girl’s mind . . . are analysed with striking fidelity.” *Morning Post*, January 23, 1889
+“There is much that is unusually clever in the story.  The author’s sense of humour is genuine”; her “characters are, without exception, lifelike, even the workings of a young girl’s mind . . . are analysed with striking fidelity.” *Morning Post*, January 23, 1889
 
-“A very interesting and carefully executed piece of work. . . . As usual, the author has wisely declined to encumber herself with a complicated plot; and though there is . . . quite enough story to keep the interest from flagging . . . the book is mainly attractive in virtue of its bright, lifelike conception and its capable and artistic delineation of character.” “Subtlety of handling which results in simplicity of effect is always a fine art, and the portrait of Major Gilbert seems to us very fine art indeed.”  *Spectator*, April 29, 1889
+“A very interesting and carefully executed piece of work. . . .  As usual, the author has wisely declined to encumber herself with a complicated plot; and though there is . . . quite enough story to keep the interest from flagging  . . .  the book is mainly attractive in virtue of its bright, lifelike conception and its capable and artistic delineation of character.” “Subtlety of handling which results in simplicity of effect is always a fine art, and the portrait of Major Gilbert seems to us very fine art indeed.”  *Spectator*, April 29, 1889
 
 ***Download this week’s novel:***
 

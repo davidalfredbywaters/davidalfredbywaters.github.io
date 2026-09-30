@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Frances Frederica Montrésor (1862-1934) wrote a dozen or so novels between 1895 and 1907.  This one has interestingly conflicted characters and (except for an incongruous South American episode) a good plot.*
+*Frances Frederica Montrésor (1862-1934) wrote a dozen or so novels between 1895 and 1907.  This one has interestingly conflicted characters and (except for an incongruous South American episode) a good plot.*
 
-“Cleverly thought out, and full of sympathy and observance, it is a book suited to all kinds and sorts of people. The interest . . . is never allowed to flag, while the quality of its character drawing gives it a delicate atmospheric beauty by no means common.” *Academy*, November 9, 1901
+“Cleverly thought out, and full of sympathy and observance, it is a book suited to all kinds and sorts of people.  The interest . . . is never allowed to flag, while the quality of its character drawing gives it a delicate atmospheric beauty by no means common.” *Academy*, November 9, 1901
 
-This “adds to the sincerity, simplicity, and insight marking her other stories a larger motive and a stronger grasp. . . . There is a touch of Mrs. Oliphant in the quiet humor, in the detached view and appraisement of ‘the human,’ and in the enduring consciousness of eternal goodness.”  *New York Times*, December 7, 1901
+This “adds to the sincerity, simplicity, and insight marking her other stories a larger motive and a stronger grasp. . . .  There is a touch of Mrs. Oliphant in the quiet humor, in the detached view and appraisement of ‘the human,’ and in the enduring consciousness of eternal goodness.”  *New York Times*, December 7, 1901
 
 Download this week’s novel:
 

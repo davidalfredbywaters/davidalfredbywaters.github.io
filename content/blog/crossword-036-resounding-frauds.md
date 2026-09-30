@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Do you worry that online media are creating illusory bonds and instilling obsessive habits that rob you of your authentic self?  Of course you do!  But not this website: on the contrary, I’m here to put you on your guard.*
+*Do you worry that online media are creating illusory bonds and instilling obsessive habits that rob you of your authentic self?  Of course you do!  But not this website: on the contrary, I’m here to put you on your guard.*
 
 ***
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I was going to call this puzzle “The Unities,” but who cares nowadays about the rigid neoclassical critical standards applied to the drama of the 17th and 18th centuries?  Nobody, sadly, but me—and perhaps you, learned solver.  If so, I apologize for pandering instead to the degraded popular tastes of the age.*
+*I was going to call this puzzle “The Unities,” but who cares nowadays about the rigid neoclassical critical standards applied to the drama of the 17th and 18th centuries?  Nobody, sadly, but me—and perhaps you, learned solver.  If so, I apologize for pandering instead to the degraded popular tastes of the age.*
 
 ***
 

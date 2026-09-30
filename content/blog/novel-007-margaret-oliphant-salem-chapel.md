@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Margaret Oliphant (1828-1897) wrote more than 100 novels between 1849 and 1897.  This is the first of the “Chronicles of Carlingford,” five novels set in the same provincial city; it is the first of two featuring the Dissenters in that city.  Its vivid portrayal of a conflicted character is somewhat marred by a melodramatic subplot. The sequel will appear next week.*
+*Margaret Oliphant (1828-1897) wrote more than 100 novels between 1849 and 1897.  This is the first of the “Chronicles of Carlingford,” five novels set in the same provincial city; it is the first of two featuring the Dissenters in that city.  Its vivid portrayal of a conflicted character is somewhat marred by a melodramatic subplot. The sequel will appear next week.*
 
-“This book will take a permanent place in English literature. . . . The literary wealth of the book consists in the delineation of the Salem Chapel ‘connection,’ its obstructive relation to the effervescing life of the young minister, and the diplomatic depth of worldly wisdom which it develops on critical emergencies in his pious and devoted mother” whose character is “an etching of marvelous delicacy and art, with every line and shadow separately touched in.”  As to another main character, a low-bred deacon, “Through all the vulgarity of its surface there is so much genial strength and breadth, so much vulgar manliness, so much intelligence in the shopocratic shrewdess, so much true mettle behind the stratum of butter and bacon, such a liberal feeling” that he becomes “a figure of more true dignity...than the young minister itself.”  *Spectator*, February 14, 1863
+“This book will take a permanent place in English literature. . . .  The literary wealth of the book consists in the delineation of the Salem Chapel ‘connection,’ its obstructive relation to the effervescing life of the young minister, and the diplomatic depth of worldly wisdom which it develops on critical emergencies in his pious and devoted mother” whose character is “an etching of marvelous delicacy and art, with every line and shadow separately touched in.”  As to another main character, a low-bred deacon, “Through all the vulgarity of its surface there is so much genial strength and breadth, so much vulgar manliness, so much intelligence in the shopocratic shrewdess, so much true mettle behind the stratum of butter and bacon, such a liberal feeling” that he becomes “a figure of more true dignity...than the young minister itself.”  *Spectator*, February 14, 1863
 
-“The humour which sketches individual characters and enters into the nice individualities and idiosyncracies; the occasional bitter and burning revolt against the ordinations of Providence in the mysteries of life; the clever delineations, especially of chapel ways and manner” are all praiseworthy.  *Eclectic Review*, March, 1863
+“The humour which sketches individual characters and enters into the nice individualities and idiosyncracies; the occasional bitter and burning revolt against the ordinations of Providence in the mysteries of life; the clever delineations, especially of chapel ways and manner” are all praiseworthy.  *Eclectic Review*, March, 1863
 
 The novel shows “the weakness of enthusiasm, refinement, and mere well-meaning, in contact with the vulgar realities of every-day life.” *National Review*, March 1863
 
@@ -27,4 +27,4 @@ The novel shows “the weakness of enthusiasm, refinement, and mere well-meaning
 
 **v. 1**<https://archive.org/details/salemchapel00olip>
 
-v.2   <https://archive.org/details/salemchapel03olip>
+v.2   <https://archive.org/details/salemchapel03olip>

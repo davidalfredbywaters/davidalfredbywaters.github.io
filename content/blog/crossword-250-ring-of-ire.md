@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Many people enjoy belonging to a group bound by a sense of grievance so that they can rage happily together, usually against some other similarly bound group that can rage in turn back at them.  This is fun in itself; it can also lead to solid personal gain, as one’s route to success is eased by one’s fellow enragees, who form a sort of mutually-supportive grievance collective, or ring of ire.  We here at David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender belong to no such ring; we’re happy with everybody and everything in this fortunate world, including other people and their rage, to which we here pay a small tribute.*
+*Many people enjoy belonging to a group bound by a sense of grievance so that they can rage happily together, usually against some other similarly bound group that can rage in turn back at them.  This is fun in itself; it can also lead to solid personal gain, as one’s route to success is eased by one’s fellow enragees, who form a sort of mutually-supportive grievance collective, or ring of ire.  We here at David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender belong to no such ring; we’re happy with everybody and everything in this fortunate world, including other people and their rage, to which we here pay a small tribute.*
 
 ***
 

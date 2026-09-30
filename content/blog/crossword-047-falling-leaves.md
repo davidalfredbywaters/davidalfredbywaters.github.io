@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*It seems only yesterday we were celebrating the spring with horrible puns; here we are already celebrating the fall with hidden words in nonsense phrases.  Nothing makes time’s winged chariot hurry faster than Victorian novels and language-torturing crosswords.*
+*It seems only yesterday we were celebrating the spring with horrible puns; here we are already celebrating the fall with hidden words in nonsense phrases.  Nothing makes time’s winged chariot hurry faster than Victorian novels and language-torturing crosswords.*
 
 ***
 

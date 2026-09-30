@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*If you wait till tomorrow, you’ll find the answer to 24 Down in the title of my crossword in the* Los Angeles Times*, to which this one serves as a sort of prequel.  Meanwhile, here’s a painting that—while not very clearly related to either puzzle—may at any rate provide a little imaginary relief from this summer’s weather, by which so many of us find ourselves mercilessly beaten down.*
+*If you wait till tomorrow, you’ll find the answer to 24 Down in the title of my crossword in the* Los Angeles Times*, to which this one serves as a sort of prequel.  Meanwhile, here’s a painting that—while not very clearly related to either puzzle—may at any rate provide a little imaginary relief from this summer’s weather, by which so many of us find ourselves mercilessly beaten down.*
 
 ***
 

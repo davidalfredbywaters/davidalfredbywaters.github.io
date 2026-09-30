@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Well, here it is, the first day of the first month of a new year, and so, to keep you in the New-Year’s spirit, I have a puzzle for you with the word “first” in its title, and also a bit of advice, not just for this puzzle, but for any of life’s challenges:  if at first you don’t succeed, try another crossword.*
+*Well, here it is, the first day of the first month of a new year, and so, to keep you in the New-Year’s spirit, I have a puzzle for you with the word “first” in its title, and also a bit of advice, not just for this puzzle, but for any of life’s challenges:  if at first you don’t succeed, try another crossword.*
 
 ***
 

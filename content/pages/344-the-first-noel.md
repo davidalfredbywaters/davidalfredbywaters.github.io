@@ -3,7 +3,7 @@ title: "344 The First Noel"
 url: /344-the-first-noel
 ---
 
-# Crossword 344: The First Noel {.center}
+#  Crossword 344: The First Noel {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

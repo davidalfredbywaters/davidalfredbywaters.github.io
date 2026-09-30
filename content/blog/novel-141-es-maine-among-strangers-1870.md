@@ -13,13 +13,13 @@ categories: [Novels]
 
 ***
 
-*Eliza Sophia Maine (1838-1891) wrote five novels in the 1870s, of which this is the first.  Its ironically self-aware narrator and deftly-handled plot ought to have made its author better known than apparently she became.*
+*Eliza Sophia Maine (1838-1891) wrote five novels in the 1870s, of which this is the first.  Its ironically self-aware narrator and deftly-handled plot ought to have made its author better known than apparently she became.*
 
 A “pleasant little novel” that “deals with domestic life and never ventures beyond the natural limits of feminine knowledge.”  *Saturday Review*, September 24, 1870
 
-“The story is simple and unpretentious, but is told in so fresh and graceful a manner as to render it most acceptable.” *Athenaeum*, October 8, 1870
+“The story is simple and unpretentious, but is told in so fresh and graceful a manner as to render it most acceptable.”  *Athenaeum*, October 8, 1870
 
-“Life and character in the remote Welsh valley are well drawn, and the narrator tells her story with vivacity in a natural, unaffected tone.” *Spectator*, January 28, 1871
+“Life and character in the remote Welsh valley are well drawn, and the narrator tells her story with vivacity in a natural, unaffected tone.”  *Spectator*, January 28, 1871
 
 ***Download this week’s novel:***
 

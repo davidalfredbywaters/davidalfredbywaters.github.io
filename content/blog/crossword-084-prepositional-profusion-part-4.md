@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This is the end of the series. Next week, something else!—if you don’t take 55 Across too literally, that is.*
+*This is the end of the series.  Next week, something else!—if you don’t take 55 Across too literally, that is.*
 
 ***
 

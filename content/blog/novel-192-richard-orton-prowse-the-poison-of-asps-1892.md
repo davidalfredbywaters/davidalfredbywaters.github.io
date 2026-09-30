@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Richard Orton Prowse (1862-1949) wrote at least a dozen novels between 1892, when this one appeared, and 1934.  Though somewhat marred by an implausible lovers’ misunderstanding, it provides a chilling portrayal of unthinking, self-congratulatory enforcers of social norms.*
+*Richard Orton Prowse (1862-1949) wrote at least a dozen novels between 1892, when this one appeared, and 1934.  Though somewhat marred by an implausible lovers’ misunderstanding, it provides a chilling portrayal of unthinking, self-congratulatory enforcers of social norms.*
 
-“A neatly and cleverly constructed story of life in a country town” with “skillfully handled characters.  The story will repay perusal.” *Academy*, July 16, 1892
+“A neatly and cleverly constructed story of life in a country town” with “skillfully handled characters.  The story will repay perusal.”  *Academy*, July 16, 1892
 
-“Decidedly pleasant and readable,” with some “delicate, subdued touches of humour” reminiscent of Jane Austen. *Saturday Review*, July 16, 1892
+“Decidedly pleasant and readable,” with some “delicate, subdued touches of humour” reminiscent of Jane Austen.  *Saturday Review*, July 16, 1892
 
 ***Download this week’s novel:***
 

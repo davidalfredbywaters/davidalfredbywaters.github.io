@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This is the first of six “It’s Magic” puzzles, all illustrated with Victorian fairy paintings.  You will wonder how you ever endured the prosaic dullness of quotidian reality without such opportunities for escape into a world of magical make-believe.*
+*This is the first of six “It’s Magic” puzzles, all illustrated with Victorian fairy paintings.  You will wonder how you ever endured the prosaic dullness of quotidian reality without such opportunities for escape into a world of magical make-believe.*
 
 ***
 

@@ -3,7 +3,7 @@ title: "304 Adaptation (online)"
 url: /304-adaptation-online
 ---
 
-# Crossword 304: Adaptation {.center}
+#  Crossword 304: Adaptation {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

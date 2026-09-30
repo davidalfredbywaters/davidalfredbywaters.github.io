@@ -14,9 +14,9 @@ url: /blog/2021/4/13/novel-178-mrs-henry-chetwynd-a-brilliant-woman-1892
 
 *Here is another novel by Chetwynd (see* [*Novel 80*](/blog/2019/5/28/novel-080-mrs-henry-chetwynd-three-hundred-a-year-1866)*); though not free of sentimentalism, especially at the end, it features some excellent studies of changing characters.*
 
-“The plot is very ingeniously constructed. . . .  The husband . . . and the wife . . . are both highly individual characters, and exceedingly well drawn.” *Academy*, December 17, 1892
+“The plot is very ingeniously constructed. . . .  The husband . . . and the wife . . . are both highly individual characters, and exceedingly well drawn.” *Academy*, December 17, 1892
 
-“We do not often get such good, careful work. . . .   From the first to the last page it is well written, and worth reading.” *Spectator*, January 28, 1893
+“We do not often get such good, careful work. . . .   From the first to the last page it is well written, and worth reading.”  *Spectator*, January 28, 1893
 
 ***Download this week’s novel:***
 

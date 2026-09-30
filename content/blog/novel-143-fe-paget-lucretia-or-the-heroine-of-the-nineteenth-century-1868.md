@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Francis Edward Paget (1806-1882), rector of Elford, wrote half a dozen novels promoting his High Church views, beginning in 1833.  This, a satire on the novels of M.E. Braddon and her kind (though it alludes also to Scott and Bronte), features an intriguing narrator, foolishly credulous and at the same time cleverly self-aware.*
+*Francis Edward Paget (1806-1882), rector of Elford, wrote half a dozen novels promoting his High Church views, beginning in 1833.  This, a satire on the novels of M.E. Braddon and her kind (though it alludes also to Scott and Bronte), features an intriguing narrator, foolishly credulous and at the same time cleverly self-aware.*
 
 “This satire is quite just, because it exactly hits the great artistic fault of the sensational novel, the use of illegitimate means to produce an effect upon the reader.” *Spectator*, August 8, 1868
 
-“A happier thought than the combination of a ludicrously sensational plot with a ludicrously sentimental heroine . . . could not have been devised.” *Athenaeum*, October 17, 1868
+“A happier thought than the combination of a ludicrously sensational plot with a ludicrously sentimental heroine . . . could not have been devised.”  *Athenaeum*, October 17, 1868
 
 ***Download this week’s novel:***
 

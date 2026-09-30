@@ -3,7 +3,7 @@ title: "296 R&B (online)"
 url: /296-rb-online
 ---
 
-# Crossword 296: R&B {.center}
+#  Crossword 296: R&B {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

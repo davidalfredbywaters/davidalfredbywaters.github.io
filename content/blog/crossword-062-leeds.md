@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I’m afraid the relation of the title to the puzzle is arguably just a little bit strained here, requiring both a parsing and an unlikely abbreviation.  Normally I am all too scrupulous in making titles that simply and exactly delineate the nature of the puzzles to which they are attached.  I make an exception today in order to give myself an excuse to haul in another painting by the great Atkinson Grimshaw.  Maybe somewhere there’s an alternate art world, into which (if we’re good) we will pass when this earthly life is over—a world in which the fame of Grimshaw is choired by angels, and Picasso is unknown.*
+*I’m afraid the relation of the title to the puzzle is arguably just a little bit strained here, requiring both a parsing and an unlikely abbreviation.  Normally I am all too scrupulous in making titles that simply and exactly delineate the nature of the puzzles to which they are attached.  I make an exception today in order to give myself an excuse to haul in another painting by the great Atkinson Grimshaw.  Maybe somewhere there’s an alternate art world, into which (if we’re good) we will  pass when this earthly life is over—a world in which the fame of Grimshaw is choired by angels, and Picasso is unknown.*
 
 ***
 

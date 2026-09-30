@@ -16,7 +16,7 @@ url: /blog/2024/6/22/novel-306-mary-cholmondeley-sir-charles-danvers-1889
 
 “The author’s somewhat dangerous experiment—at this early period of her career—in continuing some of the threads of her first story has been entirely justified in its execution. The hero is at least as humorous as ever, the new heroine is also very sprightly and amusing.” *Athenaeum*, November 9, 1889
 
-“Novels so amusing, so brightly written, so full of simple sense and witty observation . . . are not found every day.” *Saturday Review*, December 7, 1889
+“Novels so amusing, so brightly written, so full of simple sense and witty observation . . . are not found every day.”  *Saturday Review*,  December 7, 1889
 
 ***Download this fortnight’s novel:***
 

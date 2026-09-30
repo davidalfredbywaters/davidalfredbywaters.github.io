@@ -13,15 +13,15 @@ categories: [Novels]
 
 ***
 
-*For Marsh-Caldwell, see Novels* [*069*](/blog/2019/3/12/novel-069-anne-marsh-caldwell-emilia-wyndham-1846)*,* [*187*](/blog/2021/6/15/novel-187-anne-marsh-caldwell-the-wilmingtons-1850)*.  Despite the obvious didactic purpose of the contrast between the novel’s sisters, its characters are lifelike and its plot involving.*
+*For Marsh-Caldwell, see Novels* [*069*](/blog/2019/3/12/novel-069-anne-marsh-caldwell-emilia-wyndham-1846)*,* [*187*](/blog/2021/6/15/novel-187-anne-marsh-caldwell-the-wilmingtons-1850)*.  Despite the obvious didactic purpose of the contrast between the novel’s sisters, its characters are lifelike and its plot involving.*
 
-“We like the tale for its delicate shading of individual characters chosen from the most every-day life.” *Literary World*, August 3, 1850
+“We like the tale for its delicate shading of individual characters chosen from the most every-day life.”  *Literary World*, August 3, 1850
 
-The author “has depicted, with her usual vigorous and truthful colouring” the wretched lives of seamstresses. *Critic*, November 15, 1850
+The author “has depicted, with her usual vigorous and truthful colouring” the wretched lives of seamstresses.  *Critic*, November 15, 1850
 
 *A (somewhat) contrasting view:*
 
-“‘Lettice Arnold’ is the work of a woman—a woman who has great facility of composition, and considerable imagination, but little judgment.  It is literally ‘stuffed full’ of prejudices, especially against light literature as it is produced in France”; but it “is well written; and . . . it is one of the few novels which can be perused with pleasure and resumed without pain.” *Observer*, November 4, 1850
+“‘Lettice Arnold’ is the work of a woman—a woman who has great facility of composition, and considerable imagination, but little judgment.  It is literally ‘stuffed full’ of prejudices, especially against light literature as it is produced in France”; but it “is well written; and . . . it is one of the few novels which can be perused with pleasure and resumed without pain.” *Observer*, November 4, 1850
 
 Download this week’s novel:
 

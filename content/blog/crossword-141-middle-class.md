@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*Oh the poor middle class!  Not only is its wealth increasingly appropriated by billionaires, but for well over a century it has been routinely derided in high culture.  Hipsters everywhere decry its foolish tastes, activists its mistaken values.  No matter the authenticity of your own non-bourgeois (proletarian? aristocratic?) credentials—pronounce a thing "bourgie" and your title to sophistication is assured.*
+*Oh the poor middle class!  Not only is its wealth increasingly appropriated by billionaires, but for well over a century it has been routinely derided in high culture.  Hipsters everywhere decry its foolish tastes, activists its mistaken values.  No matter the authenticity of your own non-bourgeois (proletarian? aristocratic?) credentials—pronounce a thing "bourgie" and your title to sophistication is assured.*
 
-*Well, though I will here and now claim (why not?) to have myself no connection whatsoever with the middle class, I feel sorry for it sometimes.  I hope this crossword tribute will make it feel a little better.*
+*Well, though I will here and now claim (why not?) to have myself no connection whatsoever with the middle class, I feel sorry for it sometimes.  I hope this crossword tribute will make it feel a little better.*
 
 ***
 

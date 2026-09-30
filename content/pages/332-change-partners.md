@@ -3,7 +3,7 @@ title: "332 Change Partners"
 url: /332-change-partners
 ---
 
-# Crossword 332: Change Partners {.center}
+#  Crossword 332: Change Partners {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Are you taking in all the subtle nuances of my puzzles, gentle solver?  The title of this one, for example, is a rueful reflection on the state of contemporary politics, while the puzzle itself, in pointed contrast, conjures a better, alternative world, one in which circus entertainers can afford second homes, and cows play baseball.  It’s utopian fantasy, to be sure, but not mere escapism, for it’s encased in biting topical satire.  (I invite my future biographers to make use of any or all of these phrases.)*
+*Are you taking in all the subtle nuances of my puzzles, gentle solver?  The title of this one, for example, is a rueful reflection on the state of contemporary politics, while the puzzle itself, in pointed contrast, conjures a better, alternative world, one in which circus entertainers can afford second homes, and cows play baseball.  It’s utopian fantasy, to be sure, but not mere escapism, for it’s encased in biting topical satire.  (I invite my future biographers to make use of any or all of these phrases.)*
 
 ***
 

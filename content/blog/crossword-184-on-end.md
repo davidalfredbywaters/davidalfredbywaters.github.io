@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Did you ever have to read* Moby Dick*?  It was justly panned by discriminating contemporaries (an “ill-compounded mixture of romance and matter-of-fact . . . disfigured by mad (rather than bad) English,” said the* Athenaeum*; “the soliloquies and dialogues of Ahab, in which the author attempts delineating the wild imaginings of monomania, and exhibiting some profoundly speculative views of things in general, induce weariness or skipping,” said the* Spectator*). But then some misguided cabal of English professors, at some point in the 20th century, contrived to make it required reading, and generations of students have paid a heavy price.  53 Across is a terse comment on the incalculable suffering induced by ill-judged curricular decisions.*
+*Did you ever have to read* Moby Dick*?  It was justly panned by discriminating contemporaries (an “ill-compounded mixture of romance and matter-of-fact . . . disfigured by mad (rather than bad) English,” said the* Athenaeum*; “the soliloquies and dialogues of Ahab, in which the author attempts delineating the wild imaginings of monomania, and exhibiting some profoundly speculative views of things in general, induce weariness or skipping,” said the* Spectator*).  But then some misguided cabal of English professors, at some point in the 20th century, contrived to make it required reading, and generations of students have paid a heavy price.  53 Across is a terse comment on the incalculable suffering induced by ill-judged curricular decisions.*
 
 ***
 

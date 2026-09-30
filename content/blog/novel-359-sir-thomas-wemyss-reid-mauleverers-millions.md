@@ -15,7 +15,7 @@ categories: [Novels]
 
 *Sir Thomas Wemyss Reid (1842-1905) was better known as a journalist, editor, and publisher than as a novelist; this is the third of his three novels.*
 
-The novel is “an uncommonly good shillingsworth”; it is a “good thrilling romance. . . . the mystery becomes interesting on the third page, and continues so to the last. The most experienced reader is kept long in doubt as to the secret of the book, which is worked out with great skill, and with a strict adherence to the canons of romantic probability. . . .  But the real triumph of the book is the character of” the main villain. *Saturday Review*, February 20, 1885
+The novel is “an uncommonly good shillingsworth”; it is a “good thrilling romance. . . . the mystery becomes interesting on the third page, and continues so to the last. The most experienced reader is kept long in doubt as to the secret of the book, which is worked out with great skill, and with a strict adherence to the canons of romantic probability. . . .  But the real triumph of the book is the character of” the main villain.  *Saturday Review*, February 20, 1885
 
 ***Download this fortnight’s novel:***
 

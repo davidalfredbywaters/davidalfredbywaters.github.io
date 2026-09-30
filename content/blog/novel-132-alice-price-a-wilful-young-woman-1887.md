@@ -15,9 +15,9 @@ categories: [Novels]
 
 *Here is another novel by Alice Price (see* [*Novel 021)*](/blog/2018/4/10/novel-021-alice-price-who-is-sylvia-1883)*, much like its predecessor in its engrossing but implausible plot and its well-defined characters.*
 
-“A very readable story. . . .  Mrs. Price has drawn her *dramatis personae* with some power and vigour, and nobody could possibly find this novel tedious.” *Academy*, November 20, 1886
+“A very readable story. . . .  Mrs. Price has drawn her *dramatis personae* with some power and vigour, and nobody could possibly find this novel tedious.”  *Academy*, November 20, 1886
 
-“This is an excellent tale, and shows by a conspicuous example, which some of our lady-novelists might profitably note, that it is quite possible to rouse a strong interest in a love-story without even an allusion to unlawful passion. . . .  There are, we think, defects in the plot. . . .   But, on the whole, for sound sense, good feeling and taste, and a style which can be both pathetic and humorous on occasion, this is a book which cannot easily be surpassed.” *Spectator*, January 29, 1887
+“This is an excellent tale, and shows by a conspicuous example, which some of our lady-novelists might profitably note, that it is quite possible to rouse a strong interest in a love-story without even an allusion to unlawful passion. . . .  There are, we think, defects in the plot. . . .   But, on the whole, for sound sense, good feeling and taste, and a style which can be both pathetic and humorous on occasion, this is a book which cannot easily be surpassed.”  *Spectator*, January 29, 1887
 
 Download this week’s novel:
 

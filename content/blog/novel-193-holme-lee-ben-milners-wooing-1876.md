@@ -12,15 +12,15 @@ Two men are rivals for the love of a virtuous young lady.
 
 ***
 
-*Holme Lee was the pseudonym of Harriet Parr (1828-1900), who published some thirty novels between 1854 and 1880.  This one is enjoyably brief and airy.*
+*Holme Lee was the pseudonym of Harriet Parr (1828-1900), who published some thirty novels between 1854 and 1880.  This one is enjoyably brief and airy.*
 
-“A pleasant, bright little story.” *Athenaeum*, January 29, 1876
+“A pleasant, bright little story.”  *Athenaeum*, January 29, 1876
 
 “A delightfully fresh rendering of the ‘old, old story.’” *Spectator*, February 2, 1876
 
 “A charming picture, full of delicate touches and marks of close observation.” *Saturday Review,* February 12, 1876
 
-“A very charming sketch.” *Academy*, February 19, 1876
+“A very charming sketch.”  *Academy*, February 19, 1876
 
 ***Download this week’s novel:***
 

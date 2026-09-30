@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Taking my cue from the Victorian heroine who runs a risk of coming down with the brain fever if she doesn’t find a release in tears, I’ve been crying all week long, for myself, for the world, and for you, troubled solver, and I feel better now.  If you want to return the favor by crying for me, this week’s puzzle will get you started.*
+*Taking my cue from the Victorian heroine who runs a risk of coming down with the brain fever if she doesn’t find a release in tears, I’ve been crying all week long, for myself, for the world, and for you, troubled solver, and I feel better now.  If you want to return the favor by crying for me, this week’s puzzle will get you started.*
 
 ***
 

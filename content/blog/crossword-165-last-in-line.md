@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Can this be the end?  Is this the last puzzle I’ll post to this website?  Have I finally turned in disgust from an ungrateful world, resolved never to cross words again?  Or is this just another punning reference to my theme?  Come back next week and find out!*
+*Can this be the end?  Is this the last puzzle I’ll post to this website?  Have I finally turned in disgust from an ungrateful world, resolved never to cross words again?  Or is this just another punning reference to my theme?  Come back next week and find out!*
 
 *(NB: The clue to 23 Across, once the weakest, now the strongest, of the puzzle’s theme clues, is in fact the inspiration of Canadian test-solver Kevin Walker.*)
 

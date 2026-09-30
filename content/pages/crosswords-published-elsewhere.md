@@ -87,7 +87,7 @@ url: /crosswords-published-elsewhere
 
 *Universal Crossword*: February 19, 2019
 
-*New York Times*: February 19, 2019
+*New York Times*: February  19, 2019
 
 *Los Angeles Times*: March 8, 2019
 
@@ -235,43 +235,43 @@ url: /crosswords-published-elsewhere
 
 *Universal Crossword*: November 30, 2020
 
-*Wall Street Journal*: December 2, 2020
+*Wall Street Journal*: December  2, 2020
 
-*Wall Street Journal*: December 10, 2020
+*Wall Street Journal*: December  10, 2020
 
 *Universal Crossword*: December 13, 2020
 
-*Wall Street Journal*: December 30, 2020
+*Wall Street Journal*: December  30, 2020
 
-*Wall Street Journal*: January 16, 2021
+*Wall Street Journal*: January  16, 2021
 
-*Wall Street Journal*: January 28, 2021
+*Wall Street Journal*: January  28, 2021
 
-*Los Angeles Times*: February 18, 2021
+*Los Angeles Times*: February  18, 2021
 
-*Universal Crossword*: February 18, 2021
+*Universal Crossword*: February  18, 2021
 
-*Los Angeles Times*: April 9, 2021
+*Los Angeles Times*: April  9, 2021
 
-*Universal Crossword*: April 14, 2021
+*Universal Crossword*: April  14, 2021
 
-*Universal Crossword*: April 25, 2021
+*Universal Crossword*: April  25, 2021
 
-*Universal Crossword*: May 2, 2021
+*Universal Crossword*: May  2, 2021
 
-*Universal Crossword*: May 20, 2021
+*Universal Crossword*: May  20, 2021
 
-*Universal Crossword*: July 2, 2021
+*Universal Crossword*: July  2, 2021
 
-*Wall Street Journal*: July 22, 2021
+*Wall Street Journal*: July  22, 2021
 
-*Wall Street Journal*: August 18, 2021
+*Wall Street Journal*: August  18, 2021
 
 *Los Angeles Times*: August 27, 2021
 
 *Wall Street Journal*: September 2, 2021
 
-*Universal Crossword*: September 7, 2021
+*Universal Crossword*: September  7, 2021
 
 *Wall Street Journal*: September 25, 2021
 
@@ -281,11 +281,11 @@ url: /crosswords-published-elsewhere
 
 *Wall Street Journal*: November 13, 2021
 
-*Los Angeles Times*: November 21, 2021
-&nbsp;&nbsp;
+*Los Angeles Times*: November 21, 2021<br>
+<br>
 *Wall Street Journal*: March 16, 2022
 
-*Los Angeles Times*: April 3, 2022
+*Los Angeles Times*:  April 3, 2022
 
 *Wall Street Journal*: April 21, 2022
 
@@ -299,25 +299,25 @@ url: /crosswords-published-elsewhere
 
 *Wall Street Journal*: July 7, 2022
 
-*Wall Street Journal*: August 6, 2022
-&nbsp;&nbsp;
+*Wall Street Journal*: August 6, 2022<br>
+<br>
 *Los Angeles Times*: August 24, 2022
 
 *Universal Crossword*: October 17, 2022
 
 *Los Angeles Times*: October 20, 2022
 
-*Wall Street Journal*: November 12, 2022
+*Wall Street Journal*: November  12, 2022
 
 *Los Angeles Times*: November 18, 2022
 
 *Los Angeles Times*: December 8, 2022
 
-*Wall Street Journal*: January 4, 2023
+*Wall Street Journal*: January  4, 2023
 
 *Los Angeles Times*: January 8, 2023
 
-*Wall Street Journal*: March 4, 2023
+*Wall Street Journal*: March  4, 2023
 
 *Universal Crossword*: March 17, 2023
 
@@ -361,4 +361,18 @@ url: /crosswords-published-elsewhere
 
 *Wall Street Journal*: March 4, 2026
 
-*Wall Street Journal*: March 14, 2026
+*Wall Street Journal*: March 14, 2026<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>

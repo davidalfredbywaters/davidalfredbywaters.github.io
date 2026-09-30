@@ -13,13 +13,13 @@ categories: [Novels]
 
 ***
 
-*Lieutenant-General Sir Edward Bruce Hamley (1824-1893), the younger brother of last week’s novelist, likewise supplemented a military career with literary efforts.  This, his only novel (serialized in 1850, issued in book form in 1853-54), features, in addition to some sentimental ladies and gentleman officers, an amusingly bad alcoholic gambler.*
+*Lieutenant-General Sir Edward Bruce Hamley (1824-1893), the younger brother of last week’s novelist, likewise supplemented a military career with literary efforts.  This, his only novel (serialized in 1850, issued in book form in 1853-54), features, in addition to some sentimental ladies and gentleman officers, an amusingly bad alcoholic gambler.*
 
-“‘Lady Lee’s Widowhood’ is unquestionably one of the wittiest and pleasantest things that the press of our day has given to the public. . . .  It furnishes the largest return of enjoyment for twenty-five cents that can be found in any bookstore in the country.” *Southern Literary Messenger*, December 1853
+“‘Lady Lee’s Widowhood’ is unquestionably one of the wittiest and pleasantest things that the press of our day has given to the public. . . .  It furnishes the largest return of enjoyment for twenty-five cents that can be found in any bookstore in the country.”   *Southern Literary Messenger*, December 1853
 
 *A (somewhat) contrasting view:*
 
-“This is a pleasant book. . . .  The characters (with the exception of Colonel Bagot Lee) are not very complex specimens of human nature, but they are brightly coloured, and drawn with spirit.  The character of Colonel Lee is of a higher class, and well worked out. . . .   The story . . . drags somewhat at times, but it is withal a bright, healthy book, with a dash of hearty humour in it.” *Athenaeum*, February 18, 1854
+“This is a pleasant book. . . .  The characters (with the exception of Colonel Bagot Lee) are not very complex specimens of human nature, but they are brightly coloured, and drawn with spirit.  The character of Colonel Lee is of a higher class, and well worked out. . . .   The story . . . drags somewhat at times, but it is withal a bright, healthy book, with a dash of hearty humour in it.”  *Athenaeum*, February 18, 1854
 
 ***Download this week’s novel:***
 

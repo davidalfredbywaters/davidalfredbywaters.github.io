@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Two weeks ago I pushed this web site in a daring new direction, challenging aesthetic norms in order to engage with the gritty underside of the human condition.  The critical plaudits I expected, however, have not arrived, at least not yet; so it’s time to double down, to go all in, to—what’s another tough-sounding idiom like that?  I don’t know.  Anyway, if you’re a complacent member of the bourgeoisie, prepare to be shocked!*
+*Two weeks ago I pushed this web site in a daring new direction, challenging aesthetic norms in order to engage with the gritty underside of the human condition.  The critical plaudits I expected, however, have not arrived, at least not yet; so it’s time to double down, to go all in, to—what’s another tough-sounding idiom like that?  I don’t know.  Anyway, if you’re a complacent member of the bourgeoisie, prepare to be shocked!*
 
 ***
 

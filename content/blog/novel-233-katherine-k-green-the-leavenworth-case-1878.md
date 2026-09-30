@@ -15,13 +15,13 @@ categories: [Novels]
 
 *Anna Katharine Green (1846-1935) was a pioneer in detective fiction; this was her first and most successful novel.*
 
-Green “has worked up a *cause célèbre* with a fertility of device and ingenuity of treatment hardly second to Wilkie Collins or Edgar Allen Poe.” *Christian Union*, January 22, 1879
+Green “has worked up a *cause célèbre* with a fertility of device and ingenuity of treatment hardly second to Wilkie Collins or Edgar Allen Poe.”  *Christian Union*, January 22, 1879
 
-“An interesting story of mysterious crime. . . . The characters act and speak much as they might do in the circumstances, and every detail has been carefully thought out.” *Academy*, February 22, 1879
+“An interesting story of mysterious crime. . . .  The characters act and speak much as they might do in the circumstances, and every detail has been carefully thought out.”  *Academy*, February 22, 1879
 
 *A (somewhat) contrasting view:*
 
-“It seems to us a defect in this story, that the very beginning of it gives a tolerably plain hint of the end. . . . Compression, too, might have been applied, with much benefit. . . . Still, *The Leavenworth Case* is a meritorious effort.” Spectator, March 15, 1879
+“It seems to us a defect in this story, that the very beginning of it gives a tolerably plain hint of the end. . . .  Compression, too, might have been applied, with much benefit. . . .  Still, *The Leavenworth Case* is a meritorious effort.”  Spectator, March 15, 1879
 
 ***Download this week’s novel:***
 

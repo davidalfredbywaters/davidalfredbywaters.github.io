@@ -3,7 +3,7 @@ title: "340 Things Are Getting Tense"
 url: /340-things-are-getting-tense
 ---
 
-# Crossword 340: Things Are Getting Tense {.center}
+#  Crossword 340: Things Are Getting Tense {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

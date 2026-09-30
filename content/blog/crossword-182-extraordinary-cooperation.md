@@ -14,7 +14,7 @@ Charles Robert Leslie, Children Playing at Coach and Horses
 
 ***
 
-*Why can’t we all just get along?  What’s wrong with people, that they’re always fighting about one thing or another?  I blame irresponsible crossword constructors.  How many times have you, gentle solver, awakened in the morning full of warm, happy feelings about the entire human race, and then, in the course of solving your daily crosswords, encountered some word that made you hate everybody?  I can’t be sure I haven’t included such a word in the puzzle below (it’s hard to predict just what might set a person off—for me, it’s “alii”), but if I have, I hope to have counteracted the effect with my theme, which fosters a whole new kind of cooperation.*
+*Why can’t we all just get along?  What’s wrong with people, that they’re always fighting about one thing or another?  I blame irresponsible crossword constructors.  How many times have you, gentle solver, awakened in the morning full of warm, happy feelings about the entire human race, and then, in the course of solving your daily crosswords, encountered some word that made you hate everybody?  I can’t be sure I haven’t included such a word in the puzzle below (it’s hard to predict just what might set a person off—for me, it’s “alii”), but if I have, I hope to have counteracted the effect with my theme, which fosters a whole new kind of cooperation.*
 
 ***Download this week’s crossword:***
 

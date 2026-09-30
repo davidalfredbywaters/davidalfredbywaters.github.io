@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This puzzle contains some of the filthiest puns ever to appear in any crossword!  They affront the finer feelings! They set good taste at defiance!  In fact, you probably shouldn’t even open this puzzle!*
+*This puzzle contains some of the filthiest puns ever to appear in any crossword!  They affront the finer feelings! They set good taste at defiance!  In fact, you probably shouldn’t even open this puzzle!*
 
 ***
 

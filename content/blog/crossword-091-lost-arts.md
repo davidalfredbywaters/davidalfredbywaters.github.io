@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I once thought to use this puzzle’s title (in the singular) as a theme answer.  The clue would have been about Paul Simon, who "lost Art"—Garfunkel, that is—in 1970. And the Wilson brothers “found Love,” their cousin Mike, to form the Beach Boys.  But then what?  Did any group throw “Iris Out”?  or decide to “Keep Faith” after all? or to “Kill Joy”?  I couldn't make it work.  So I invite all you aspiring crossword constructors in need of a theme to apply to me for permission to adopt it, which I will grant free of charge if I find you worthy of my benevolence. Just email me a statement of financial need and an autobiographical essay on how you overcame an obstacle.*
+*I once thought to use this puzzle’s title (in the singular) as a theme answer.  The clue would have been about Paul Simon, who "lost Art"—Garfunkel, that is—in 1970. And the Wilson brothers “found Love,” their cousin Mike, to form the Beach Boys.  But then what?  Did any group throw “Iris Out”?  or decide to “Keep Faith” after all? or to “Kill Joy”?  I couldn't make it work.   So I invite all you aspiring crossword constructors in need of a theme to apply to me for permission to adopt it, which I will grant free of charge if I find you worthy of my benevolence. Just email me a statement of financial need and an autobiographical essay on how you overcame an obstacle.*
 
 ***
 

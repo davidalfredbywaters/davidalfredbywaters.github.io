@@ -8,7 +8,7 @@ url: /blog/2025/5/3/crossword-328-whats-it-all-for
 
 ***
 
-*What* is *it all for?  It’s a question that eventually occurs to every thinking mind.  Some turn to religion, some are content to rest in ignorance, and some distract themselves with more answerable questions like, “What’s 1 Across?”*
+*What* is *it all for?  It’s a question that eventually occurs to every thinking mind.  Some turn to religion, some are content to rest in ignorance, and some distract themselves with more answerable questions like, “What’s 1 Across?”*
 
 ***
 

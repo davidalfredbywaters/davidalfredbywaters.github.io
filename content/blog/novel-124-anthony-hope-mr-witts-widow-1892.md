@@ -15,11 +15,11 @@ categories: [Novels]
 
 *Anthony Hope (Sir Anthony Hope Hawkins, 1863-1933), best remembered for* The Prisoner of Zenda *(1894), wrote thirty-some other novels, beginning in 1890; this is a delightful social comedy, well paced and smartly phrased.*
 
-“All the characters are neatly sketched, and Mr. Hope’s dialogue is crisp and pointed.  Altogether, this lively and piquant story is good reading.” *Saturday Review*, May 7, 1892
+“All the characters are neatly sketched, and Mr. Hope’s dialogue is crisp and pointed.  Altogether, this lively and piquant story is good reading.”  *Saturday Review*, May 7, 1892
 
-“The story is good both in conception and in execution.  The style is just suited to the subject.” *Spectator*, June 11, 1892
+“The story is good both in conception and in execution.  The style is just suited to the subject.”  *Spectator*, June 11, 1892
 
-“The development and denouement afford rich material for a first-class society comedy, and at the same time the story is clever and exceedingly enjoyable.” *San Francisco Chronicle*, October 30, 1892
+“The development and denouement afford rich material for a first-class society comedy, and at the same time the story is clever and exceedingly enjoyable.”  *San Francisco Chronicle*, October 30, 1892
 
 ***Download this week’s novel:***
 

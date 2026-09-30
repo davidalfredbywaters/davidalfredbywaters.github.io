@@ -13,9 +13,9 @@ categories: [Novels]
 
 ***
 
-*Henry Milton (1784–1850), Frances Trollope’s brother, Anthony and T.A. Trollope’s uncle, wrote only two novels, of which this is the first.  It amusingly combines farce and melodrama.*
+*Henry Milton (1784–1850), Frances Trollope’s brother, Anthony and T.A. Trollope’s uncle, wrote only two novels, of which this is the first.  It amusingly combines farce and melodrama.*
 
-He is like his sister in providing “the same literal truth in the descriptions of common life; the same tendency to caricature in the humorous, and to melodramatic exaggeration in the serious parts.”  *The Spectator*, May 2, 1840
+He is like his sister in providing “the same literal truth in the descriptions of common life; the same tendency to caricature in the humorous, and to melodramatic exaggeration in the serious parts.”  *The Spectator*, May 2, 1840
 
 “His talent is equal for the serious or the comic, the one, however, sometimes verging into the melodramatic, the other occasionally approaching the burlesque.” *The Morning Post*, May 9, 1840
 

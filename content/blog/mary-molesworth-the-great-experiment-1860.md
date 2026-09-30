@@ -12,9 +12,9 @@ url: /blog/2019/10/8/mary-molesworth-the-great-experiment-1860
 
 ***
 
-*Mary Molesworth (1823-1863) wrote three novels during her relatively short life, of which this was the last.  It’s enjoyable (despite a tiresome lovers’-misunderstanding plot) for its well defined characters and cleverly developed incidents.*
+*Mary Molesworth (1823-1863) wrote three novels during her relatively short life, of which this was the last.  It’s enjoyable (despite a tiresome lovers’-misunderstanding plot) for its well defined characters and cleverly developed incidents.*
 
-“‘The Great Experiment’ is a carefully-written, clever novel—amusing withal” though “in the third volume the story stagnates into moralizing. . . .   The characters are carefully drawn, and well-worked out” and “there is a good deal of shrewd observation manifested, and much good sense.” *Athenaeum*, April 21, 1860
+“‘The Great Experiment’ is a carefully-written, clever novel—amusing withal” though “in the third volume the story stagnates into moralizing. . . .   The characters are carefully drawn, and well-worked out” and “there is a good deal of shrewd observation manifested, and much good sense.”  *Athenaeum*, April 21, 1860
 
 ***Download this week’s novel:***
 

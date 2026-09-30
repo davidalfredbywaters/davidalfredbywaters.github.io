@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I post this puzzle, “It’s an Upset,” to celebrate the fact that my website is now “*up*.”  Fitting, isn’t it?  If you persevere in visiting my website, you will find that I am distinguished by nothing so much as my acute sense of the fitting—my command of nuance—my exquisite tact.  Tell your friends!*
+*I post this puzzle, “It’s an Upset,” to celebrate the fact that my website is now “*up*.”  Fitting, isn’t it?  If you persevere in visiting my website, you will find that I am distinguished by nothing so much as my acute sense of the fitting—my command of nuance—my exquisite tact.  Tell your friends!*
 
 ***
 

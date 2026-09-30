@@ -8,7 +8,7 @@ url: /blog/2020/6/20/crossword-135-decomposition
 
 ***
 
-*Last Tuesday I quietly embarked on this year’s summer novel / crossword series, a trilogy the recurring feature of which I’ll leave you to detect, or decipher, or deduce, for yourself.  If you’re planning to do this puzzle with young children, you should be warned that it contains not only partial nudity but (what’s even more dangerous to the developing brain) extreme crosswordese. However, nine hilarious theme answers make it all worthwhile.*
+*Last Tuesday I quietly embarked on this year’s summer novel / crossword series, a trilogy the recurring feature of which I’ll leave you to detect, or decipher, or deduce, for yourself.  If you’re planning to do this puzzle with young children, you should be warned that it contains not only partial nudity but (what’s even more dangerous to the developing brain) extreme crosswordese. However, nine hilarious theme answers make it all worthwhile.*
 
 ***
 

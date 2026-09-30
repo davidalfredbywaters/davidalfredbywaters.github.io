@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*So what if this week’s puzzle is teeming with horrific contagious diseases?  They’re all safely contained within phrases so nonsensical they create a sort of semantic vacuum from which nothing can escape.*
+*So what if this week’s puzzle is teeming with horrific  contagious diseases?  They’re all safely contained within phrases so nonsensical they create a sort of semantic vacuum from which nothing can escape.*
 
 ***
 
@@ -24,3 +24,5 @@ categories: [Crosswords]
 [074 Literal Quarantines](/074-literal-quarantines-online)
 
 ![](/images/Pointing-Hand-30.png)
+
+<br>

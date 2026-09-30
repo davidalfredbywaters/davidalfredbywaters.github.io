@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*People often ask me, “Why are you so wonderful?  What's your secret?”  Well, I'll tell you what it is: it’s my attitude! I always look on the bright side!  When life gives me lemons, I make a crossword puzzle!*
+*People often ask me, “Why are you so wonderful?  What's your secret?”  Well, I'll tell you what it is: it’s my attitude! I always look on the bright side!  When life gives me lemons, I make a crossword puzzle!*
 
 ***
 

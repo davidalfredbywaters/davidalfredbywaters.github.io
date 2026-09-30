@@ -15,9 +15,9 @@ categories: [Novels]
 
 *Here is another novel by Marsh-Caldwell (see Novel* [069](/blog/2019/3/12/novel-069-anne-marsh-caldwell-emilia-wyndham-1846)*), uninhibitedly moralistic, but expert in plot and character.*
 
-“Though this tale is more tedious in its preamble—more precipitous in its conclusion than can be accredited” it “contains scenes” no other author “could have written so well.  Few will be able to escape from her new story when once they have entered on it:  few will question the vitality of some of its characters, and the force of some of its situations.” *Athenaeum*, January 12, 1850
+“Though this tale is more tedious in its preamble—more precipitous in its conclusion than can be accredited” it “contains scenes” no other author “could have written so well.  Few will be able to escape from her new story when once they have entered on it:  few will question the vitality of some of its characters, and the force of some of its situations.”  *Athenaeum*, January 12, 1850
 
-*“*The characters are sketched with great talent, the incidents are described with vigour and effect, and, above all, the workings of the heart are wrought out in earnest, passionate language.” *New Monthly Magazine*, February, 1850
+*“*The characters are sketched with great talent, the incidents are described with vigour and effect, and, above all, the workings of the heart are wrought out in earnest, passionate language.”  *New Monthly Magazine*, February, 1850
 
 ***Download this week’s novel:***
 

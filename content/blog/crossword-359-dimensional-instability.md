@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Hey solvers! Here’s a quiz:  “Dimensional instability” refers to*
+*Hey solvers! Here’s a quiz:  “Dimensional instability” refers to*
 
 *A. the effect on the waistline of alternately over- and under-eating*
 

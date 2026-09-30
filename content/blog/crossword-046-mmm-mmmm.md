@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This puzzle was inspired by 31 Across, which came to me as an airline ticket locator code.  Was this the hand of a benevolent Providence reaching down to interfere directly in human affairs?*
+*This puzzle was inspired by 31 Across, which came to me as an airline ticket locator code.  Was this the hand of a benevolent Providence reaching down to interfere directly in human affairs?*
 
 ***
 

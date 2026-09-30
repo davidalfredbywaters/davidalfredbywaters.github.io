@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This week I unite the two parts of my website with a single title, shared by the novel and the puzzle.  I don’t think anyone has ever tried this before—recommending, that is, a Victorian novel with a certain title, and then making a crossword with that very same title.  Frankly, I’m a little nervous about it. But no matter— every milestone in human progress involves some risk.*
+*This week I unite the two parts of my website with a single title, shared by the novel and the puzzle.  I don’t think anyone has ever tried this before—recommending, that is, a Victorian novel with a certain title, and then making a crossword with that very same title.  Frankly, I’m a little nervous about it.  But no matter— every milestone in human progress involves some risk.*
 
 ***
 
@@ -22,5 +22,8 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [088 Made or Marred](/088-made-or-marred-online)
+
+<br>
+<br>
 
 ![](/images/Pointing-Hand-39.png)

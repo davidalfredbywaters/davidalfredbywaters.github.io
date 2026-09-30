@@ -17,11 +17,11 @@ categories: [Novels]
 
 “The tale is told with the spirit that always characterizes Mrs. Walford’s stories.” *Critic*, July 16, 1892
 
-“A thoroughly interesting story, a trifle sensational, well written, full of life and movement.” *Independent*, September 8, 1892
+“A thoroughly interesting story, a trifle sensational, well written, full of life and movement.”  *Independent*, September 8, 1892
 
 *A contrasting opinion:*
 
-It “is not markedly original, amusing, or attractive to our thinking.  The young folks and their doings do not greatly interest one, though there is some freshness about them, and, in their fashion, they are natural and human enough. . . .   The story is slight, the treatment slighter, but it will pass.” *Athenaeum*, September 24, 1892
+It “is not markedly original, amusing, or attractive to our thinking.  The young folks and their doings do not greatly interest one, though there is some freshness about them, and, in their fashion, they are natural and human enough. . . .   The story is slight, the treatment slighter, but it will pass.” *Athenaeum*, September 24, 1892
 
 ***Download this fortnight’s novel:***
 

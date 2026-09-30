@@ -19,7 +19,7 @@ categories: [Novels]
 
 “The characters . . . are carefully drawn” and the “style . . . is at once strong, flowing, and lucid.” *Academy*, June 7, 1890
 
-“The story contains some very lifelike and entertaining sketches of the manners and customs of British subjects habitually resident in foreign boarding-houses.” *Saturday Review*, June 21, 1890
+“The story contains some very lifelike and entertaining sketches of the manners and customs of British subjects habitually resident in foreign boarding-houses.” *Saturday Review*, June 21, 1890
 
 ***Download this fortnight’s novel:***
 

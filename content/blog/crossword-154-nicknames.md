@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Today’s puzzle has a sequel, involving a further twist, which I’ll make available next week as a bonus.  Meanwhile, here’s another painting by the great Atkinson Grimshaw, this one suitable for Halloweens with full moons.*
+*Today’s puzzle has a sequel, involving a further twist, which I’ll make available next week as a bonus.  Meanwhile, here’s another painting by the great Atkinson Grimshaw, this one suitable for Halloweens with full moons.*
 
 ***
 

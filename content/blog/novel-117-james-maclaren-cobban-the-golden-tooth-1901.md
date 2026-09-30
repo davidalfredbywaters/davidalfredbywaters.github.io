@@ -13,13 +13,13 @@ categories: [Novels]
 
 ***
 
-*James Maclaren Cobban (1849-1903) wrote some 25 novels in various genres, beginning in 1879.  This is one of at least three murder mysteries featuring a mustachioed amateur sleuth named Townshend.  The plot is excellent, the style good, the characters vivid if simple.*
+*James Maclaren Cobban (1849-1903) wrote some 25 novels in various genres, beginning in 1879.  This is one of at least three murder mysteries featuring a mustachioed amateur sleuth named Townshend.  The plot is excellent, the style good, the characters vivid if simple.*
 
-Cobban’s “qualities of literary art and insight into human nature give a relieving touch to the ordinary mechanism of this class of novel.” *Manchester Guardian*, February 27, 1901
+Cobban’s “qualities of literary art and insight into human nature give a relieving touch to the ordinary mechanism of this class of novel.”  *Manchester Guardian*, February 27, 1901
 
-“An excellent and ingeniously constructed tale” treated with “briskness, humour, and unconventionality.” *Spectator*, April 27, 1901
+“An excellent and ingeniously constructed tale” treated with “briskness, humour, and unconventionality.”  *Spectator*, April 27, 1901
 
-A “detective story with all the usual impossible incidents, hairbreadth escapes, and wonderful dovetailings.” *New York Times*, August 19, 1901
+A “detective story with all the usual impossible incidents, hairbreadth escapes, and wonderful dovetailings.”  *New York Times*, August 19, 1901
 
 ***Download this week’s novel:***
 

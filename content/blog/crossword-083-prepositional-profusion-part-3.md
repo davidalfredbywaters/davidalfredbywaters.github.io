@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Alas, today’s preposition was way too easily profused, and in consequence I’ve come all too close to a crossword theme made of actual phrases properly interpreted.  I’ll try not to come this close again.  I don’t know how many promising theme ideas I’ve had to discard for no other reason than that they led, like this one, directly to phrases real people might really use.  Other constructors are not so scrupulous, and that’s why discriminating solvers like you keep returning to David Alfred Bywaters’s Crossword Cavalcade.*
+*Alas, today’s preposition was way too easily profused, and in consequence I’ve come all too close to a crossword theme made of actual phrases properly interpreted.  I’ll try not to come this close again.  I don’t know how many promising theme ideas I’ve had to discard for no other reason than that they led, like this one, directly to phrases real people might really use.  Other constructors are not so scrupulous, and that’s why discriminating solvers like you keep returning to David Alfred Bywaters’s Crossword Cavalcade.*
 
 ***
 

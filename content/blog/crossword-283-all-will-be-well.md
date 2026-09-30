@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Are you worried, anxious solver?  Are you afraid that you won’t get there on time, that you won’t be welcome even if you do get there on time, that you won’t enjoy yourself even if you are welcome, that you won’t get back home safely even if you do enjoy yourself?  Well, worry no more!  This puzzle is here to show you that all will be well.*
+*Are you worried, anxious solver?  Are you afraid that you won’t get there on time, that you won’t be welcome even if you do get there on time, that you won’t enjoy yourself even if you are welcome, that you won’t get back home safely even if you do enjoy yourself?  Well, worry no more!  This puzzle is here to show you that all will be well.*
 
 ***
 

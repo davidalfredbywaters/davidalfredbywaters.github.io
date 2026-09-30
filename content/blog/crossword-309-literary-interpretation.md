@@ -8,7 +8,7 @@ url: /blog/2024/8/10/crossword-309-literary-interpretation
 
 ***
 
-*You might have learned in your high-school or college English class to extract a profound, concealed meaning, unsuspected by the thoughtless masses, from some classic work of literature.  “Emma,” you might have found, is really a protest against the patriarchy, “Huckleberry Finn” a celebration of homoerotic desire, “Hamlet” a representation of incestuous obsession, etc. This sort of thing is a lot of fun, once you learn how.  But why go to all the trouble of reading some long-winded classic when you can do much the same thing solving a 78-word puzzle?*
+*You might have learned in your high-school or college English class to extract a profound, concealed meaning, unsuspected by the thoughtless masses, from some classic work of literature.  “Emma,” you might have found, is really a protest against the patriarchy, “Huckleberry Finn” a celebration of homoerotic desire, “Hamlet” a representation of incestuous obsession, etc. This sort of thing is a lot of fun, once you learn how.  But why go to all the trouble of reading some long-winded classic when you can do much the same thing solving a 78-word  puzzle?*
 
 ***
 

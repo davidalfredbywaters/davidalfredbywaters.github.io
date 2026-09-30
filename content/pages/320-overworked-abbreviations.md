@@ -3,7 +3,7 @@ title: "320 Overworked Abbreviations"
 url: /320-overworked-abbreviations
 ---
 
-# Crossword 320: Overworked Abbreviations {.center}
+#  Crossword 320: Overworked Abbreviations {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

@@ -3,7 +3,7 @@ title: "315 Speech Recognition (online)"
 url: /315-speech-recognition-online
 ---
 
-# Crossword 315: Speech Recognition {.center}
+#  Crossword 315: Speech Recognition {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

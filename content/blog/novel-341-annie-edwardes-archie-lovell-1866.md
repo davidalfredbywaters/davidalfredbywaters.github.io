@@ -24,5 +24,5 @@ A *somewhat* contrasting view:
 
 ***Download this fortnight’s novel:***
 
-<https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147660440107026>
+<https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147660440107026><br>
 (Right-click (or control-click, if you have a Mac) on the “view digitized copy” links to download the novel’s three volumes in pdf form)

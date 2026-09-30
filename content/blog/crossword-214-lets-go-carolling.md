@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*It’s Christmas!  So here’s a little gift, just for you—a new crossword puzzle! I made it myself!  As to the title—if you’re not fond of Christmas carols, don’t worry—remember how I let you off* [*last year*](/blog/2020/12/19/crossword-161-noels)*?*
+*It’s Christmas!  So here’s a little gift, just for  you—a new crossword puzzle!  I made it myself!  As to the title—if you’re not fond of Christmas carols, don’t worry—remember how I let you off* [*last year*](/blog/2020/12/19/crossword-161-noels)*?*
 
 ***
 

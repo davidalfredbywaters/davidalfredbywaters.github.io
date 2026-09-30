@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Gertrude Minnie Robins (1861-1939) wrote some fifty novels, beginning in 1886.  This one cleverly handles a plausible series of misperceptions and misplaced loyalties.*
+*Gertrude Minnie Robins (1861-1939) wrote some fifty novels, beginning in 1886.  This one cleverly handles a plausible series of misperceptions and misplaced loyalties.*
 
-“Miss Robins has achieved a real success in *The Ides of March.* . . . The two principal personages . . . are drawn with unusual skill and vigour. . . .   There is not one weakly-drawn character in the whole story. . . . Society in a sleepy cathedral city is happily hit off, and there are many wise as well as witty things in the course  of the three volumes.” *Academy*, January 16, 1892
+“Miss Robins has achieved a real success in *The Ides of March.* . . .  The two principal personages . . . are drawn with unusual skill and vigour. . . .   There is not one weakly-drawn character in the whole story. . . .  Society in a sleepy cathedral city is happily hit off, and there are many wise as well as witty things in the course  of the three volumes.” *Academy*, January 16, 1892
 
-“This is a curious and, we must say, ingeniously constructed story. . . . The social sketches are good, and on the whole *The Ides of March* . . . is a novel that may be recommended.” *Spectator*, February 6, 1892
+“This is a curious and, we must say, ingeniously constructed story. . . .  The social sketches are good, and on the whole *The Ides of March* . . . is a novel that may be recommended.” *Spectator*, February 6, 1892
 
 ***Download this week’s novel:***
 

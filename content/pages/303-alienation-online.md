@@ -3,7 +3,7 @@ title: "303 Alienation (online)"
 url: /303-alienation-online
 ---
 
-# Crossword 303: Alienation {.center}
+#  Crossword 303: Alienation {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

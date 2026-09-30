@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*We’ve had some reverses here at the ol’ Cavalcade.  The dog won’t hunt and the hen won’t lay; the roof is got to leakin’ and the plumblin’s gone awry.  But never fear, we’re gonna keep on keepin’ on.  In fact, as part of a new policy to protect and expand our market share, we’ve decided to cultivate an air of folksiness, so as to reassure our audience that we have no truck with them there dad-blame, stuck-up intellectual elites, gol durn ‘em.  We’re just as dumb as you are, fellow common person!*
+*We’ve had some reverses here at the ol’ Cavalcade.  The dog won’t hunt and the hen won’t lay; the roof is got to leakin’ and the plumblin’s gone awry.  But never fear, we’re gonna keep on keepin’ on.  In fact, as part of a new policy to protect and expand our market share, we’ve decided to cultivate an air of folksiness, so as to reassure our audience that we have no truck with them there dad-blame, stuck-up intellectual elites, gol durn ‘em.  We’re just as dumb as you are, fellow common person!*
 
 ***
 

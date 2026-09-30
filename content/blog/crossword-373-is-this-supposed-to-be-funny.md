@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*“Is this supposed to be funny?”  I don’t know how many times someone has turned from one of my crosswords to ask me that question.  The answer, of course, is, “No.”  Lesser crossword constructors than I, hacks hoping merely to entertain an undiscriminating public, may try to be funny.  Mine is a higher calling:  to awaken within the soul of the solver the spiritual energies, the eternal essences, that lie dormant there,  awaiting some moment of insight, of connection, of epiphany, that brings them suddenly forth through the heavy encrustation of physical routine and mental habit, leaping and soaring above quotidian reality toward pure being.*
+*“Is this supposed to be funny?”  I don’t know how many times someone has turned from one of my crosswords to ask me that question.  The answer, of course, is, “No.”  Lesser crossword constructors than I, hacks hoping merely to entertain an undiscriminating public, may try to be funny.  Mine is a higher calling:  to awaken within the soul of the solver the spiritual energies, the eternal essences, that lie dormant there,  awaiting some moment of insight, of connection, of epiphany, that brings them suddenly forth through the heavy encrustation of physical routine and mental habit, leaping and soaring above quotidian reality toward pure being.*
 
 ***
 

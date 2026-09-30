@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*In an early version of this puzzle, ELIA, the pseudonym of essayist Charles Lamb that has been embraced by puzzle-constructors for its oreo-like usefulness, appeared at 41 Across. Eager as always to spare you all the crosswordese I can, I took it out, but with some regret, for Lamb is the source of these wise words : “The puns which are most entertaining are those which will least bear an analysis.” Write them down, gentle solver, and repeat them to yourself next time you’re tempted to think ill of one of my themes.*
+*In an early version of this puzzle, ELIA, the pseudonym of essayist Charles Lamb that has been embraced by puzzle-constructors for its oreo-like usefulness, appeared at 41 Across.  Eager as always to spare you all the crosswordese I can, I took it out, but with some regret, for Lamb is the source of these wise words : “The puns which are most entertaining are those which will least bear an analysis.”  Write them down, gentle solver, and repeat them to yourself  next time you’re tempted to think ill of one of my themes.*
 
 ***
 

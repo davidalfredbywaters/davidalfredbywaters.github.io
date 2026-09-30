@@ -3,7 +3,7 @@ title: "316 Facing Uncertainties"
 url: /316-facing-uncertainties
 ---
 
-# Crossword 316: Facing Uncertainties {.center}
+#  Crossword 316: Facing Uncertainties {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

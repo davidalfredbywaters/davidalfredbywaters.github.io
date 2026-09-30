@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*If the title’s suggestion of something lurid or dangerous frightens you—don’t worry.  Nothing of the sort is permitted to intrude on this website’s atmosphere of stately calm, of idyllic reverie.  And if you’re inclined to doze off like the lady in the picture above, go right ahead.  You’re safe here.*
+*If the title’s suggestion of something lurid or dangerous frightens you—don’t worry.  Nothing of the sort is permitted to intrude on this website’s atmosphere of stately calm, of idyllic reverie.  And if you’re inclined to doze off like the lady in the picture above, go right ahead.  You’re safe here.*
 
 ***
 

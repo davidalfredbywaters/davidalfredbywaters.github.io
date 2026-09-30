@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*That’s right—I’m fed up!  I’m fed up, for example, with politics, which is actually just an effect of tribalism, which is in turn just an effect of human nature, which is itself just an effect of nature in general, which is after all just an effect of whatever mysterious process created everything for whatever mysterious purpose.  So I’ll just do a crossword.*
+*That’s right—I’m fed up!  I’m fed up, for example, with politics, which is actually just an effect of tribalism, which is in turn just an effect of human nature, which is itself just an effect of nature in general, which is after all just an effect of whatever mysterious process created everything for whatever mysterious purpose.  So I’ll just do a crossword.*
 
 ***
 

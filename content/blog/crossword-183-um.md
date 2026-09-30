@@ -14,7 +14,7 @@ Henry Stacey Marks, Where Is It?
 
 ***
 
-*I don’t know. . . .  I’m completely at a loss. . . .  I’m pretty sure I was about to say something—something pretty important, too—but I just can’t remember what it was.*
+*I don’t know. . . .  I’m completely at a loss. . . .  I’m pretty sure I was about to say something—something pretty important, too—but I just can’t remember what it was.*
 
 ***Download this week’s crossword:***
 

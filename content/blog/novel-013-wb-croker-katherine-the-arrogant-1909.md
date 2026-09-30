@@ -13,13 +13,13 @@ categories: [Novels]
 
 ***
 
-*Bithia Mary Croker (1848?-1921) wrote nearly 50 novels between 1882 and 1920.  This charming post-Victorian social comedy has motorcars and electric lights.*
+*Bithia Mary Croker (1848?-1921) wrote nearly 50 novels between 1882 and 1920.  This charming post-Victorian social comedy has motorcars and electric lights.*
 
-“A good story on a theme which always attracts, the woman who has to conquer the world.” *Spectator*, March 27, 1909
+“A good story on a theme which always attracts, the woman who has to conquer the world.” *Spectator*, March 27, 1909
 
-“An excellent story; crisply and vivaciously written, and thoroughly interesting from start to finish.” *Bookman*, April 1909
+“An excellent story; crisply and vivaciously written, and thoroughly interesting from start to finish.” *Bookman*, April 1909
 
-“It is written with an appearance of ease and competency of touch tending to disarm criticism.” *Athenaeum*, April 17, 1909
+“It is written with an appearance of ease and competency of touch tending to disarm criticism.” *Athenaeum*, April 17, 1909
 
 ***Download this week’s novel:***
 

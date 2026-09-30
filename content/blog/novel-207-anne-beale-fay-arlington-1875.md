@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*For Beale, see Novel* [*60*](/blog/2019/1/8/novel-060-anne-beale-gladys-the-reaper-1860)*.  The first two volumes of this novel are excellent, with striking characters, especially the French girl heroine, placed in dramatic situations—excellent enough to make up for the third, which loses itself in idiotic lovers’ misunderstandings and tedious sentimental fantasy.*
+*For Beale, see Novel* [*60*](/blog/2019/1/8/novel-060-anne-beale-gladys-the-reaper-1860)*.  The first two volumes of this novel are excellent, with striking characters, especially the French girl heroine, placed in dramatic situations—excellent enough to make up for the third, which loses itself in idiotic lovers’ misunderstandings and tedious sentimental fantasy.*
 
-“Fay is not an unattractive heroine . . . and her freaks as a child are amusing.” *Graphic*, October 23, 1875
+“Fay is not an unattractive heroine . . . and her freaks as a child are amusing.”  *Graphic*, October 23, 1875
 
-A novel with “really fine studies, drawn to the life, and from beginning to end full of vitality and individuality.” *Spectator*, January 2, 1892 (the novel was then republished).
+A novel with “really fine studies, drawn to the life, and from beginning to end full of vitality and individuality.”  *Spectator*, January 2, 1892 (the novel was then republished).
 
 ***Download this week’s novel:***
 

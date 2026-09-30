@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*Get up, everybody!  The judge is coming!  And being judged is, after all, the point of everything!  The world is one great courtroom! life is a trial! and the judge is coming!*
+*Get up, everybody!  The judge is coming!  And being judged is, after all, the point of everything!  The world is one great courtroom! life is a trial! and the judge is coming!*
 
-*Oh dear.  I think I need a nap.*
+*Oh dear.  I think I need a nap.*
 
 ***
 

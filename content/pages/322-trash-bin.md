@@ -3,7 +3,7 @@ title: "322 Trash Bin"
 url: /322-trash-bin
 ---
 
-# Crossword 322: Trash Bin {.center}
+#  Crossword 322: Trash Bin {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

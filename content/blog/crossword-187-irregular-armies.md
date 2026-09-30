@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Here’s a joke!  Q: “What do you give irregular armies?”—A: “PX-Lax”  Get it?  Ha ha! I just thought that one up.  Funny, huh?  No?  Well, don’t worry, it has nothing whatever to do with the puzzle below.*
+*Here’s a joke!  Q: “What do you give irregular armies?”—A: “PX-Lax”  Get it?  Ha ha! I just thought that one up.  Funny, huh?  No?  Well, don’t worry, it has nothing whatever to do with the puzzle below.*
 
 ***
 

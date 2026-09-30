@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*It strikes me that this is my third attire-related theme this month.  Should I try for a fourth?  “Dressing Up,” maybe, where words like CROSS and RANCH and WINDOW and SURGICAL might be found backwards, from down to up, within phrases that seem funny from up to down?  Let’s see, CROSS gives us HOLINESS ORCHIDS: “Megachurch’s incense substitutes?”—great!  RANCH gives us SWITCH NARCOTICS: “Give up heroin for fentanyl?”—hilarious!  But WINDOW? What about TWO-D NIWA?  The Niwa clan, as Wikipedia tells us, was a “retainer clan of the Oda clan during the Sengoku period of Japan.”  So “Flattened Sengoku-period clan member”—Get it?  Hmm.   And SURGICAL?—GUERRILLA CIG RUSE: “That old trick in which the irregular military opponents of an occupying power distract enemy attention with a tobacco product, informally”?  Oh never mind.*
+*It strikes me that this is my third attire-related theme this month.  Should I try for a fourth?  “Dressing Up,” maybe, where words like CROSS and RANCH and WINDOW and SURGICAL might be found backwards, from down to up, within phrases that seem funny from up to down?  Let’s see, CROSS gives us HOLINESS ORCHIDS: “Megachurch’s incense substitutes?”—great!  RANCH gives us SWITCH NARCOTICS: “Give up heroin for fentanyl?”—hilarious!  But WINDOW? What about TWO-D NIWA?  The Niwa clan, as Wikipedia tells us, was a “retainer clan of the Oda clan during the Sengoku period of Japan.”  So “Flattened Sengoku-period clan member”—Get it?  Hmm.   And SURGICAL?—GUERRILLA CIG RUSE: “That old trick in which the irregular military opponents of an occupying power distract enemy attention with a tobacco product, informally”?  Oh never mind.*
 
 ***
 

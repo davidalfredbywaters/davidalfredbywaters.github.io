@@ -3,7 +3,7 @@ title: "310 Double Plays (on words) (online)"
 url: /310-double-plays-on-words-online
 ---
 
-# Crossword 310: Double Plays (On Words) {.center}
+#  Crossword 310: Double Plays (On Words) {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

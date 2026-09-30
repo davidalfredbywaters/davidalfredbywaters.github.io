@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Do you ever wake up in the morning and wonder why you are maintaining a website that offers weekly crosswords and weekly Victorian novel recommendations?  Am I the only person who does that?*
+*Do you ever wake up in the morning and wonder why you are maintaining a website that offers weekly crosswords and weekly Victorian novel recommendations?  Am I the only person who does that?*
 
 ***
 

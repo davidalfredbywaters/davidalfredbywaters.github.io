@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Why is the English word signifying assent so ugly?  “Si” sounds helpful, “oui” cute, “ja” endearingly goofy, but “yes,” with its growling short “e” and sibilant conclusion, seems just hostile.  When people say it while making that ugly pulled-down-fist motion—often with the implication, “Yes, my enemies lie slaughtered before me!”—they’re only realizing the sound’s potential.*
+*Why is the English word signifying assent so ugly?  “Si” sounds helpful, “oui” cute, “ja” endearingly goofy, but “yes,” with its growling short “e” and sibilant conclusion, seems just hostile.  When people say it while making that ugly pulled-down-fist motion—often with the implication, “Yes, my enemies lie slaughtered before me!”—they’re only realizing the sound’s  potential.*
 
 ***
 

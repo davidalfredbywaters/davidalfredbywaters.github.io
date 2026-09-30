@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*My life used to be so hard.  Everywhere were people I couldn’t control, things I couldn’t afford, problems I couldn’t solve.  I felt pretty bad about it all.  But then I discovered extracts! Psilocybin from mushrooms, ibogaine from tree bark, 5-Me-O-DMT from toad venom, ayahuasca from Amazonian plants, and of course lysergic acid diethylamide from ergot fungi, and now I feel just gr. . . . I feel . . . I . . . um . . . who?*
+*My life used to be so hard.  Everywhere were people I couldn’t control, things I couldn’t afford, problems I couldn’t solve.  I felt pretty bad about it all.  But then I discovered extracts!  Psilocybin from mushrooms, ibogaine from tree bark, 5-Me-O-DMT from toad venom, ayahuasca from Amazonian plants, and of course lysergic acid diethylamide from ergot fungi, and now I feel just gr. . . . I feel . . . I . . . um . . . who?*
 
 ***
 

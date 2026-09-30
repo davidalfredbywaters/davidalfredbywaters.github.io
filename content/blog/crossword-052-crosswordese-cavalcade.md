@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*If you’ve done more than a few crosswords, you know that some relatively rare words and phrases appear in them with annoying frequency.  The crossword constructor’s life is one long wearisome battle against these.  “Does nothing fit here but Caesar’s last words crossed with the founder of Yale?  Oh, why was I born to suffer?” asks the sorrowing crossword constructor.  This week, however, I’m just giving up and letting them in. In fact, I’ve made an especially large 21 x 21 puzzle to accommodate them.*
+*If you’ve done more than a few crosswords, you know that some relatively rare words and phrases appear in them with annoying frequency.  The crossword constructor’s life is one long wearisome battle against these.  “Does nothing fit here but Caesar’s last words crossed with the founder of Yale?  Oh, why was I born to suffer?” asks the sorrowing crossword constructor.  This week, however, I’m just giving up and letting them in.  In fact, I’ve made an especially large  21 x 21 puzzle to accommodate them.*
 
-*And so I conclude this website’s first year—with this puzzle, and with a second and final solicitation for support.  Donate $12 and get a free bonus crossword: either a 15 x 15 puzzle made entirely of words and phrases current in the Victorian era, or a 21 x 21 puzzle made of the usual stuff.  Donate $15 and get both.  Just click this button:*
+*And so I conclude this website’s first year—with this puzzle, and with a second and final solicitation for support.  Donate $12 and get a free bonus crossword: either a 15 x 15 puzzle made entirely of words and phrases current in the Victorian era, or a 21 x 21 puzzle made of the usual stuff.  Donate $15 and get both.  Just click this button:<br>*
 
 {{ donate }}
 

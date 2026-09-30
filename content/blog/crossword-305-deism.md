@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*As I’ve mentioned before, the crossword constructors of today aren’t content simply to amuse their audience—they want to improve it, to better humanity one solver at a time.  Most of them can think of no more effective way of doing this than by including in their grids people and things they think good, and excluding from them people and things they think bad, in the hope that solvers will be led to adopt their own exemplary opinions.  Not I—my crosswords transcend such trivial concerns. Today’s pair of crosswords, for example, force the solver to grapple with one of the most fundamental questions of the human condition: Is there a god?  Solving these crosswords may not tell you directly, but it will deepen your understanding of the question and so, in a way, of the world, and of yourself.*
+*As I’ve mentioned before, the crossword constructors of today aren’t content simply to amuse their audience—they want to improve it, to better humanity one solver at a time.  Most of them can think of no more effective way of doing this than by including in their grids people and things they think good, and excluding from them people and things they think bad, in the hope that solvers will be led to adopt their own exemplary opinions.  Not I—my crosswords transcend such trivial concerns. Today’s pair of crosswords, for example, force the solver to grapple with one of the most fundamental questions of the human condition: Is there a god?  Solving these crosswords may not tell you directly, but it will deepen your understanding of the question and so, in a way, of the world, and of yourself.*
 
 ***
 

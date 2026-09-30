@@ -13,7 +13,7 @@ categories: [Novels]
 
 ***
 
-*For Mann, see Novels* [*016*](/blog/2018/3/6/novel-016-mary-e-mann-moonlight-1898)*,* [*154*](/blog/2020/10/27/novel-154-mary-e-mann-the-parish-of-hilby-1883)*,* [*204*](/blog/2021/10/12/novel-204-mary-e-mann-in-summer-shade-1893)*,* and[*310*](/blog/2024/8/17/novel-310-mary-e-mann-a-winters-tale-1891)*.*
+*For Mann, see Novels* [*016*](/blog/2018/3/6/novel-016-mary-e-mann-moonlight-1898)*,* [*154*](/blog/2020/10/27/novel-154-mary-e-mann-the-parish-of-hilby-1883)*,*[*204*](/blog/2021/10/12/novel-204-mary-e-mann-in-summer-shade-1893)*,* and[*310*](/blog/2024/8/17/novel-310-mary-e-mann-a-winters-tale-1891)*.*
 
 It would make “an excellent melodrama”; the characters are “quite good enough to serve as scaffolding for a plot unusually well conceived.” *Saturday Review*, September 9, 1893
 

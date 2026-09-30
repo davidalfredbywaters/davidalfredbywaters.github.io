@@ -13,9 +13,9 @@ A woman’s former husband reappears unexpectedly.
 
 ***
 
-*For Eleanor Frances Poynter see novel* [*145*](/blog/2020/8/25/novel-145-eleanor-frances-poynter-my-little-lady-1870)*.  This, apparently the last of her works, has little plot, but much careful character analysis.*
+*For Eleanor Frances Poynter see novel* [*145*](/blog/2020/8/25/novel-145-eleanor-frances-poynter-my-little-lady-1870)*.  This, apparently the last of her works, has little plot, but much careful character analysis.*
 
-“The story is perhaps the misfortune of the book, but the characters, situations, and conversations are handled with surehandedness and strength.” *Bookman*, December 1892
+“The story is perhaps the misfortune of the book, but the characters, situations, and conversations are handled with surehandedness and strength.”  *Bookman*, December 1892
 
 “Very interesting, on the whole, and extremely well written.” *Critic*, January 14, 1893
 

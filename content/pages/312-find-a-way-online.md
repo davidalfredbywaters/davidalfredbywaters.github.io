@@ -3,7 +3,7 @@ title: "312 Find a Way (online)"
 url: /312-find-a-way-online
 ---
 
-# Crossword 312: Find a Way {.center}
+#  Crossword 312: Find a Way {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Facing uncertainties is, of course, inevitably a part of life.  Will we live to extreme old age or succumb all too soon to accident or disease?  Will our crosswords be hailed by a grateful world, or neglected through ignorance, prejudice, and bad taste?  In any case, we must hope for the best and do our duty, as I do every week on this website.*
+*Facing uncertainties is, of course, inevitably a part of life.  Will we live to extreme old age or succumb all too soon to accident or disease?  Will our crosswords be hailed by a grateful world, or neglected through ignorance, prejudice, and bad taste?  In any case, we must hope for the best and do our duty, as I do every week on this website.*
 
 ***
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*It’s a 1972 Academy-Award-winning song!  It’s a Supreme-Court-case-worthy pill!  It’s an episode of the 60s British spy series “The Avengers” (but after Diana Rigg left)!  It’s also a 1937 song that didn’t win any awards, and (I’m consulting Wikipedia here) three other songs, and six record albums, and a radio show, and a web series.  Isn’t it time it was a crossword puzzle?  I’ve tried to fill this void while learning from the mistakes of the mornings-after of the past.  I hope my “Morning After” does not quite sink to the banality of the award-winning song.  I’m pretty sure it can’t be accused of arousing the heated political conflicts of the pill. And I have included Diana Rigg!*
+*It’s a 1972 Academy-Award-winning song!  It’s a Supreme-Court-case-worthy pill!  It’s an episode of the 60s British spy series “The Avengers” (but after Diana Rigg left)!  It’s also a 1937 song that didn’t win any awards, and (I’m consulting Wikipedia here) three other songs, and six record albums, and a radio show, and a web series.  Isn’t it time it was a crossword puzzle?  I’ve tried to fill this void while learning from the mistakes of the mornings-after of the past.  I hope my “Morning After” does not quite sink to the banality of the award-winning song.  I’m pretty sure it can’t be accused of arousing the heated political conflicts of the pill. And I have included Diana Rigg!*
 
 ***
 

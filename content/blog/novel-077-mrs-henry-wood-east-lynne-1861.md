@@ -15,11 +15,11 @@ categories: [Novels]
 
 *The prolific and popular Mrs. Henry Wood (born Ellen Price) (1814-1887), though she did not begin writing until middle age, published over forty novels and story collections; in this novel, which established her fame, her moralistic and sentimental proclivities can’t overcome vivid characters and a gripping plot.*
 
-“The plot is interesting, intricate and well carried out; the characters are life-like, and the writing simple and natural.” *Athenaeum*, October 12, 1861
+“The plot is interesting, intricate and well carried out; the characters are life-like, and the writing simple and natural.”  *Athenaeum*, October 12, 1861
 
-“The authoress treads the ground sacred to French novels with the honest and firm step of an Englishwoman.” *Examiner*, October 16, 1861
+“The authoress treads the ground sacred to French novels with the honest and firm step of an Englishwoman.”  *Examiner*, October 16, 1861
 
-“There is no wit in it, nor any powerful play of passion, nor any subtle analysis of character.  It merely flows on with a good plot carefully worked out, with clear, clever sketches of ordinary people, and in a pleasant, natural style.” *Saturday Review*, February 15, 1862
+“There is no wit in it, nor any powerful play of passion, nor any subtle analysis of character.  It merely flows on with a good plot carefully worked out, with clear, clever sketches of ordinary people, and in a pleasant, natural style.”  *Saturday Review*, February 15, 1862
 
 ***Download this week’s novel:***
 

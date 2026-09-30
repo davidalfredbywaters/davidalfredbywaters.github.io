@@ -13,7 +13,7 @@ categories: [Novels]
 
 ***
 
-*M. Hamilton was the pseudonym of Mary Churchill Luck, née Spottiswood-Ashe (1869-1949), who wrote some 20 novels between 1896 and 1928. This, her first, was set, like many of her novels, in her native Ulster.*
+*M. Hamilton was the pseudonym of Mary Churchill Luck, née Spottiswood-Ashe (1869-1949), who wrote some 20 novels between 1896 and 1928.  This, her first, was set, like many of her novels, in her native Ulster.*
 
 “The characters are exceptionally distinct, the movement is brisk, and the dialogue is natural and convincing.” *Athenaeum*, February 15, 1896.
 

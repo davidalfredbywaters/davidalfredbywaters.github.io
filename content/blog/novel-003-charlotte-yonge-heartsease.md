@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Charlotte Yonge (1823-1901) wrote some 60 novels between 1844 and 1900.  No novelist has ever created characters more lifelike, original, and fully individualized than Yonge’s.*
+*Charlotte Yonge (1823-1901) wrote some 60 novels between 1844 and 1900.  No novelist has ever created characters more lifelike, original, and fully individualized than Yonge’s.*
 
 “One of the loveliest, sweetest, and most attractive creations that ever sprung to life at the poet’s bidding.” *Fraser’s Magazine,* November, 1854
 
-“There is ... minute etching of incident and character, and every page repays the reader, by disclosing some trait of interest essential to the development of the story.  The interest lies chiefly in the details of the daily life and daily trials of the different characters.  These are drawn with considerable vigour.... ‘Heartsease’ is the most true looking story we have read for a long time.” *Athenaeum*, November 18, 1854
+“There is ... minute etching of incident and character, and every page repays the reader, by disclosing some trait of interest essential to the development of the story.  The interest lies chiefly in the details of the daily life and daily trials of the different characters.  These are drawn with considerable vigour.... ‘Heartsease’ is the most true looking story we have read for a long time.” *Athenaeum*, November 18, 1854
 
 “The characters are exceedingly well drawn and distinguished... The book, although not of the intense kind, bears evidence of very keen observation, and very true and careful thought, and as a work of art, must rank very high.” *Putnam’s*, February 1855
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Feeling anxious? Why spend a fortune on talking cures or psychotropic drugs, when you have access on this website, free of charge, to cruciverbal-behavioral therapy (CBT)?  Work this puzzle, and you’ll find yourself growing reconciled at last to life’s enduring misery and your own congenital inadequacies!*
+*Feeling anxious? Why spend a fortune on talking cures or psychotropic drugs, when you have access on this website, free of charge, to cruciverbal-behavioral therapy (CBT)?  Work this puzzle, and you’ll find yourself growing reconciled at last to life’s enduring misery and your own congenital inadequacies!*
 
 ***
 

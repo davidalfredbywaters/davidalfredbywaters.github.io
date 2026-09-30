@@ -13,9 +13,9 @@ categories: [Novels]
 
 ***
 
-*Margaret Agnes Paul, née Colvile (1829–1905) wrote a dozen novels between 1856 and 1886, of which this was the fifth.  Just one volume, like many of her works, this has a good plot drawn from ordinary life, and a few vivid characters.*
+*Margaret Agnes Paul, née Colvile (1829–1905) wrote a dozen novels between 1856 and 1886, of which this was the fifth.  Just one volume, like many of her works, this has a good plot drawn from ordinary life, and a few vivid characters.*
 
-“A very pleasant evening’s reading—clever, sensible, brief, lively, and refined. . . .  It is sometimes a relief to read a novel which is good enough to admire, and not powerful enough for even a pretence to immortality.” *Spectator*, November 9, 1861
+“A very pleasant evening’s reading—clever, sensible, brief, lively, and refined. . . .  It is sometimes a relief to read a novel which is good enough to admire, and not powerful enough for even a pretence to immortality.” *Spectator*, November 9, 1861
 
 “interesting and original . . . related in a sharp, concise manner, which renders it very pleasant reading.” *Athenaeum*, November 9, 1861
 

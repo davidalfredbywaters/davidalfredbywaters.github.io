@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*If I were sure this picture would always accompany this puzzle, I wouldn’t have bothered with any other clue for 73 Across.  “Trees, clouds, cows, hill—why,” says the informed viewer, “this can only be the view at ____!”*
+*If I were sure this picture would always accompany this puzzle, I wouldn’t have bothered with any other clue for 73 Across.  “Trees, clouds, cows, hill—why,” says the informed viewer, “this can only be the view at ____!”*
 
 ***
 

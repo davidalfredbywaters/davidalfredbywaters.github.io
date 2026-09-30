@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Why indeed?  I was pondering the world’s problems and hit upon this solution:  everybody can just get along!  Republicans and Democrats, women and men, obscurities and celebrities, ugly people and handsome people, bankers and bank-robbers, abductors and abductees, why do we have to be so unpleasant to each other all the time?  Let’s just get along!*
+*Why indeed?  I was pondering the world’s problems and hit upon this solution:  everybody can just get along!  Republicans and Democrats, women and men, obscurities and celebrities, ugly people and handsome people, bankers and bank-robbers, abductors and abductees, why do we have to be so unpleasant to each other all the time?  Let’s just get along!*
 
 ***
 

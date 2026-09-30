@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I’ve been so busy! Everybody wants me to do everything, because I’m so good at it!  So, finding myself short of time for this fortnight’s crossword, I’ve had to settle for just some assorted answers, an untitled painting, and no more interesting introductory comment than this one.*
+*I’ve been so busy! Everybody wants me to do everything, because I’m so good at it!  So, finding myself short of time for this fortnight’s crossword, I’ve had to settle for just some assorted answers, an untitled painting, and no more interesting introductory comment than this one.*
 
 ***
 

@@ -15,9 +15,9 @@ categories: [Novels]
 
 *Emma Robinson (1814-1890) wrote fifteen novels between 1843 and 1867, most of them historical; this, however, is contemporary, an odd combination of farce and ghost story, written in a sometimes tortured but always lively style.*
 
-“The plot is dramatic enough, and would make an excellent farce.  As a story it is very entertaining.” *Caledonian Mercury*, July 26, 1862
+“The plot is dramatic enough, and would make an excellent farce.  As a story it is very entertaining.”  *Caledonian Mercury*, July 26, 1862
 
-“Unlikely scenes...described with dash and spirit.” *Athenaeum*, September 13, 1862
+“Unlikely scenes...described with dash and spirit.”  *Athenaeum*, September 13, 1862
 
 ***Download this week’s novel:***
 

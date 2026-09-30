@@ -17,7 +17,7 @@ categories: [Novels]
 
 A “screaming farce, neither more nor less, and successful in its line of delightful absurdity.” *Saturday Review*, June 25, 1898
 
-“An admirable piece of fooling, with not a dull page.” *Athenaeum*, July 2, 1898
+“An admirable piece of fooling, with not a dull page.”  *Athenaeum*, July 2, 1898
 
 ***Download this fortnight’s novel:***
 

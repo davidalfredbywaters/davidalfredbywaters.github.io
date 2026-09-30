@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*My choice of painting was inspired by 39 Down.  I looked up the term online and found it originally referred not, as I thought, to a raucous but harmless celebration of some sort, but to a noisy, sometime violent mock-parade held to express collective “disapproval of different types of violation of community norms” (Wikipedia). And this reminded me of everything that arouses the misanthropy against which, dear solver, I am perpetually struggling—it reminded me, that is, of mindless tribalism, hideous clamor, deliberate cruelty in the service of some sanctimonious purpose. I found myself longing for silence and emptiness.  The inhabitants of these Aberdeenshire farms, however maliciously inclined, have got to remain quietly in their snowbound buildings for the present.*
+*My choice of painting was inspired by 39 Down.  I looked up the term online and found it originally referred not, as I thought, to a raucous but harmless celebration of some sort, but to a noisy, sometime violent mock-parade held to express collective “disapproval of different types of violation of community norms” (Wikipedia).  And this reminded me of everything that arouses the misanthropy against which, dear solver, I am perpetually struggling—it reminded me, that is, of mindless tribalism, hideous clamor, deliberate cruelty in the service of some sanctimonious purpose.  I found myself longing for silence and emptiness.  The inhabitants of these Aberdeenshire farms, however maliciously inclined, have got to remain quietly in their snowbound buildings for the present.*
 
 ***
 
@@ -21,4 +21,4 @@ categories: [Crosswords]
 
 ***Solve this week’s crossword online:***
 
-[066 Multi-PL Choice](/066-multipl-choice-online)
+[066 Multi-PL Choice](/066-multipl-choice-online)<br>

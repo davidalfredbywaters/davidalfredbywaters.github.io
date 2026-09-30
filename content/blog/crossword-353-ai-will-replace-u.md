@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*It appears that artificial intelligence (AI) can do your job better than you can, and so you won’t be asked to do it anymore.  But so what?  You’ll have all the more time to solve crosswords and read Victorian novels.  And if you should run out of crosswords to solve, or Victorian novels to read, never fear; AI can produce more of them.  Of course, if you’re dependent on income derived from your job for food, shelter, clothing, and such things, there will be some drawbacks.*
+*It appears that artificial intelligence (AI) can do your job better than you can, and so you won’t be asked to do it anymore.  But so what?  You’ll have all the more time to solve crosswords and read Victorian novels.  And if you should run out of crosswords to solve, or Victorian novels to read, never fear; AI can produce more of them.  Of course, if you’re dependent on income derived from your job for food, shelter, clothing, and such things, there will be some drawbacks.*
 
 ***
 

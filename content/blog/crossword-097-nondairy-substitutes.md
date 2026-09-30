@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Okay, so it’s the same joke four times.  So what?  It’s a good joke.  And the fourth iteration (64 Across) is not just a joke, it’s also a wry comment on the human condition.*
+*Okay, so it’s the same joke four times.  So what?  It’s a good joke.  And the fourth iteration (64 Across) is not just a joke, it’s also a wry comment on the human condition.*
 
 ***
 

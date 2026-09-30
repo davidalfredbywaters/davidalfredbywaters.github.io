@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Have you seen “Out of the Past”—the 1947 movie directed by Jacques Tourneur, starring Robert MItchum, Jane Greer, and Kirk Douglas, adapted by Daniel Mainwaring from his 1946 novel?  If not, do so right away!  It’s one of the best movies ever made!  I had to watch it half a dozen times to figure out its plot (and there are still some points I’m not quite clear on), but I enjoyed it every time.  I’d have hired the same cast and director for this puzzle, if puzzles had casts and directors, and if they weren’t all dead.*
+*Have you seen “Out of the Past”—the 1947 movie directed by Jacques Tourneur, starring Robert MItchum, Jane Greer, and Kirk Douglas, adapted by Daniel Mainwaring from his 1946 novel?  If not, do so right away!  It’s one of the best movies ever made!  I had to watch it half a dozen times to figure out its plot (and there are still some points I’m not quite clear on), but I enjoyed it every time.  I’d have hired the same cast and director for this puzzle, if puzzles had casts and directors, and if they weren’t all dead.*
 
 ***
 

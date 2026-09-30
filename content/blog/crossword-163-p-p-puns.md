@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*Now and then, in the major crossword venues, one finds a puzzle in which the theme answers consist of common two-word phrases that start with the same one or two letters.  POISONPILL PINGPONG PARCELPOST POLOPONY—voilà.  That theme took me just sixty seconds to produce.  No doubt a competent programmer with access to a phrase database could make a computer produce sixty such puzzles in sixty seconds.  And they would be just as much fun to solve as they were to make.*
+*Now and then, in the major crossword venues, one finds a puzzle in which the theme answers consist of common two-word phrases that start with the same one or two letters.  POISONPILL PINGPONG PARCELPOST POLOPONY—voilà.  That theme took me just sixty seconds to produce.  No doubt a competent programmer with access to a phrase database could make a computer produce sixty such puzzles in sixty seconds.  And they would be just as much fun to solve as they were to make.*
 
-*Why is such a theme acceptable?  Does anyone know?  I don’t get it.  Anyway, today’s puzzle represents my effort to improve on it.*
+*Why is such a theme acceptable?  Does anyone know?  I don’t get it.  Anyway, today’s puzzle represents my effort to improve on it.*
 
 ***
 

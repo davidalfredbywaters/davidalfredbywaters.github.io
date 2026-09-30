@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This puzzle contains only 72 words.  I think that’s fewer than any other on this site.  It has 5 theme entries, which account for 51 of its 191 letters. 34 blocks take up the remainder of its 225 squares. I’ll leave you to calculate its merit on the basis of these statistics.*
+*This puzzle contains only 72 words.  I think that’s fewer than any other on this site.  It has 5  theme entries, which account for 51 of its 191 letters.  34 blocks take up the remainder of its 225 squares. I’ll leave you to calculate its merit on the basis of these statistics.*
 
 ***
 

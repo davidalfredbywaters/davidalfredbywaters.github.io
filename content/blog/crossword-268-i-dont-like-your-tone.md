@@ -8,7 +8,7 @@ url: /blog/2023/1/14/crossword-268-i-dont-like-your-tone
 
 ***
 
-*I don’t mean* your *tone, gentle solver!  Studies have shown a strong positive correlation between appreciation for inventive, humorous wordplay, artistic gridding, fair but challenging clues, and all-around cruciverbal quality on the one hand, and a pleasing tone on the other.  I’m referring to everybody else’s tone.*
+*I don’t mean* your *tone, gentle solver!  Studies have shown a strong positive correlation between appreciation for inventive, humorous wordplay, artistic gridding, fair but challenging clues, and all-around cruciverbal quality on the one hand, and a pleasing tone on the other.  I’m referring to everybody else’s tone.*
 
 ***
 

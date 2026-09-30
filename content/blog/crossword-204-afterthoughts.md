@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This week’s puzzle has a theme no one has ever tried before—at least so far as I know—in which added letters, and parsing, and synonyms, and puns, are all daringly combined in no fewer than six original nonsense phrases!  I’m a little worried that releasing it into the universe will result in the creation of a semantic black hole from which meaning can never escape, and that then nothing will ever make sense again.  But I’m going to chance it!*
+*This week’s puzzle has a theme no one has ever tried before—at least so far as I know—in which added letters, and parsing, and synonyms, and puns, are all daringly combined in no fewer than six original nonsense phrases!  I’m a little worried that releasing it into the universe will result in the creation of a semantic black hole from which meaning can never escape, and that then nothing will ever make sense again.  But I’m going to chance it!*
 
 ***
 

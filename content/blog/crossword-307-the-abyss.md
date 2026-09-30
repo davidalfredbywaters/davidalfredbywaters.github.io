@@ -8,7 +8,7 @@ url: /blog/2024/7/13/crossword-307-the-abyss
 
 ***
 
-*“When you gaze into the abyss, the abyss also gazes into you,” wrote Friedrich Nietzche, in “Beyond Good and Evil.”  So, wanting to get beyond good and evil myself, I gazed into the abyss.  Much to my disappointment, it didn’t gaze into me. In fact it didn’t do much of anything at all but just lie there being fathomless.  So I didn’t get beyond good and evil.  But I did get an idea for a crossword.*
+*“When you gaze into the abyss, the abyss also gazes into you,” wrote Friedrich Nietzche, in “Beyond Good and Evil.”  So, wanting to get beyond good and evil myself, I gazed into the abyss.  Much to my disappointment, it didn’t gaze into me.  In fact it didn’t do much of anything at all but just lie there being fathomless.  So I didn’t get beyond good and evil.  But I did get an idea for a crossword.*
 
 ***
 

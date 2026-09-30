@@ -15,9 +15,9 @@ categories: [Novels]
 
 *Percy White (1852-1938) wrote some 30 novels between 1893 and 1914, many, like this one, clever social comedies set in London.*
 
-White’s muse “is at her best when inspiring her author with lively scenes about social London, and providing him with scalpel and knife to dissect the heart of some worldly old sinner.” This is “a very clever study of a retired racing man . . . both amusing and brightly written.  Perhaps on the whole the adjective ‘sparkling’ is the one that fits best.” *Spectator*, July 27, 1901
+White’s muse “is at her best when inspiring her author with lively scenes about social London, and providing him with scalpel and knife to dissect the heart of some worldly old sinner.” This is “a very clever study of a retired racing man . . . both amusing and brightly written.  Perhaps on the whole the adjective ‘sparkling’ is the one that fits best.”  *Spectator*, July 27, 1901
 
-“Frivolous, amusing, and well written.” *Academy*, August 24, 1901
+“Frivolous, amusing, and well written.”  *Academy*, August 24, 1901
 
 ***Download this week’s novel:***
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*When I test-solved this puzzle, I found I’d clued 35 Across “Jacob’s brother” and 55 Across “Seth’s son.”  This seemed like too many Biblical relatives, so I substituted two “hidden-in” clues, which are more fun anyway—not that modified homonym cliché-based animal pun phrases aren’t already more fun than anybody ought to be trusted with.*
+*When I test-solved this puzzle, I found I’d clued 35 Across “Jacob’s brother” and 55 Across “Seth’s son.”  This seemed like too many Biblical relatives, so I substituted two “hidden-in” clues, which are more fun anyway—not that modified homonym cliché-based animal pun phrases aren’t already more fun than anybody ought to be trusted with.*
 
 ***
 

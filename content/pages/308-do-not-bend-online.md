@@ -3,7 +3,7 @@ title: "308 Do Not Bend (online)"
 url: /308-do-not-bend-online
 ---
 
-# Crossword 308: Do Not Bend {.center}
+#  Crossword 308: Do Not Bend {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

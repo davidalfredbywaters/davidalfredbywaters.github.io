@@ -15,9 +15,9 @@ categories: [Novels]
 
 *Rosa Caroline Praed (1851-1935) was (like the Miss Jacobsen in this novel) born and raised in Australia, the daughter of a prominent Queensland politician; in 1876 she moved to England, where she wrote some 45 novels, many with Justin McCarthy.*
 
-It is "a pleasing story" told "in a natural and simple style. . . . There is much, too, of the simplicity and the inconsequence of real life in the dialogue and the episodes, with a good sense of reality in the atmosphere.” *Athenaeum*, June 4, 1887
+It is "a pleasing story" told "in a natural and simple style. . . .  There is much, too, of the simplicity and the inconsequence of real life in the dialogue and the episodes, with a good sense of reality in the atmosphere.”  *Athenaeum*, June 4, 1887
 
-It is "as healthy as it is clever and interesting . . . singularly fresh and bright. . . . not wanting in quiet, unforced humour"; but it ends with "extreme and inexplicable abruptness.” *Spectator*, July 30, 1887
+It is "as healthy as it is clever and interesting . . . singularly fresh and bright. . . . not wanting in quiet, unforced humour"; but it ends with "extreme and inexplicable abruptness.”  *Spectator*, July 30, 1887
 
 ***Download this fortnight’s novel:***
 

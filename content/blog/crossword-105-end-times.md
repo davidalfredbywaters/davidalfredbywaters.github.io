@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Are we nearing the* end*?  Is the human race on the brink of* collapse*??  Is there nothing left for us but a period of hopeless mass suffering amid* war*, and* disease*, and* famine *that will end only in our species’* extinction*???*
+*Are we nearing the* end*?  Is the human race on the brink of* collapse*??  Is there nothing left for us but a period of hopeless mass suffering amid* war*, and* disease*, and* famine *that will end only in our species’* extinction*???*
 
 *Oh well—here’s a crossword puzzle.*
 

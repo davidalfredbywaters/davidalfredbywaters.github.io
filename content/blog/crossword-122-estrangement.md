@@ -9,9 +9,9 @@ categories: [Crosswords]
 
 ***
 
-*In the face of the pandemic, many of us are migrating, socially and professionally, to the internet. So here’s a crossword on that very topic, as fresh as this morning’s headlines!*
+*In the face of the pandemic, many of us are migrating, socially and professionally, to the internet.  So here’s a crossword on that very topic, as fresh as this morning’s headlines!*
 
-*And that’s not all! There are thirteen—count' em!—thirteen (13!) theme entries in this puzzle.  Are you kicking yourself for paying other constructors actual money for crosswords that only have four or five or six theme entries?  Or are you consoling yourself with some plausible story about theme entries not being everything, about the joy of trendy fill, or open grids, or whatever?  Well, if so, I won’t interfere.  Delude yourself if it makes you feel better.  It’s all the same to me.*
+*And that’s not all!  There are thirteen—count' em!—thirteen (13!) theme entries in this puzzle.  Are you kicking yourself for paying other constructors actual money for crosswords that only have four or five or six theme entries?  Or are you consoling yourself with some plausible story about theme entries not being everything, about the joy of trendy fill, or open grids, or whatever?  Well, if so, I won’t interfere.  Delude yourself if it makes you feel better.  It’s all the same to me.*
 
 ***
 

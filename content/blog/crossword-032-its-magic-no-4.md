@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*As to 18 Down, and Wednesday’s holiday—would you be interested in my opinion of our national anthem?  The music is good, the words are beyond awful.  The tortured syntax!  The stilted diction!  And the whole thing about a flag’s decorative pattern (is there anything* broader *about the stripes, or* bright*er about the stars, than one finds in the stars or stripes of other countries’ flags? and if not, can’t we be proud of something actually worth being proud of?) and the not-all-that-interesting fact that said flag didn’t catch on fire during some battle or other.  Maybe a bipartisan Congressional majority can find something reasonably anthemish by Robert Frost or Emily Dickinson or John Greenleaf Whittier or somebody, and we can retire this unmeaning doggerel?*
+*As to 18 Down, and Wednesday’s holiday—would you be interested in my opinion of our national anthem?  The music is good, the words are beyond awful.  The tortured syntax!  The stilted diction!  And the whole thing about a flag’s decorative pattern (is there anything* broader *about the stripes, or* bright*er about the stars, than one finds in the stars or stripes of other countries’ flags? and if not, can’t we be proud of something actually worth being proud of?) and the not-all-that-interesting fact that said flag didn’t catch on fire during some battle or other.  Maybe a bipartisan Congressional majority can find something reasonably anthemish by Robert Frost or Emily Dickinson or John Greenleaf Whittier or somebody, and we can retire this unmeaning doggerel?*
 
 ***
 

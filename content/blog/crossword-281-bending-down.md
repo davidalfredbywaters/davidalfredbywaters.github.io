@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Were you ever told, perhaps in a “physical education” class years ago, to bend down and touch your toes?  I was, and I still resent it: I found the operation not only painful but undignified; and it just didn’t seem worth doing—there are obviously much better ways of accessing one’s toes, if that’s what one wants to do.*
+*Were you ever told, perhaps in a “physical education” class years ago, to bend down and touch your toes?  I was, and I still  resent it:  I found the operation not only painful but undignified; and it just didn’t seem worth doing—there are obviously much better ways of accessing one’s toes, if that’s what one wants to do.*
 
 *Anyway, if you want for some reason to perform a “bending down” exercise but lack the strength, or the agility, or the will to do it with your body, this puzzle lets you do it, like a rational creature, with your mind.*
 

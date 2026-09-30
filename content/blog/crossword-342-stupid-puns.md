@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This title is, of course, tautological.  All puns are stupid.  Words that sound the same have different meanings.  So what?  Who cares?  Why fill a crossword with such stuff when you can fill it instead with actors, or athletes, or other celebrities who embody your tastes, or values, or identity, or whatever?  Alas, having vowed to read every Victorian novel, I have no time for television, or movies, or social media; and so, not knowing the names of any celebrities, I’m left to embody my tastes, and values, and identity all by myself, and to fill my crosswords with stupid puns.*
+*This title is, of course, tautological.  All puns are stupid.  Words that sound the same have different meanings.  So what?  Who cares?  Why fill a crossword with such stuff when you can fill it instead with actors, or athletes, or other celebrities who embody your tastes, or values, or identity, or whatever?  Alas, having vowed to read every Victorian novel, I have no time for television, or movies, or social media; and so, not knowing the names of any celebrities, I’m left to embody my tastes, and values, and identity all by myself, and to fill my crosswords with stupid puns.*
 
 ***
 

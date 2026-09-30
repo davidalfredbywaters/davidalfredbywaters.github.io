@@ -13,9 +13,9 @@ categories: [Novels]
 
 ***
 
-*Here is the second of Eden’s two novels, its title apparently meant to recall its successful predecessor “The Semi-Detached House,” (see Novel* [*036*](/blog/2018/7/24/novel-036-emily-eden-the-semi-detached-house-1859)*) though its plot and characters are quite different. Though the second to appear, this was the first to be written (in 1829, according to Sutherland’s* Victorian Fiction*); it provides a convincing psychological portrait of its troubled heroine.*
+*Here is the second of Eden’s two novels, its title apparently meant to recall its successful predecessor “The Semi-Detached House,” (see Novel* [*036*](/blog/2018/7/24/novel-036-emily-eden-the-semi-detached-house-1859)*)  though its plot and characters are quite different. Though the second to appear, this was the first to be written (in 1829, according to Sutherland’s* Victorian Fiction*); it provides a convincing psychological portrait of its troubled heroine.*
 
-“A good-humoured social picture, playful in its satire, and very happy in its combinations of characters, sketched . . . with some fantastic exaggeration . . . but alway shrewd and always genial.” *Examiner*, September 8, 1860
+“A good-humoured social picture, playful in its satire, and very happy in its combinations of characters, sketched . . . with some fantastic exaggeration . . . but alway shrewd and always genial.”  *Examiner*, September 8, 1860
 
 “It has really done our heart good to read this light, slight, pleasant novel”; it is pervaded by a “spirit of kindness, charity, and good breeding.” *Athenaeum*, September 8, 1860
 

@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Mary E. Mann (1848-1929) wrote nearly forty novels between 1883 and 1918. Here she provides (in just one volume)  memorable characters, an unusual setting, a bright style, and an engaging plot.*
+*Mary E. Mann (1848-1929) wrote nearly forty novels between 1883 and 1918. Here she provides (in just one volume)  memorable characters, an unusual setting, a bright style, and an engaging plot.*
 
-“Written in a brief, simple, unemphatic style, with never a note forced anywhere, this story yet produces a wonderfully strong effect. . . .  Commonplace persons, with average standards of conduct and quite unideal, even vulgar instincts . . . are neither rated nor made fun of; merely observed with a wise tolerance and with a tender sympathy for the joys, and the sorrows, and the weariness they share with the more gifted tithe of humanity.  This altogether uncritical yet observant attitude gives us a sense of novelty, and convinces us of the writer’s uncommon power.”  *Bookman*, January 1899
+“Written in a brief, simple, unemphatic style, with never a note forced anywhere, this story yet produces a wonderfully strong effect. . . .  Commonplace persons, with average standards of conduct and quite unideal, even vulgar instincts . . . are neither rated nor made fun of; merely observed with a wise tolerance and with a tender sympathy for the joys, and the sorrows, and the weariness they share with the more gifted tithe of humanity.  This altogether uncritical yet observant attitude gives us a sense of novelty, and convinces us of the writer’s uncommon power.”  *Bookman*, January 1899
 
-“An excellent style, a command of natural, crisp, and vivacious dialogue, a firm grasp of character, and a dramatic imagination.”  *Speaker*, February 25, 1899
+“An excellent style, a command of natural, crisp, and vivacious dialogue, a firm grasp of character, and a dramatic imagination.”  *Speaker*, February 25, 1899
 
 ***Download this week’s novel:***
 

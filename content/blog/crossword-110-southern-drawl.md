@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*So you’ve lived in the South all your life, and you don't talk this way, and you don’t know anybody who talks this way, and nothing annoys you so much as linguistic inaccuracy in sound-replacement crosswords, and in fact you’re still fuming about* [*Crossword 054*](/blog/2018/12/1/crossword-054-northern-cities-vowel-shift)*?  Well, that’s too bad.*
+*So you’ve lived in the South all your life, and you don't talk this way, and you don’t know anybody who talks this way, and nothing annoys you so much as linguistic inaccuracy in sound-replacement crosswords, and in fact you’re still fuming about* [*Crossword 054*](/blog/2018/12/1/crossword-054-northern-cities-vowel-shift)*?  Well, that’s too bad.*
 
 ***
 

@@ -17,9 +17,9 @@ categories: [Novels]
 
 *“*One of the most pleasing tales of domestic life that we have seen for many a day.”  *Literary Gazette*, February 13, 1858
 
-“A readable little story” with some “well drawn” characters. *Athenaeum*, March 27, 1858
+“A readable little story” with some “well drawn” characters.  *Athenaeum*, March 27, 1858
 
 ***Download this week’s novel:***
 
-<http://solo.bodleian.ox.ac.uk/permalink/f/89vilt/oxfaleph014181085>
+<http://solo.bodleian.ox.ac.uk/permalink/f/89vilt/oxfaleph014181085><br>
 (Warning: text begins on page 23, after some black pages, and blurred pages, and pictures of a librarian’s pink-gloved hand)

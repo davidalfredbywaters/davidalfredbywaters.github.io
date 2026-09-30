@@ -8,7 +8,7 @@ url: /blog/2024/3/9/crossword-298-flare-up-calm-down
 
 ***
 
-*I’ve always wanted to have it both ways—to work a little and make a lot, to eat or drink what I please and remain healthy nonetheless, to treat others ill and be treated well by those others.  But I can’t, according to the proverb—except in a crossword.*
+*I’ve always wanted to have it both ways—to work a little and make a lot, to eat or drink what I please and remain healthy nonetheless, to treat others ill and be treated well by those others.  But I can’t, according to the proverb—except in a crossword.*
 
 ***
 
@@ -23,3 +23,5 @@ url: /blog/2024/3/9/crossword-298-flare-up-calm-down
 [298 Having It Both Ways](/298-having-it-both-ways-online)
 
 ![](/images/Pointing-Hand-66.png)
+
+<br>

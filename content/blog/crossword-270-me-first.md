@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Many advanced young crossword constructors pride themselves on making puzzles that, as they put it, “Look like me.”  I’m going them one better this week, with a puzzle that not only looks like me, but has me in it! I’m putting me first, for a change!  It’s me time!  It’s all about me!  Me!  I’ll let you solve this one; but I’m thinking about moving towards a system where I make puzzles only about me, exclusively for me.*
+*Many advanced young crossword constructors pride themselves on making puzzles that, as they put it, “Look like me.”  I’m going them one better this week, with a puzzle that not only looks like me, but has me in it!  I’m putting me first, for a change!  It’s me time!  It’s all about me!  Me!  I’ll let you solve this one; but I’m thinking about moving towards a system where I make puzzles only about me, exclusively for me.*
 
 ***
 

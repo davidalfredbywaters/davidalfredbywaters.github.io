@@ -13,13 +13,13 @@ categories: [Novels]
 
 ***
 
-*About Elliott Graeme, nothing appears to be known except that, in addition to this one novel, he (or she: contemporary critics use both pronouns) also wrote a biography of Beethoven.  The oddly rambling plot here suggests unfamiliarity with, or indifference to, contemporary novelistic convention, but the characters and settings are well realized.*
+*About Elliott Graeme, nothing appears to be known except that, in addition to this one novel, he (or she: contemporary critics use both pronouns) also wrote a biography of Beethoven.  The oddly rambling plot here suggests unfamiliarity with, or indifference to, contemporary novelistic convention, but the characters and settings are well realized.*
 
-“A decided literary success.  The story is written in a lively and agreeable style.” *Athenaeum*, March 16, 1872
+“A decided literary success.  The story is written in a lively and agreeable style.”  *Athenaeum*, March 16, 1872
 
-“We doubt not many of our readers will lay aside the book with regret; for the pourtrayal of character and detail of German home-life is sufficiently vivid to make us think we are parting with old friends.  The language used is felicitous, and the author is by no means deficient in humour.” *Musical Standard*, June 1, 1872
+“We doubt not many of our readers will lay aside the book with regret; for the pourtrayal of character and detail of German home-life is sufficiently vivid to make us think we are parting with old friends.  The language used is felicitous, and the author is by no means deficient in humour.”  *Musical Standard*, June 1, 1872
 
-“Above the average even of good novels.  It is clever and amusing, free from sensationalism, though full of interest, and of interest which touches many of the deeper chords of life.” *Spectator*, June 15, 1872
+“Above the average even of good novels.  It is clever and amusing, free from sensationalism, though full of interest, and of interest which touches many of the deeper chords of life.”  *Spectator*, June 15, 1872
 
 ***Download this week’s novel:***
 

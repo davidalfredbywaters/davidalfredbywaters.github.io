@@ -13,9 +13,9 @@ categories: [Novels]
 
 ***
 
-*Sir Walter Besant (1836-1901) wrote some ten novels with James Rice (1844-1882) and some thirty more on his own.  This was his first.*
+*Sir Walter Besant (1836-1901) wrote some ten novels with James Rice (1844-1882) and some thirty more on his own.  This was his first.*
 
-“A clever book . . . which no grown man who has any experience of life can read without being the better for it”; the author makes characters “say in his pages just what they say in every day real life.” *Athenaeum*, July 13, 1872
+“A clever book . . . which no grown man who has any experience of life can read without being the better for it”; the author makes characters “say in his pages just what they say in every day real life.”  *Athenaeum*, July 13, 1872
 
 “The story is daring and clever, and is well worth reading.” *British Quarterly*, July, 1873
 

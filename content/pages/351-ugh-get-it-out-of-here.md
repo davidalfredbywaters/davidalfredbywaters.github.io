@@ -3,7 +3,7 @@ title: "351 Ugh! Get It Out of Here!"
 url: /351-ugh-get-it-out-of-here
 ---
 
-# Crossword 351: Ugh! Get It Out of Here! {.center}
+#  Crossword 351: Ugh! Get It Out of Here! {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

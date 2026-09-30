@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I’ve already posted a puzzle entitled “Yes” (*[*Crossword 213*](/blog/2021/12/18/crossword-213-yes)*); here’s another that celebrates this best of all possible worlds with a hearty cry of joyous affirmation, this time in radio jargon.  Next, “You Betcha!”—a puzzle in which “you” is replaced by “tcha.”  So far I’ve got LAT CHAT (“Shop-talk between physical trainers”); I’m sure three or four more will occur to me eventually.*
+*I’ve already posted a puzzle entitled “Yes” (*[*Crossword 213*](/blog/2021/12/18/crossword-213-yes)*); here’s another that celebrates this best of all possible worlds with a hearty cry of joyous affirmation, this time in radio jargon.  Next, “You Betcha!”—a puzzle in which “you” is replaced by “tcha.”  So far I’ve got LAT CHAT  (“Shop-talk between physical trainers”); I’m sure three or four more will occur to me eventually.*
 
 *(Clues to 25 Across and 50 Across were provided by test-solver Kevin Walker, whose clue-writing genius I’ve drawn on more than once already.)*
 

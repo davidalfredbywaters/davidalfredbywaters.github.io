@@ -17,11 +17,11 @@ categories: [Novels]
 
 “We have not read lately a more enjoyable novel of incident than *Seventy times Seven*. It is such a treat when an author has the wit to construct an effective plot and to work it out simply, without worrying the reader with immaterial side-issues and jejune reflections; and that is what Mrs. Sergeant has done.” *Academy*, June 2, 1888
 
-The account of the two main characters “gradual approach to each other is told with a fine exquisiteness of imaginative realisation”; it “is from first to last a beautiful and satisfying story.” *Spectator*, August 25, 1888
+The account of the two main characters “gradual approach to each other is told with a fine exquisiteness of imaginative realisation”; it “is from first to last a beautiful and satisfying story.”  *Spectator*, August 25, 1888
 
 *A contrasting view:*
 
-“There is a half-heartedness about Miss Sergeant’s handling of the apparatus of sensationalism which borders dangerously on the ridiculous. . . .  Miss Sergeant is not yet at home in the novel of incident.” *Athenaeum*, May 5, 1888
+“There is a half-heartedness about Miss Sergeant’s handling of the apparatus of sensationalism which borders dangerously on the ridiculous. . . .  Miss Sergeant is not yet at home in the novel of incident.”  *Athenaeum*, May 5, 1888
 
 ***Download this fortnight’s novel:***
 

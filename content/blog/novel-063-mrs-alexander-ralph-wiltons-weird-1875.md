@@ -15,9 +15,9 @@ categories: [Novels]
 
 *Here is another, shorter novel by Mrs. Alexander (See Novel* [*001*](/blog/2017/11/21/novel-001-mrs-alexander-the-wooing-ot-1873)*), with an easily guessable but entertaining plot and an interestingly complex heroine.*
 
-“In spite of the plot being . . . commonplace, the story runs well in the artistic hands of the author; the characters are definite, the heroine charming, and the result agreeable to the reader.” *Athenaeum*, April 3, 1875
+“In spite of the plot being . . . commonplace, the story runs well in the artistic hands of the author; the characters are definite, the heroine charming, and the result agreeable to the reader.”  *Athenaeum*, April 3, 1875
 
-“The characters . . . are well sketched”; “the story, though slight, is . . . one which from its brightness and play of fancy is sure to please.” *Morning Post*, June 4, 1875
+“The characters . . . are well sketched”; “the story, though slight, is . . . one which from its brightness and play of fancy is sure to please.”  *Morning Post*, June 4, 1875
 
 ***Download this week’s novel:***
 

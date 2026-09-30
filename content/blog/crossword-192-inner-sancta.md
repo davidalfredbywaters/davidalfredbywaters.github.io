@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This puzzle should properly appear in 2023, the next year in which July 15 falls on a Saturday—but by then I may be gone, or you may be gone, or some competing constructor may have given the theme an inferior treatment.  So here it is now: just make a note to yourself to solve it again in 721 days.*
+*This puzzle should properly appear in 2023, the next year in which July 15 falls on a Saturday—but by then I may be gone, or you may be gone, or some competing constructor may have given the theme an inferior treatment.  So here it is now: just make a note to yourself to solve it again in 721 days.*
 
 ***
 

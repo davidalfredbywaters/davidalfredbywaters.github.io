@@ -17,7 +17,7 @@ categories: [Novels]
 
 “Mr. Brooke is without doubt a very vivacious writer, and he has well differentiated the separate individualities of his *Three Fair Daughters.*” *Academy*, July 8, 1882
 
-“Mr. Brooke is content to build his story on the familiar lines; he aims at nothing extravagant or eccentric, and he achieves a decided success. . . . .  In fact, this is a novel which evidently shows real literary skill and no small acquaintance with his craft in its author.” *Spectator*, September 30, 1882
+“Mr. Brooke is content to build his story on the familiar lines; he aims at nothing extravagant or eccentric, and he achieves a decided success. . . . .  In fact, this is a novel which evidently shows real literary skill and no small acquaintance with his craft in its author.” *Spectator*, September 30, 1882
 
 ***Download this fortnight’s novel:***
 

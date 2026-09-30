@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Do you ever find yourself suddenly wondering whether everything you think and do is just wrong?  This happens to me from time to time.  For example, recently I found myself wondering whether posting crossword puzzles and Victorian novel recommendations for free on the internet every fortnight might not be the best use I could find for my time.  Crazy stuff!  But there’s no limit to the human mind’s potential for self-delusion.*
+*Do you ever find yourself suddenly wondering whether everything you think and do is just  wrong?  This happens to me from time to time.  For example, recently I found myself wondering whether posting crossword puzzles and Victorian novel recommendations for free on the internet every fortnight might not be the best use I could find for my time.  Crazy stuff!  But there’s no limit to the human mind’s potential for self-delusion.*
 
 ***
 
@@ -22,3 +22,9 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [327 It’s All Wrong](/327-all-wrong)
+
+<br>
+
+<br>
+
+<br>

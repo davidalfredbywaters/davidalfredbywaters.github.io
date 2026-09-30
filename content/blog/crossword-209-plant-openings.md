@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*It’s time to get our economy up and running again!  As a public-spirited American I’m happy to help out with some plant openings.*
+*It’s time to get our economy up and running again!  As a public-spirited American I’m happy to help out with some plant openings.*
 
 ***
 

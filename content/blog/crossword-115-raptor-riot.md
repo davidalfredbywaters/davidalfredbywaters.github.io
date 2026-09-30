@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Here’s another hard-hitting, boundary-pushing, award-worthy puzzle, featuring graphic representations of predatory behavior.  Hide the children!*
+*Here’s another hard-hitting, boundary-pushing, award-worthy puzzle, featuring graphic representations of predatory behavior.  Hide the children!*
 
 ***
 

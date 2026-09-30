@@ -16,11 +16,11 @@ Abraham Solomon, The Bride
 
 ### A gentleman accused of fraud in a bank failure is loved by two good women.
 
-*Here is another novel by Drury (see Novel* [64](/blog/2019/2/5/novel-064-anna-harriet-drury-friends-and-fortune-1849)*), featuring, amid a great deal of virtuous suffering, an eventful plot and some well-drawn characters.*
+*Here is another novel by Drury (see Novel* [64](/blog/2019/2/5/novel-064-anna-harriet-drury-friends-and-fortune-1849)*), featuring, amid a great deal of virtuous suffering, an eventful plot and some well-drawn characters.*
 
 “A thoroughly readable story, well written and well worked out, if due allowance be made for the improbabilities of the plot.” *Westminster Review*, July, 1863
 
-“The plot is original, and well managed throughout, the characters well conceived and sustained. . . . the style pure, simple, and unaffected, and the interest uninterrupted.” *Continental Monthly*, January 1864
+“The plot is original, and well managed throughout, the characters well conceived and sustained. . . .  the style pure, simple, and unaffected, and the interest uninterrupted.”  *Continental Monthly*, January 1864
 
 ***Download this week’s novel:***
 

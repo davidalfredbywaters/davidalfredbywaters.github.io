@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This is the third and final installment of the trilogy—hence the “cease” of “decease.”  Some critics may think I’ve got the order wrong, as “Defeat,” “Decease,” and “Decomposition” are, in a sense, the final three chapters of anyone’s biography.*
+*This is the third and final installment of the trilogy—hence the “cease” of “decease.”  Some critics may think I’ve got the order wrong, as “Defeat,” “Decease,” and “Decomposition” are, in a sense, the final three chapters of anyone’s biography.*
 
 *But the more subtly observant puzzle connoisseur will notice that the first pun of the first of the series returns as the final pun of the last of the series, giving the whole a pleasingly cyclical form that, in the face of decline and decay and despair, hints hopefully at renewal.*
 

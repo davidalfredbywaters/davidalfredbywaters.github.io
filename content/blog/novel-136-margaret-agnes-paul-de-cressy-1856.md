@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Here is another novel by Paul (see Novel* [*025*](/blog/2018/5/8/novel-025-margaret-agnes-paul-martha-brown-the-heiress-1861)*):  ambivalent characters find themselves entangled in a subtle and apparently intractable conflict—until the author, out of time, or patience, or paper, suddenly resolves it by sending two characters to heaven and a third to South America.*
+*Here is another novel by Paul (see Novel* [*025*](/blog/2018/5/8/novel-025-margaret-agnes-paul-martha-brown-the-heiress-1861)*):  ambivalent characters find themselves entangled in a subtle and apparently intractable conflict—until the author, out of time, or patience, or paper, suddenly resolves it by sending two characters to heaven and a third to South America.*
 
-“The persons have much consistency and reality about them; spirit is equable and well sustained throughout.” *Spectator*, June 28, 1856
+“The persons have much consistency and reality about them; spirit is equable and well sustained throughout.”  *Spectator*, June 28, 1856
 
-It is “written in an unpretending, pleasing style.” *Saturday Review*, July 26, 1856
+It is “written in an unpretending, pleasing style.”  *Saturday Review*, July 26, 1856
 
 ***Download this week’s novel:***
 

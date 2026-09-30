@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Among the many human proclivities that baffle me is the love of racing—of doing a thing, or of watching somebody or something do a thing, faster than some other body or thing.  It honors the tyranny of Time, that inexorable force which impels us all helplessly towards apparent annihilation. It upsets the restful calm for which we ought all to strive, as both an aesthetic and a moral ideal. Rather than be in a hurry, I’m happy to come in last.*
+*Among the many human proclivities that baffle me is the love of racing—of doing a thing, or of watching somebody or something do a thing, faster than some other body or thing.  It honors the tyranny of Time, that inexorable force which impels us all helplessly towards apparent annihilation. It upsets the restful calm for which we ought all to strive, as both an aesthetic and a moral ideal. Rather than be in a hurry, I’m happy to come in last.*
 
 ***
 

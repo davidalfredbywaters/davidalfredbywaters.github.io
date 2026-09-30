@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*A crossword puzzle, says Aristotle, or Coleridge, or somebody, should create its own alternative world, one in which, though people may not behave as expected, they nonetheless follow an internal logic of their own.  I have tried, in my humble way, to obey these strictures, nowhere more than in this present offering.*
+*A crossword puzzle, says Aristotle, or Coleridge, or somebody, should create its own alternative world, one in which, though people may not behave as expected, they nonetheless follow an internal logic of their own.  I have tried, in my humble way, to obey these strictures, nowhere more than in this present offering.*
 
 ***
 

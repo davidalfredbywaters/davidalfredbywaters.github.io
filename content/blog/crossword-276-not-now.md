@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Not now!  I’ll try to think up something to say about this week’s crossword eventually, but right now I’m just too busy.  It seems like everybody needs me all the time.  This person wants me to help with this thing, and that person wants my advice on that thing, and this other person hasn’t seen me in ages, and that other person thinks she may as well cancel the party if I don’t come.  People are counting on me, and I can’t let them down.  So I’m sorry—I’ve got to go right now; but I hope you like the puzzle anyway.*
+*Not now!  I’ll try to think up something to say about this week’s crossword eventually, but right now I’m just too busy.  It seems like everybody needs me all the time.  This person wants me to help with this thing, and that person wants my advice on that thing, and this other person hasn’t seen me in ages, and that other person thinks she may as well cancel the party if I don’t come.  People are counting on me, and I can’t let them down.  So I’m sorry—I’ve got to go right now; but I hope you like the puzzle anyway.*
 
 ***
 

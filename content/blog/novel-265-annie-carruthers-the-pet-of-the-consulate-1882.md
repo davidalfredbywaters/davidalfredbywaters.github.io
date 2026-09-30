@@ -13,7 +13,7 @@ categories: [Novels]
 
 ***
 
-*Nothing seems to be known of Annie Carruthers, who published another novel or two after this one, without much apparent success.  And yet (if one forgives the improbable plot twists, and ignores the admiring descriptions of the heroine’s fabulous outfits that laughably intrude at the most dramatic moments) it is altogether good, depicting a bad marriage made worse by the setting of a claustrophobic European outpost in Hakodate, Japan.*
+*Nothing seems to be known of Annie Carruthers, who published another novel or two after this one, without much apparent success.  And yet (if one forgives the improbable plot twists, and ignores the admiring descriptions of the heroine’s fabulous outfits that laughably intrude at the most dramatic moments) it is altogether good, depicting a bad marriage made worse by the setting of a claustrophobic European outpost in Hakodate, Japan.*
 
 “A worldly, sensible, and rather cynical story, sufficiently well told to be read with pleasure, . . . really above average in merit, and something more than simply readable.” *Athenaeum*, April 15, 1882
 

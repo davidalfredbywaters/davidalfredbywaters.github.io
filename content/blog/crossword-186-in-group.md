@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Every human endeavor attracts an in-group: people who know what’s up, and who’s who, and how to signal to each other over the heads of the ignorant crowd.  So it is with crosswords. And are you wondering who sits at the center of the crossword world, posing smugly as the arbiter of cruciverbal fashion, setting trends, attracting unearned admiration, inspiring fear of unearned contempt?  Well, I’ll tell you:  it’s me!  I’m so far* in *that most solvers barely know about me; only the cognoscenti truly appreciate me.  Maybe you’re one of them?  If so, enjoy the attached puzzle, and sneer confidently at those dull-witted, commonplace solvers who still think the* New York Times *is cool.*
+*Every human endeavor attracts an in-group:  people who know what’s up, and who’s who, and how to signal to each other over the heads of the ignorant crowd.  So it is with  crosswords.  And are you wondering who sits at the center of the crossword world, posing smugly as the arbiter of cruciverbal fashion, setting trends, attracting unearned admiration, inspiring fear of unearned contempt?  Well, I’ll tell you:  it’s me!  I’m so far* in *that most solvers barely know about me;  only the cognoscenti truly  appreciate me.  Maybe you’re one of them?  If so, enjoy the attached puzzle, and sneer confidently at those dull-witted, commonplace solvers who still think the* New York Times *is cool.*
 
 ***
 

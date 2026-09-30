@@ -15,6 +15,4 @@ You have four subscription options:
 
 4. Receive a twice weekly reminder when new crosswords or new novels appear
 
-### Just complete the form below
-
-{{ subscribe_form }}
+### Just send an email stating your preference to davidalfredbywaters@gmail.com

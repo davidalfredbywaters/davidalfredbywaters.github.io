@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Jean Ingelow (1820-1897), best known as a poet, wrote a number of short stories and some half a dozen novels.  This, her first, makes up for its rambling, impossible plot with subtle characterization and a polished style.*
+*Jean Ingelow (1820-1897), best known as a poet, wrote a number of short stories and some half a dozen novels.  This, her first, makes up for its rambling, impossible plot with subtle characterization and a polished style.*
 
-*“Allerton and Dreux* . . . has not a little surprised us by the ability manifested in the conception and in the delineation of character.  The author possesses also a considerable fund of humour, which flows from him [sic: the novel was published anonymously] without an effort.” *Critic*, February 2, 1852
+*“Allerton and Dreux* . . . has not a little surprised us by the ability manifested in the conception and in the delineation of character.  The author possesses also a considerable fund of humour, which flows from him [sic: the novel was published anonymously] without an effort.” *Critic*, February 2, 1852
 
-“The story . . . is delightfully told; and, as a religious tale, we have seldom met with one which is throughout more ably written and well sustained.  The dialogue is pointed and lively, and the descriptive parts are extremely good.” *English Review*, July 1852
+“The story . . . is delightfully told; and, as a religious tale, we have seldom met with one which is throughout more ably written and well sustained.  The dialogue is pointed and lively, and the descriptive parts are extremely good.” *English Review*, July 1852
 
 ***Download this week’s novel:***
 

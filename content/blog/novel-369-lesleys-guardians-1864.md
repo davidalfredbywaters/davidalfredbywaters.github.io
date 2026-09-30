@@ -15,7 +15,7 @@ A poor English gentlewoman, studying art in Paris, marries a French aristocrat a
 
 *Augusta Webster (1837-1894) was well known as a poet; aside from a children's story, this (published under the pseudonym Cecil Home) was her only novel.*
 
-The author writes with “so much skill that we more than half regret who can paint so well . . . should not entirely avoid the use of startling situations, and devote his powers to the delineation of ordinary life.” *Spectator,* July 9, 1864
+The author writes with “so much skill that we more than half regret who can paint so well . . . should not entirely avoid the use of startling situations, and devote his powers to the delineation of ordinary life.”  *Spectator,* July 9, 1864
 
 “A pretty, common-place tale, not altogether devoid of literary merit.” *Athenaeum*, July 30, 1864
 

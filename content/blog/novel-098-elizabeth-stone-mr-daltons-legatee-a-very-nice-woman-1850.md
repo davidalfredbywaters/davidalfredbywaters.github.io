@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*In addition to historical works on such subjects as needlework, Elizabeth Stone (1803-1881) wrote five novels.  Here, the bad characters are excellent, especially the “very nice woman,” and the plot is amusing if you don’t mind a final pile of coincidence impressive even by contemporary standards.*
+*In addition to historical works on such subjects as needlework, Elizabeth Stone (1803-1881) wrote five novels.  Here, the bad characters are excellent, especially the “very nice woman,” and the plot is amusing if you don’t mind a final pile of coincidence impressive even by contemporary standards.*
 
-“The apeing of fashion by vulgar people, the wretchedness it occasions to themselves, and the laughter it provokes in others, have ever been a favourite . . . theme with novelists . . .; but seldom have we seen it accomplished with more humour and truth than in the novel before us. . . .  Always vigorous, the writing is at times positively brilliant.  The descriptions are remarkably graphic, yet drawn without effort. . . .  The personages . . . are all . . . distinctly outlined, and most of them are manifestly sketches after nature.  Mrs. Stone has a keen observation, and a quick sense of the ludicrous.” *Critic*, August 1, 1850
+“The apeing of fashion by vulgar people, the wretchedness it occasions to themselves, and the laughter it provokes in others, have ever been a favourite . . . theme with novelists . . .; but seldom have we seen it accomplished with more humour and truth than in the novel before us. . . .  Always vigorous, the writing is at times positively brilliant.  The descriptions are remarkably graphic, yet drawn without effort. . . .  The personages . . . are all . . . distinctly outlined, and most of them are manifestly sketches after nature.  Mrs. Stone has a keen observation, and a quick sense of the ludicrous.”   *Critic*, August 1, 1850
 
-“Although ‘Mr. Dalton’s Legatee’ properly belongs to a class of books for which we have no particular affection—the fashionable novels—yet it is one of the best of its kind. The plot is intricate and interesting, and the characters amusing and well sustained.” *American Whig Review*, October, 1850
+“Although ‘Mr. Dalton’s Legatee’ properly belongs to a class of books for which we have no particular affection—the fashionable novels—yet it is one of the best of its kind. The plot is intricate and interesting, and the characters amusing and well sustained.”  *American Whig Review*, October, 1850
 
 ***Download this week’s novel:***
 

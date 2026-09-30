@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I went to Pismo Beach once.  I was driving with friends from San Francisco to Los Angeles and saw the sign.  The beach itself was disappointing—sand, ocean, that sort of thing.  But I liked, and still like, the name, which to me suggests a combination of the exotic with the fun.  So I’m glad I went there, because I’m glad to say I went there, because I like to say, “Pismo Beach.”*
+*I went to Pismo Beach once.  I was driving with friends from San Francisco to Los Angeles and saw the sign.  The beach itself was disappointing—sand, ocean, that sort of thing.  But I liked, and still like, the name, which to me suggests a combination of the exotic with the fun.  So I’m glad I went there, because I’m glad to say I went there, because I like to say, “Pismo Beach.”*
 
 ***
 

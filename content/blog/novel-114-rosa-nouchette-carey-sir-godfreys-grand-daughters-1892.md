@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Rosa Nouchette Carey (1840-1909) wrote over 40 novels featuring virtuous women in domestic settings.  This one is certainly vulnerable to such dismissals as the* Athenaeum's*:  "nice and pretty young women . . . go through some pretty and romantic adventures with some exceptionally handsome and enterprising young men.” But despite its slow pace and its characteristic avoidance of the strange or surprising, it holds the attention: the style is free of sentimentality, and several characters are well and plausibly delineated.*
+*Rosa Nouchette Carey (1840-1909) wrote over 40 novels featuring virtuous women in domestic settings.  This one is certainly vulnerable to such dismissals as the* Athenaeum's*:  "nice and pretty young women . . . go through some pretty and romantic adventures with some exceptionally handsome and enterprising young men.” But despite its slow pace and its characteristic avoidance of the strange or surprising, it holds the attention: the style is free of sentimentality, and several characters are well and plausibly delineated.*
 
-“A quaint, simple tale of an English community. . . . Throughout the story is natural and entertaining, the style sympathetic, and the study of character clear and good.” *Critic*, November 5, 1892
+“A quaint, simple tale of an English community. . . .  Throughout the story is natural and entertaining, the style sympathetic, and the study of character clear and good.”  *Critic*, November 5, 1892
 
-It is “pre-eminently soothing"; a “quiet story of the life of rural gentlepeople . . . and the substance of the novel is well matched by the cultivated refinement of Miss Carey’s literary style”; it has “interest given by delicately truthful characterization rather than by exciting sequence of events. . . . One of the pleasantest of recent contributions to domestic fiction; it is not lacking in humour, and there are passages of true and unstrained pathos.” *Academy*, December 4, 1892
+It is “pre-eminently soothing"; a “quiet story of the life of rural gentlepeople . . . and the substance of the novel is well matched by the cultivated refinement of Miss Carey’s literary style”; it has “interest given by delicately truthful characterization rather than by exciting sequence of events. . . .  One of the pleasantest of recent contributions to domestic fiction; it is not lacking in humour, and there are passages of true and unstrained pathos.” *Academy*, December 4, 1892
 
 ***Download this week’s novel:***
 
@@ -26,3 +26,7 @@ v.1 <https://archive.org/details/sirgodfreysgrand01care>
 v.2 <https://archive.org/details/sirgodfreysgrand02care>
 
 v.3 <https://archive.org/details/sirgodfreysgrand03care>
+
+<br>
+
+<br>

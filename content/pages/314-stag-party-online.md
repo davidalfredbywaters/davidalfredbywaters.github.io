@@ -3,7 +3,7 @@ title: "314 Stag Party (online)"
 url: /314-stag-party-online
 ---
 
-# Crossword 314: Stag Party {.center}
+#  Crossword 314: Stag Party {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Here’s another six-pack of heady, refreshing theme entries, cold-filtered and beechwood-aged as usual.  Given their intoxicating wit, you might want to share them with a friend, or space their consumption over two or three days, just to be safe.*
+*Here’s another six-pack of heady, refreshing theme entries, cold-filtered and beechwood-aged as usual.  Given their intoxicating wit, you might want to share them with a friend, or space their consumption over two or three days, just to be safe.*
 
 ***
 

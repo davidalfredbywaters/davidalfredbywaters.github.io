@@ -13,16 +13,16 @@ categories: [Novels]
 
 ***
 
-*Elizabeth Anna Hart (1822-1886), also known as Fanny Wheeler Hart, published six novels and two narrative poems between 1869 and 1883.* Wilfred’s Widow *is a light-hearted social comedy with a memorable anti-heroine*.
+*Elizabeth Anna Hart (1822-1886), also known as Fanny Wheeler Hart, published six novels and two narrative poems between 1869 and 1883.*Wilfred’s Widow *is a light-hearted social comedy with a memorable anti-heroine*.
 
-It is “one of the few original novels that have lately appeared.  The idea of the story is fresh, and the central character is drawn with considerable strength.” *Morning Post,* March 1, 1883
+It is “one of the few original novels that have lately appeared.  The idea of the story is fresh, and the central character is drawn with considerable strength.” *Morning Post,* March 1, 1883
 
 “A thoroughly amusing book, the interest of which carries the reader on through every page of a sufficiently brief story.” *Spectator*, March 3, 1883
 
-It “shows a good deal of that quiet humour in which women...so often excel. . . . The style is bright and simple throughout, without any affectation of cleverness, and the characters appear as clearly as if they had been forced to unfold themselves in whole chapters of self-analysis.”  *Athenaeum*, March 10, 1883
+It “shows a good deal of that quiet humour in which women...so often excel. . . .  The style is bright and simple throughout, without any affectation of cleverness, and the characters appear as clearly as if they had been forced to unfold themselves in whole chapters of self-analysis.”  *Athenaeum*, March 10, 1883
 
 ***Download this week’s novel*:**
 
-&nbsp;&nbsp;&nbsp;v.1   <http://dbooks.bodleian.ox.ac.uk/books/PDFs/600067016.pdf>
+&nbsp;&nbsp;&nbsp;v.1   <http://dbooks.bodleian.ox.ac.uk/books/PDFs/600067016.pdf>
 
-&nbsp;&nbsp;&nbsp;v.2   <http://dbooks.bodleian.ox.ac.uk/books/PDFs/600067017.pdf>
+&nbsp;&nbsp;&nbsp;v.2   <http://dbooks.bodleian.ox.ac.uk/books/PDFs/600067017.pdf>

@@ -17,7 +17,7 @@ categories: [Novels]
 
 “One of the saddest stories that we have read”; the characters are “thoroughly human, and, at the same time, thoroughly pitiful.” *Athenaeum*, July 26, 1873
 
-“A painful story, and confused in its rendering of character,” but “there is a certain quality of intention in the characters of this book which carries the reader over the faults and dreary bits.” *Saturday Review*, August 23, 1873
+“A painful story, and confused in its rendering of character,” but “there is a certain quality of intention in the characters of this book which carries the reader over the faults and dreary bits.”  *Saturday Review*, August 23, 1873
 
 ***For this fortnight’s novel, download***
 

@@ -17,7 +17,7 @@ categories: [Novels]
 
 “We have not seen very many novels this season that we should be inclined to rank above it.” *Athenaeum*, July 19, 1873
 
-The author “has the . . . faculty . . . of making a small circle engrossingly interesting” and is unique in her “peculiar form of humour, and the neatness with which she puts a situation or a problem. . . .  The constructive skill of the story is remarkable.” *Spectator*, August 2, 1873
+The author “has the . . . faculty . . . of making a small circle engrossingly interesting” and is unique in her “peculiar form of humour, and the neatness with which she puts a situation or a problem. . . .  The constructive skill of the story is remarkable.” *Spectator*, August 2, 1873
 
 “She knows Scotch character with that completeness of intuitive comprehension which unerringly catches what to others would seem insignificant traits, and makes them henceforth typical. Seldom have we read a more sufficient piece of work. There is no pretence, no aim at high things; and yet out of the ordinary hum-drum life of a Scottish hamlet a sort of quiet tragedy gradually develops itself. . . . The author is par excellence a humorist, and, like George Eliot, conceives of incident as something dependent on and developed out of character rather than otherwise. It is not to be expected that she should drive the sensationalists out of the field; but it is something that we have such healthy testimony as this against sensationalism in life and in art.” *British Quarterly Review*, October, 1873
 

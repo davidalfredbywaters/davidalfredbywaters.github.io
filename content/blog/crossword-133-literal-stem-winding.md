@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*As the attached note informs you, to appreciate this puzzle properly you must fill it entirely with lower-case letters, as though you were e.e. cummings.  I’m thinking of taking up the lower case myself and insisting that the world refer to me as “david alfred bywaters.”  The combination of apparent humility (no big letters for itty-bitty little me!) with actual ostentation (I’m not like everybody else!) should prove irresistible.*
+*As the attached note informs you, to appreciate this puzzle properly you must fill it entirely with lower-case letters, as though you were e.e. cummings.  I’m thinking of taking up the lower case myself and insisting that the world refer to me as “david alfred bywaters.”   The combination of apparent humility (no big letters for itty-bitty little me!) with actual ostentation (I’m not like everybody else!) should prove irresistible.*
 
 ***
 

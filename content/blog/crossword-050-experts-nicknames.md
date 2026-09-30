@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Most 15x15 crosswords have just four or five theme answers.  This puzzle has ten theme answers!  Ten!!  That’s twice the usual complement!!!  Are you grateful?  Are you wondering how to let me know how grateful you are??  Watch this space!!!!  Next week I’ll tell you how.*
+*Most 15x15 crosswords have just four or five theme answers.  This puzzle has ten theme answers!  Ten!!  That’s twice the usual complement!!!  Are you grateful?  Are you wondering how to let me know how grateful you are??  Watch this space!!!!  Next week I’ll tell you how.*
 
 ***
 

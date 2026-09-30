@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*The great John Atkinson Grimshaw and the famous Paul Cézanne were almost exact contemporaries.  I would wager that anyone uncorrupted by a course of art history or a habit of gallery visiting would prefer the moodily atmospheric genius of Grimshaw to the blotchy dullness of Cézanne, if presented with samples of each.  Yet Cézanne is celebrated, Grimshaw obscure.  It’s rigged no doubt—but by whom, and for what purpose?*
+*The great John Atkinson Grimshaw and the famous Paul Cézanne were almost exact contemporaries.  I would wager that anyone uncorrupted by a course of art history or a habit of gallery visiting would prefer the moodily atmospheric genius of Grimshaw to the blotchy dullness of Cézanne, if presented with samples of each.  Yet Cézanne is celebrated, Grimshaw obscure.  It’s rigged no doubt—but by whom, and for what purpose?*
 
 ***
 

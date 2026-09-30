@@ -15,11 +15,11 @@ categories: [Novels]
 
 *Mary A. Lewis (1849-1915) wrote one novel, this one; though her inexperience may show in her pleasantly naive tendency to favor us with miscellaneous and sometimes irrelevant reflections, she seems otherwise confident and assured, with interesting characters and a good plot.*
 
-“A slight, but very pleasantly readable, society novel, describing a pair of well-contrasted young ladies . . . The various characters are fairly, though lightly, sketched in.” *Academy*, May 21, 1881
+“A slight, but very pleasantly readable, society novel, describing a pair of well-contrasted young ladies . . .   The various characters are fairly, though lightly, sketched in.”  *Academy*, May 21, 1881
 
-“On the whole, for a story of its calibre, the tale of the two pretty girls is not badly told.” *Athenaeum*, June 4, 1881
+“On the whole, for a story of its calibre, the tale of the two pretty girls is not badly told.”  *Athenaeum*, June 4, 1881
 
-“The story is . . . neither complicated nor extraordinarily exciting, but it is pleasant, cheerful, and readable, and it contains both agreeable conversations and natural sketches of character.” *Saturday Review*, June 18, 1881
+“The story is . . . neither complicated nor extraordinarily exciting, but it is pleasant, cheerful, and readable, and it contains both agreeable conversations and natural sketches of character.”  *Saturday Review*, June 18, 1881
 
 ***Download this fortnight’s novel here:***
 

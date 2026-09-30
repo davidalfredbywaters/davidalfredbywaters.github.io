@@ -3,7 +3,7 @@ title: "328 What’s It All For?"
 url: /328-whats-it-all-for
 ---
 
-# Crossword 328: What’s It All For? {.center}
+#  Crossword 328: What’s It All For? {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

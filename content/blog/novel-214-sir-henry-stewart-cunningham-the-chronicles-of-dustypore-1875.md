@@ -14,9 +14,9 @@ url: /blog/2021/12/21/novel-214-sir-henry-stewart-cunningham-the-chronicles-of-d
 
 *Here is another novel by Cunningham (see Novels* [*020*](/blog/2018/4/3/novel-020-sir-henry-stewart-cunningham-wheat-and-tares-1860)*,* [*161*](/blog/2020/12/15/novel-161-sir-henry-stewart-cunningham-late-laurels-1864)*); set in what is now Pakistan, it expresses a fairly jaded view of British rule.*
 
-“It is not often that a novel-reader comes across a story so bright, so amusing, and so sparkling. . . .  Anglo-Indian life has never been better sketched.” *Saturday Review*, June 19, 1875
+“It is not often that a novel-reader comes across a story so bright, so amusing, and so sparkling. . . .  Anglo-Indian life has never been better sketched.” *Saturday Review*, June 19, 1875
 
-“Contrary to the wont of novels treating of Anglo-Indian life, which are generally to the English reader inexpressibly wearisome, the ‘Chronicles of Dustypore’ are bright, clever, and amusing, and just the kind of thing wherewith to wile away an otherwise tedious hour.” *Morning Post*, August 30, 1875
+“Contrary to the wont of novels treating of Anglo-Indian life, which are generally to the English reader inexpressibly wearisome, the ‘Chronicles of Dustypore’ are bright, clever, and amusing, and just the kind of thing wherewith to wile away an otherwise tedious hour.”  *Morning Post*, August 30, 1875
 
 *A contrasting view:*
 

@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Esther Bakewell (1798-1873), who also wrote a novel for children consisting entirely of one-syllable words (available on Gutenberg.org) seems to have written only one novel for adults—this one.  It offers an odd but amusing mixture of quiet domestic life with unlikely criminal scheming.*
+*Esther Bakewell (1798-1873), who also wrote a novel for children consisting entirely of one-syllable words (available on Gutenberg.org) seems to have written only one novel for adults—this one.  It offers an odd but amusing mixture of quiet domestic life with unlikely criminal scheming.*
 
-“This novel possesses merit far above the average. . . . There is a certain amount of character in the book, there are plenty of incidents, and some of the situations are excellent, the more so from the fact that they are situations which really belong to the novel and not to the drama.” *Illustrated Times*, July 25, 1857
+“This novel possesses merit far above the average. . . .  There is a certain amount of character in the book, there are plenty of incidents, and some of the situations are excellent, the more so from the fact that they are situations which really belong to the novel and not to the drama.”  *Illustrated Times*, July 25, 1857
 
-&nbsp;“The action of this volume never flags; some of the persons introduced are of classes perfectly well known, yet presenting points of idiosyncrasy that single them out from the mass, and impart a strong individual character.” *Morning Post*, September 5, 1857
+&nbsp;“The action of this volume never flags; some of the persons introduced are of classes perfectly well known, yet presenting points of idiosyncrasy that single them out from the mass, and impart a strong individual character.”  *Morning Post*, September 5, 1857
 
 ***Download this week’s novel:***
 

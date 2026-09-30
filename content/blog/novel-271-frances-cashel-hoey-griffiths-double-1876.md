@@ -17,9 +17,9 @@ An adventurer schemes to marry an Australian heiress.
 
 The novel “deserves the success which is earned by a well-thought-out and elaborate plot, a clear style, and incidental tokens of both humorous and pathetic insight.” *Athenaeum*, August 5, 1876
 
-“This is a very clever novel.  But . . . there are sins against credibility in these volumes, and sins against art. . . .  There may be graphic sketches of scenery and character . . . but the mind of the reader becomes bewildered when there is a mass of detail of the most intricate description, which takes away his capability to follow the real purport of the story.  We think that in the novel before us Mrs. Cashel Hoey has jumped from crag to crag of invention with wonderful agility, but others will find a difficulty in keeping up with her during these really marvellous feats. . . .  The story is well written, and much ingenuity is displayed in its conception and evolution.” *Examiner*, August 26, 1876
+“This is a very clever novel.  But . . . there are sins against credibility in these volumes, and sins against art. . . .  There may be graphic sketches of scenery and character . . . but the mind of the reader becomes bewildered when there is a mass of detail of the most intricate description, which takes away his capability to follow the real purport of the story.  We think that in the novel before us Mrs. Cashel Hoey has jumped from crag to crag of invention with wonderful agility, but others will find a difficulty in keeping up with her during these really marvellous feats. . . .  The story is well written, and much ingenuity is displayed in its conception and evolution.”  *Examiner*, August 26, 1876
 
-“The plot of ‘Griffith’s Double’ is complicated beyond all necessity.  The real strength of the book lies in its very pleasant and kindly tone, and in the quiet humour of the descriptions of life in the country town of Wrottesley.” *Pall Mall Gazette*, September 5, 1876
+“The plot of ‘Griffith’s Double’ is complicated beyond all necessity.  The real strength of the book lies in its very pleasant and kindly tone, and in the quiet humour of the descriptions of life in the country town of Wrottesley.”  *Pall Mall Gazette*, September 5, 1876
 
 ***Download this fortnight’s novel:***
 

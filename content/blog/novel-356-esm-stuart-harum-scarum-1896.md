@@ -13,7 +13,7 @@ categories: [Novels]
 
 ***
 
-*Esmé Stuart was the pen name of Amélie Claire LeRoy (1861-1934), who wrote over 60 novels beginning in 1876.  This was the first of a series, followed by* Harum Scarum’s Fortune *(1909) and* Harum Scarum Married *(1918).*
+*Esmé Stuart was the pen name of Amélie Claire LeRoy (1861-1934), who wrote over 60 novels beginning in 1876.  This was the first of a series, followed by* Harum Scarum’s Fortune *(1909) and* Harum Scarum Married *(1918).*
 
 The heroine is “fresh and good-hearted, and her exploits are decidedly entertaining.” *Spectator*, May 30, 1896
 

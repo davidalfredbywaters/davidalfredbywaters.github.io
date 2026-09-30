@@ -3,7 +3,7 @@ title: "338 Some Assorted Answers"
 url: /338-some-assorted-answers
 ---
 
-# Crossword 338: Some Assorted Answers {.center}
+#  Crossword 338: Some Assorted Answers {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

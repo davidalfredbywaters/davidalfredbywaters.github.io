@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-In *is out!  That's the kind of upside-down, through-the-looking-glass sort of a wonderland world this bold new puzzle creates.  And just so you don’t get too comfortable, at least one* in *. . . is still in!  You won’t find that feature in many other puzzles.*
+In *is out!  That's the kind of upside-down, through-the-looking-glass sort of a wonderland world this bold new puzzle creates.  And just so you don’t get too comfortable, at least one* in *. . . is still in!  You won’t find that feature in many other puzzles.*
 
 *The above painting refers to a subtheme, daringly embedded in baffling cross-references.*
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*The above Victorian painting alludes to the Victorian worker of 36 Down.  The puzzle itself may seem uncharacteristically up-to-date, but don’t worry: the grasp of social media I display here is every bit as crude as the grasp of computer networking I displayed in last week’s puzzle.*
+*The above Victorian painting alludes to the Victorian worker of 36 Down.  The puzzle itself may seem uncharacteristically up-to-date, but don’t worry: the grasp of social media I display here is every bit as crude as the grasp of computer networking I displayed in last week’s puzzle.*
 
 ***
 

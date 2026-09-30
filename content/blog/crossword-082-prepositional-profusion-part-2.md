@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*A mighty profound puzzle today, what with French philosophers, and the nature of being, and the unity of all things.  Philosophers are going to figure out the meaning of life eventually. Meanwhile, if you’ve never heard of Mike and Jack (51 Across), I congratulate you.*
+*A mighty profound puzzle today, what with French philosophers, and the nature of being, and the unity of all things.  Philosophers are going to figure out the meaning of life eventually.   Meanwhile, if you’ve never heard of Mike and Jack (51 Across), I congratulate you.*
 
 ***
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This puzzle, as its title implies, has men in it, and frankly I have some qualms about posting it.  I’m troubled not so much by the lack of gender-inclusiveness (for which I atone right away, in the answer to 1 Down) as I am by the presence of people of any kind.  For, regardless of gender, race, sexual orientation, etc., people, in my experience, are annoying.  There are some exceptions—myself, for example, and my near relations, and my current friends—but most people, if they’re not doing something absolutely wrong, are at best getting in the way.  So please, as you solve this puzzle, do not take it as in any way an endorsement of humanity in general.*
+*This puzzle, as its title implies, has men in it, and frankly I have some qualms about posting it.  I’m troubled not so much by  the lack of gender-inclusiveness (for which I atone right away, in the answer to 1 Down) as I am by the presence of people of any kind.  For, regardless of gender, race, sexual orientation, etc., people, in my experience, are annoying.  There are some exceptions—myself, for example, and my near relations, and my current friends—but most people, if they’re not doing something absolutely wrong, are at best getting in the way.  So please, as you solve this puzzle, do not take it as in any way an endorsement of humanity in general.*
 
 ***
 

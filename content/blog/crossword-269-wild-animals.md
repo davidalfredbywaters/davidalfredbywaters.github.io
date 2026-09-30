@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*We tried to set up a wildlife refuge here at David Alfred Bywaters’s Crossword Cavalcade and Fortnightly Victorian Novel Recommender, out behind the smithy next to the organic garden.  But the deer kept eating the arugula, and the lions kept eating the deer, so we had to give it up.*
+*We tried to set up a wildlife refuge here at David Alfred Bywaters’s Crossword Cavalcade and Fortnightly Victorian Novel Recommender, out behind the smithy next to the organic garden.  But the deer kept eating the arugula, and the lions kept eating the deer, so we had to give it up.*
 
 ***
 

@@ -13,15 +13,15 @@ categories: [Novels]
 
 ***
 
-*Margaret Roberts (1833-1919) wrote nearly thirty novels between 1857 and 1897; this is one of the last.  The heroine’s self-indulgent father is an especially well-done character.*
+*Margaret Roberts (1833-1919) wrote nearly thirty novels between 1857 and 1897; this is one of the last.  The heroine’s self-indulgent father is an especially well-done character.*
 
-Roberts “always gives us good work and always casts an unfailing charm over what she writes.” *Manchester Guardian*, May 10, 1892
+Roberts “always gives us good work and always casts an unfailing charm over what she writes.”  *Manchester Guardian*, May 10, 1892
 
-“As a whole the sketch is worthy of the delicate hand” of the author. *Academy*, June 18, 1892
+“As a whole the sketch is worthy of the delicate hand” of the author.  *Academy*, June 18, 1892
 
 *A contrasting view:*
 
-“Small beer.” *Saturday Review*, June 11, 1892
+“Small beer.”  *Saturday Review*, June 11, 1892
 
 ***Download this week’s novel:***
 

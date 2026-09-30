@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I know many of you are wondering about my identity—my race, and gender, and age, and sexual orientation, and all that.  If you think my name implies something about some of these, you’re wrong:  “David Alfred Bywaters” has no more existence than Betty Crocker or Mr. Clean.  In fact these puzzles are made by a diverse collective of organically-fed artisans, working in a carbon-neutral environment with hand-crafted crosswording materials.  That’s why they’re so good for you!*
+*I know many of you are wondering about my identity—my race, and gender, and age, and sexual orientation, and all that.  If you think my name implies something about some of these, you’re wrong:  “David Alfred Bywaters” has no more existence than Betty Crocker or Mr. Clean.  In fact these puzzles are made by a diverse collective of organically-fed artisans, working in a carbon-neutral environment with hand-crafted crosswording materials.  That’s why they’re so good for you!*
 
 ***
 

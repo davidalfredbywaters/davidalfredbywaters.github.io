@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Today’s puzzle is a prequel to the one published yesterday in the* Los Angeles Times—*that is, the theme of this puzzle is related to that of the other as cause to effect.  I built the puzzle around 29 Across, the basis for which I have since learned is not so common a phrase as I had supposed.  Google’s ngram viewer shows that the phrase reached a peak around 1820, held steady through 1910, and then began a precipitous decline.  This is a pity, for the unhappy state of mind it tersely describes is a defining feature of human experience, one given frequent attention in Victorian novels, and one I’m delighted to reconceive, through the miracle of cruciverbalism, as a comically self-conceited anthropomorphic bird.*
+*Today’s puzzle is a prequel to the one published yesterday in the* Los Angeles Times—*that is, the theme of this puzzle is related to that of the other as cause to effect.  I built the puzzle around 29 Across, the basis for which I have since learned is not so common a phrase as I had supposed.  Google’s ngram viewer shows that the phrase reached a peak around 1820, held steady through 1910, and then began a precipitous decline.  This is a pity, for the unhappy state of mind it tersely describes is a defining feature of human experience, one given frequent attention in Victorian novels, and one I’m delighted to reconceive, through the miracle of cruciverbalism, as a comically self-conceited anthropomorphic bird.*
 
 ***
 

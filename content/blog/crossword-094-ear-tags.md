@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Poking holes in our ears so as to dangle ornamental objects from them—isn't it a little ugly and foolish, when you come to think about it?  Attaching metal things that emit radio frequencies to the ears of livestock so as to keep track of them is at least practical.  Has anyone thought of combining these in a movie, involving a creepy stalker and a gift of earrings? “The Piercing,” it might be called.  If you’re a movie producer and you’d like to buy an option on the idea, let me know.*
+*Poking holes in our ears so as to dangle ornamental objects from them—isn't it a little ugly and foolish, when you come to think about it?  Attaching metal things that emit radio frequencies to the ears of livestock so as to keep track of them is at least practical.  Has anyone thought of combining these in a movie, involving a creepy stalker and a gift of earrings? “The Piercing,” it might be called.  If you’re a movie producer and you’d like to buy an option on the idea, let me know.*
 
 ***
 

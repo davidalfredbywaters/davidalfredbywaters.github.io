@@ -3,7 +3,7 @@ title: "318 The Morning After"
 url: /318-the-morning-after
 ---
 
-# Crossword 318: The Morning After {.center}
+#  Crossword 318: The Morning After {.center}
 
 <div class="embed">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>

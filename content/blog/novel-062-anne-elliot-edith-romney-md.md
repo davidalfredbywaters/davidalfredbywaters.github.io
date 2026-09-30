@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Anne Elliot (1856-1941) wrote 13 novels, of which this was the first, between 1883 and 1903.  Like her protagonist here, she was a doctor’s daughter; the novel’s representation of the plight of a Victorian woman seeking a professional career, though somewhat undermined by its dénouement, is vivid and touching.*
+*Anne Elliot (1856-1941) wrote 13 novels, of which this was the first, between 1883 and 1903.  Like her protagonist here, she was a doctor’s daughter; the novel’s representation of the plight of a Victorian woman seeking a professional career, though somewhat undermined by its dénouement, is vivid and touching.*
 
-“A fresh and clever story. . . . Several of the subordinate characters, though little more than sketches, are vividly drawn, and the whole tone of life in a prosperous, but highly Philistine, provincial town is cleverly caught.” *Academy*, October 20, 1883
+“A fresh and clever story. . . .  Several of the subordinate characters, though little more than sketches, are vividly drawn, and the whole tone of life in a prosperous, but highly Philistine, provincial town is cleverly caught.” *Academy*, October 20, 1883
 
-“The writer of this novel is manifestly very much in earnest.  There is an unmistakeable reality, a ring of genuine passion, in her complaints of the folly and caprice which deny to her heroine her legitimate career.”  *Spectator*, November 10, 1883
+“The writer of this novel is manifestly very much in earnest.  There is an unmistakeable reality, a ring of genuine passion, in her complaints of the folly and caprice which deny to her heroine her legitimate career.”  *Spectator*, November 10, 1883
 
 Download this week’s novel:
 

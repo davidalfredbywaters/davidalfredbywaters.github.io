@@ -9,11 +9,11 @@ categories: [Crosswords]
 
 ***
 
-*Like most of my puzzles, this one began with a single phrase I thought amusing (in this case, 39 Across).  After finding four more phrases that followed the pattern of the first, and constructing and filling a grid, I discovered, to my dismay (through Matt Ginsberg’s sadly discontinued clue database, which I use to avoid forever replicating the same clues for the same answers), that one of my theme answers had already been clued not once but twice, in 2009 by Matt Jones, and in 2021 by Gary Larson.*
+*Like most of my puzzles, this one began with a single phrase I thought amusing (in this case, 39 Across).  After finding four more phrases that followed the pattern of the first, and constructing and filling a grid, I discovered, to my dismay (through Matt Ginsberg’s sadly discontinued clue database, which I use to avoid forever replicating the same clues for the same answers), that one of my theme answers had already been clued not once but twice, in 2009 by Matt Jones, and in 2021 by Gary Larson.*
 
-*Now, why must other people always be getting in my way? I used to enjoy doing crosswords; but ever since I took up constructing them, I find I can’t complete a themed puzzle without saying to myself either “What a bad theme, compared to the themes I produce at fortnightly intervals; what a shame!” or “What a good theme; I’m sure I’d have thought of it eventually and done it even better, but now here it is already done; what a shame!”*
+*Now, why must other people always be getting in my way?  I used to enjoy doing crosswords; but ever since I took up constructing them, I find I can’t complete a themed puzzle without saying to myself either “What a bad theme, compared to the themes I produce at fortnightly intervals; what a shame!” or “What a good theme; I’m sure I’d have thought of it eventually and done it even better, but now here it is already done; what a shame!”*
 
-*Anyway, though I replaced the shopworn theme answer with a bright new one, I cannot deny that two puzzles with roughly the same theme have preceded this one into the world. But what then? Was Michelangelo’s David preceded by no other statues of David? Was Raphael the first to paint a Madonna?*
+*Anyway, though I replaced the shopworn theme answer with a bright new one, I cannot deny that two puzzles with roughly the same theme have preceded this one into the world.  But what then?  Was Michelangelo’s David preceded by no other statues of David?  Was Raphael the first to paint a Madonna?*
 
 ***
 

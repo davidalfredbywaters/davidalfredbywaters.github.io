@@ -8,7 +8,7 @@ url: /blog/2021/3/6/crossword-172-suburban-sprawl
 
 ***
 
-*Having last week endured the city’s seething  strife, we flee this week to the sedative sameness of the suburbs—but—oh no!— what’s that right in the middle of everything at 39 Across?  Is there no peace on this side of the grave?*
+*Having last week endured the city’s seething  strife, we flee this week to the sedative sameness of the suburbs—but—oh no!— what’s that right in the middle of everything at 39 Across?  Is there no peace on this side of the grave?*
 
 ***
 

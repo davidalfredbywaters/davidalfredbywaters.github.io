@@ -15,13 +15,13 @@ categories: [Novels]
 
 *Julian Sturgis (1848-1904) specialized in light comic novels, of which he wrote a dozen or so, including, obviously, this one.*
 
-“Mr. Julian Sturgis’s ‘Comedy of a Country House’ is something like what a comedy should be—bright and vivacious, rapid and amusing, yet with occasional touches and suggestions of deeper feeling.  The cynicism is cheery rather than depressing, and there are some typical men and women lightly and knowingly sketched.  The dialogue is sprightly and natural.” *Athenaeum*, July 6, 1889
+“Mr. Julian Sturgis’s ‘Comedy of a Country House’ is something like what a comedy should be—bright and vivacious, rapid and amusing, yet with occasional touches and suggestions of deeper feeling.  The cynicism is cheery rather than depressing, and there are some typical men and women lightly and knowingly sketched.  The dialogue is sprightly and natural.”  *Athenaeum*, July 6, 1889
 
-“The finish and lightness of touch which characterize Mr. Julian Sturgis’ work appear at their best in this entertaining story.” *Literary World*, November 9, 1889
+“The finish and lightness of touch which characterize Mr. Julian Sturgis’ work appear at their best in this entertaining story.” *Literary  World*, November 9, 1889
 
 *A contrasting view:*
 
-“Mr. Julian Sturgis is a very clever man, and there is so much cleverness in his *Comedy of a Country-House*, that no reader who knows good work when he sees it can fail to render hearty and ungrudging admiration.  And yet . . . mere cleverness is an essentially unsatisfying quality. . . .  Like a display of fireworks . . . it is very attractive for the time, but it leaves nothing behind it.” *Spectator*, July 27, 1889
+“Mr. Julian Sturgis is a very clever man, and there is so much cleverness in his *Comedy of a Country-House*, that no reader who knows good work when he sees it can fail to render hearty and ungrudging admiration.  And yet . . . mere cleverness is an essentially unsatisfying quality. . . .  Like a display of fireworks . . . it is very attractive for the time, but it leaves nothing behind it.”  *Spectator*, July 27, 1889
 
 Download this week’s novel:
 

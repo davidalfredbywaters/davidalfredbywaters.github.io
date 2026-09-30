@@ -13,11 +13,11 @@ categories: [Novels]
 
 ***
 
-*Emma Newman (1831-1903) wrote some 13 novels between 1874 and 1897.  Here she provides many excellent scenes of social comedy, which more than counterbalance her plot’s implausible premise and a final pile-up of Victorian clichés.*
+*Emma Newman (1831-1903) wrote some 13 novels between 1874 and 1897.  Here she provides many excellent scenes of social comedy, which more than counterbalance her plot’s implausible premise and a final pile-up of Victorian clichés.*
 
-“Mrs. Newman has built an exceedingly bright and clever story on the insecure foundation of obvious improbablility” but she manages it  “with ingenuity, grace, and humour.” *Saturday Review*, December 26, 1891
+“Mrs. Newman has built an exceedingly bright and clever story on the insecure foundation of obvious improbablility” but she manages it  “with ingenuity, grace, and humour.”  *Saturday Review*, December 26, 1891
 
-“It is very odd that people in novels, who are otherwise more brilliant than people out of novels, always stop short at critical moments of saying or guessing or doing the right thing.  But if they acted with common sense there would be scarcely any novels written, and we should then have a dull world. . . . It only remains to say that there is not a dull page from end to end of the three volumes.” *Academy*, January 9, 1892
+“It is very odd that people in novels, who are otherwise more brilliant than people out of novels, always stop short at critical moments of saying or guessing or doing the right thing.  But if they acted with common sense there would be scarcely any novels written, and we should then have a dull world. . . . It only remains to say that there is not a dull page from end to end of the three volumes.”  *Academy*, January 9, 1892
 
 ***Download this week’s novel:***
 

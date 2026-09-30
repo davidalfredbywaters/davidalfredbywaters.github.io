@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*I pity the poverty of imagination that forces so many crossword constructors to draw on other people’s movies and television shows when they want to add to their puzzles some of the excitement of interstellar warfare.  Here, in the constraints of a 15 x 15 puzzle, with no outside assistance, I create my very  own science-fiction universe.  I expect an avalanche of Hollywood sequels, and commercial tie-ins, and fan-fiction sites, to follow in due course.*
+*I pity the poverty of imagination that forces so many crossword constructors to draw on other people’s movies and television shows when they want to add to their puzzles some of the excitement of interstellar warfare.  Here, in the constraints of a 15 x 15 puzzle, with no outside assistance, I create my very  own science-fiction universe.  I expect an avalanche of Hollywood sequels, and commercial tie-ins, and fan-fiction sites, to follow in due course.*
 
 ***
 

@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This is a sort of sequel to* [*Puzzle 188*](/blog/2021/6/26/crossword-188-ah-ha)*, but even more likely to produce in the solver not only sighs, but rolls of the eyes, shrugs of the shoulders, and other activities that increase blood flow, oxygen absorption, and synaptic transmission. Studies have claimed to disprove the theory that regular crossword-solving can delay the onset of dementia, but those studies did not employ the crosswords available here at David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender.*
+*This is a sort of sequel to* [*Puzzle 188*](/blog/2021/6/26/crossword-188-ah-ha)*, but even more likely to produce in the solver not only sighs, but rolls of the eyes, shrugs of the shoulders, and other activities that increase blood flow, oxygen absorption, and synaptic transmission.  Studies have claimed to disprove the theory that regular crossword-solving can delay the onset of dementia, but those studies did not employ the crosswords available here at David Alfred Bywaters’s Crossword Cavalcade and Weekly Victorian Novel Recommender.*
 
 ***
 

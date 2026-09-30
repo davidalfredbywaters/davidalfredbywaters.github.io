@@ -12,7 +12,7 @@ url: /blog/2025/8/16/novel-336-elizabeth-robins-george-mandevilles-husband
 
 ***
 
-*Elizabeth Robins (1862-1952) was born in Louisville, Kentucky, and raised by her grandmother in Zanesville, Ohio.  Her mother, an opera singer, went mad; her husband, an actor, drowned himself.  She worked as an actress first in America, then moved to London and established herself as a leading lady in the plays of Ibsen.  In the twentieth century she became a prominent supporter of women’s suffrage.  Amid all this, she found time to write several novels, among them this tragi-comic portrait of selfish literary pretense.*
+*Elizabeth Robins (1862-1952) was born in Louisville, Kentucky, and raised by her grandmother in Zanesville, Ohio.  Her mother, an opera singer, went mad; her husband, an actor, drowned himself.  She worked as an actress first in America, then moved to London and established herself as a leading lady in the plays of Ibsen.  In the twentieth century she became a prominent supporter of women’s suffrage.  Amid all this, she found time to write several novels, among them this tragi-comic portrait of selfish literary pretense.*
 
 “A most excellent and powerful piece of work.” *Athenaeum*, August 25, 1894
 

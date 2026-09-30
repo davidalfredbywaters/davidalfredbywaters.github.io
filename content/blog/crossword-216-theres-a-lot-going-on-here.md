@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*There certainly is a lot going on in this week’s crossword, much of which will, I fear, escape the superficial observer.  Like all my puzzles, of course, this one shapes society by including things I recommend (like garden statuary) and excluding things I deplore (like nuclear waste).  But beyond that, it initiates several conversations we all need to be having these days—about the commercial appropriation of our wetlands, about big tech, about political polarization.  I hope you’ll give it the close attention it deserves, even if it challenges some of your most deeply held habits and beliefs.  Only through such ruthless self-interrogation can you hope to grow, not just as a solver, but as a human being.*
+*There certainly is a lot going on in this week’s crossword, much of which will, I fear, escape the superficial observer.  Like all my puzzles, of course, this one shapes society by including things I recommend (like garden statuary) and excluding things I deplore (like nuclear waste).  But beyond that, it initiates several conversations we all need to be having these days—about the commercial appropriation of our wetlands, about big tech, about political polarization.  I hope you’ll give it the close attention it deserves, even if it challenges some of your most deeply held habits and beliefs.  Only through such ruthless self-interrogation can you hope to grow, not just as a solver, but as a human being.*
 
 ***
 

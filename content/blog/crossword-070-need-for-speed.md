@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Today's puzzle will be distributed (thanks to "Bob Kerfuffle") at the annual American Crossword Puzzle Tournament, where people try to solve puzzles as fast as they can.  I myself don’t like to solve puzzles fast.  I like to savor them, to meditate on the nuances of the fill and the cluing, and on the ramifications of the theme.  That’s why I design puzzles the nuances and ramifications of which can be easily meditated on.  I won’t spoil your fun by explaining just what those might be in this puzzle.*
+*Today's puzzle will be distributed (thanks to "Bob Kerfuffle") at the annual American Crossword Puzzle Tournament, where people try to solve puzzles as fast as they can.  I myself don’t like to solve puzzles fast.  I like to savor them, to meditate on the nuances of the fill and the cluing, and on the ramifications of the theme.  That’s why I design puzzles the nuances and ramifications of which can be easily meditated on.  I won’t spoil your fun by explaining just what those might be in this puzzle.*
 
 ***
 
@@ -24,3 +24,5 @@ categories: [Crosswords]
 [070 Need for Speed](/070-need-for-speed-online)
 
 ![](/images/Pointing-Hand-26.png)
+
+<br>

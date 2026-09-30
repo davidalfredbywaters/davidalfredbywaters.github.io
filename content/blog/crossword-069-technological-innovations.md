@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*This puzzle evokes a dystopian future in which machines, built to drudge for us, acquire wills of their own and become our masters.  At first glance it may seem like just a good thriller.  More serious solvers, however, will find beneath the surface a profound meditation on what it means to be human.*
+*This puzzle evokes a dystopian future in which machines, built to drudge for us, acquire wills of their own and become our masters.  At first glance it may seem like just a good thriller.  More serious solvers, however, will find beneath the surface a profound meditation on what it means to be human.*
 
 ***
 
@@ -24,3 +24,5 @@ categories: [Crosswords]
 [069 Technological Innovations](/069-technological-innovations-online)
 
 ![](/images/Pointing-Hand-24.png)
+
+<br>

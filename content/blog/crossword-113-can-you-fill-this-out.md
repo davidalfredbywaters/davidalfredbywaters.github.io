@@ -9,7 +9,7 @@ categories: [Crosswords]
 
 ***
 
-*Hey all you fledgling crossword constructors—are you stuck for a title?  Well, no need to hunt up an online mentor to help you create one—just use mine!  It fits my new crossword pretty well, but it has the virtue of also fitting any crossword whatsoever!  I may use it again myself!*
+*Hey all you fledgling crossword constructors—are you stuck for a title?  Well, no need to hunt up an online mentor to help you create one—just use mine!  It fits my new crossword pretty well, but it has the virtue of also fitting any crossword whatsoever!  I may use it again myself!*
 
 ***
 

@@ -3,7 +3,7 @@ title: "126 Why? Because I Said So! (online)"
 url: /126-why-because-i-said-so-online
 ---
 
-Crossword 126: Why? Because I Said So!
+Crossword 126: Why?  Because I Said So!
 {.center}
 
 <div class="embed">
