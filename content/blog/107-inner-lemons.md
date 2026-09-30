@@ -23,4 +23,4 @@ categories: [Crosswords]
 
 [107 Inner Lemons](/107-inner-lemons-online)
 
-![](/images/Pointing-Hand-19.png)
+
