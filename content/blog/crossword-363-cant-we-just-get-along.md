@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [363 Why Can’t We Just Get Along?](/363-why-cant-we-just-get-along)
 
-![](/images/Pointing-Hand-83.png)
