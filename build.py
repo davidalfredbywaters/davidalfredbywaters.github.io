@@ -3,6 +3,8 @@
 
     python3 build.py            -> writes the finished site into  public/
     python3 build.py --serve    -> builds, then previews it at http://localhost:8000
+    python3 build.py --preview  -> like --serve, but also shows scheduled and draft
+                                   posts (only on your Mac; nothing is published)
 
 Posts live in content/blog/, pages in content/pages/. Each is a Markdown file
 with a short header (title, date, url). Pictures go in static/images/,
@@ -15,7 +17,10 @@ from jinja2 import Environment, FileSystemLoader
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, 'public')
+PREVIEW = '--preview' in sys.argv          # show scheduled + draft posts locally
 NOW = dt.datetime.now(dt.timezone.utc).replace(tzinfo=None)
+if PREVIEW:
+    NOW = dt.datetime.max
 
 cfg = yaml.safe_load(open(os.path.join(ROOT, 'config.yaml'), encoding='utf-8'))
 env = Environment(loader=FileSystemLoader(os.path.join(ROOT, 'templates')), autoescape=False)
@@ -50,7 +55,7 @@ def load(folder, kind):
         if not m:
             print(f'  skipped {folder}/{name}: no header'); continue
         meta = yaml.safe_load(m.group(1)) or {}
-        if meta.get('draft'):
+        if meta.get('draft') and not PREVIEW:
             continue
         date = meta.get('date')
         if isinstance(date, str):
@@ -139,7 +144,7 @@ def main():
 
 if __name__ == '__main__':
     main()
-    if '--serve' in sys.argv:
+    if '--serve' in sys.argv or PREVIEW:
         import http.server, functools
         handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory=OUT)
         print('Preview at http://localhost:8000  (press Control-C to stop)')
