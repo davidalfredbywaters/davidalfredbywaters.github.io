@@ -23,5 +23,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [314 Stag Party](/314-stag-party-online)
-
-![](/images/Pointing-Hand-66.png)

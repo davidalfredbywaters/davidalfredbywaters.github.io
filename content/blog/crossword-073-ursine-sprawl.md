@@ -23,6 +23,5 @@ categories: [Crosswords]
 
 [073 Ursine Sprawl](/073-ursine-sprawl-online)
 
-![](/images/Pointing-Hand-29.png)
 
 <br>

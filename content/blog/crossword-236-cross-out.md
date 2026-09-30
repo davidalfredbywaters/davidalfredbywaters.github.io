@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [236 Cross Out](/236-cross-out-online)
-
-![](/images/Pointing-Hand-66.png)

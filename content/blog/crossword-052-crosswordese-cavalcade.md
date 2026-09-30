@@ -27,4 +27,3 @@ categories: [Crosswords]
 
 [052 Crosswordese Cavalcade](/052-a-cavalcade-of-crosswordese-online)
 
-![](/images/Pointing-Hand-2.png)

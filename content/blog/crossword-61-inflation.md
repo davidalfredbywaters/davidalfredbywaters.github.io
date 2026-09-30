@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [061 Inflation](/061-inflation-online)
 
-![](/images/Pointing-Hand-9.png)

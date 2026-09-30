@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [078 Laughing on the Outside, Crying on the Inside](/078-laughing-on-the-outside-crying-on-the-inside-online)
 
-![](/images/Pointing-Hand-33.png)

@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [071 Reinterpretation](/071-reinterpretation-online)
 
-![](/images/Pointing-Hand-27.png)

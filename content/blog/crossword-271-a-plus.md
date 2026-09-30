@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [271 A Plus](/271-aplus-online)
-
-![](/images/Pointing-Hand-66.png)

@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [330 SB](/330-sb)
-
-![](/images/Pointing-Hand-51.png)

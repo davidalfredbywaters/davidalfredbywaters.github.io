@@ -23,6 +23,4 @@ categories: [Crosswords]
 
 [132 Crossed Words](/132-crossed-words-online)
 
-![](/images/Pointing-Hand-57.png)
-
 <br>

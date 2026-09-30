@@ -21,5 +21,3 @@ url: /blog/2020/6/27/crossword-136-defeat
 ***Solve this week’s crossword online:***
 
 [136 Defeat](/136-defeat-online)
-
-![](/images/Pointing-Hand-58.png)

@@ -24,5 +24,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [144 Last In, First Out](/144-last-in-first-out-online)
-
-![](/images/Pointing-Hand-61.png)

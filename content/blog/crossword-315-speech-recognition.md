@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [315 Speech Recognition](/315-speech-recognition-online)
-
-![](/images/Pointing-Hand-66.png)

@@ -18,5 +18,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [176 Parliamentary Divisions](/176-parliamentary-divisions-online)
-
-![](/images/Pointing-Hand-72.png)

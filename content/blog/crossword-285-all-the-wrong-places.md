@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [285 All the Wrong Places](/285-all-the-wrong-places-online)
-
-![](/images/Pointing-Hand-66.png)

@@ -23,6 +23,5 @@ categories: [Crosswords]
 
 [069 Technological Innovations](/069-technological-innovations-online)
 
-![](/images/Pointing-Hand-24.png)
 
 <br>

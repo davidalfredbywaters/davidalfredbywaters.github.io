@@ -21,5 +21,3 @@ url: /blog/2021/5/1/crossword-180-globalization
 ***Solve this week’s crossword online:***
 
 [180 Globalization](/180-globalization-online)
-
-![](/images/Pointing-Hand-73.png)

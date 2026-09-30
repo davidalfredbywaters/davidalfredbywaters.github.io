@@ -24,5 +24,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [157 Not Going Anywhere](/157-not-going-anywhere-online)
-
-![](/images/Pointing-Hand-46.png)

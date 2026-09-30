@@ -28,5 +28,3 @@ categories: [Crosswords]
 ***Solve this week’s puzzle online:***
 
 [207 Dynamic Range Compression](/207-dynamic-range-compression-online)
-
-![](/images/Pointing-Hand-68.png)

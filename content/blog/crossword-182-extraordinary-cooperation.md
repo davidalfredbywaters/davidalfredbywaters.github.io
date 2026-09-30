@@ -25,5 +25,3 @@ Charles Robert Leslie, Children Playing at Coach and Horses
 ***Solve this week’s crossword online:***
 
 [182 Extraordinary Cooperation](/182-extraordinary-cooperation-online)
-
-![Whatever it is, the way you tell your story online can make all the difference.](/images/Pointing-Hand-74.png "Whatever it is, the way you tell your story online can make all the difference.")

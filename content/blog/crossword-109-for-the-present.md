@@ -23,6 +23,4 @@ categories: [Crosswords]
 
 [109 For the Present](/109-for-the-present-online)
 
-![](/images/Pointing-Hand-21.png)
-
 <br>

@@ -24,6 +24,4 @@ categories: [Crosswords]
 [088 Made or Marred](/088-made-or-marred-online)
 
 <br>
-<br>
 
-![](/images/Pointing-Hand-39.png)

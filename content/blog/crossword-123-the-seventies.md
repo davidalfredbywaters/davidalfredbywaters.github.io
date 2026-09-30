@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [123 The Seventies](/123-the-seventies-online)﻿<br>
-
-![](/images/Pointing-Hand-55.png)

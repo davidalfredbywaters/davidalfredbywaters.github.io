@@ -24,5 +24,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [105 End Times](/105-end-times-online)
-
-![](/images/Pointing-Hand-17.png)

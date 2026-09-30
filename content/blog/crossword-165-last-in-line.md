@@ -24,5 +24,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [165 Last in Line](/165-last-in-line-online)
-
-![](/images/Pointing-Hand-64.png)

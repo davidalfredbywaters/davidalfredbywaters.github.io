@@ -21,5 +21,3 @@ url: /blog/2021/8/14/crossword-195-odd-numbers
 ***Solve this week’s crossword online:***
 
 [195 Odd Numbers](/195-odd-numbers-online)
-
-![](/images/Pointing-Hand-77.png)

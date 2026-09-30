@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [345 Off Color](/345-off-color)
-
-![](/images/Pointing-Hand-82.png)

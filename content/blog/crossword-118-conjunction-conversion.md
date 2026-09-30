@@ -25,6 +25,4 @@ categories: [Crosswords]
 
 *N.B. Curious about my shockingly unorthodox views on crossword substitution themes?  See my FAQs, or the introductions to* [*Crossword 031*](/blog/2018/6/23/crossword-031-its-magic-no3) *and* [*Crossword 59*](/blog/2019/1/5/crossword-059-aeration)*.*
 
-![](/images/Pointing-Hand-53.png)
-
 <br>

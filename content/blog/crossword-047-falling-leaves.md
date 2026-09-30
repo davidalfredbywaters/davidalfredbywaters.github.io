@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [047 Falling Leaves](/047-falling-leaves-online)
 
-![](/images/Pointing-Hand.png)

@@ -23,6 +23,5 @@ categories: [Crosswords]
 
 [099 In Deep](/099-in-deep)
 
-![](/images/Pointing-Hand-11.png)
 
 <br>

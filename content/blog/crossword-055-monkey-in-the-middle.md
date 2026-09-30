@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [055 Monkey in the Middle](/055-monkey-in-the-middle-online)
 
-![](/images/Pointing-Hand-4.png)

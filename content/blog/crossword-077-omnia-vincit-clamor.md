@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [077 Omnia Vincit Clamor](/077-omnia-vincit-clamor-online)
 
-![](/images/Pointing-Hand-32.png)

@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [332 Change Partners](/332-change-partners)
-
-![](/images/Pointing-Hand-66.png)

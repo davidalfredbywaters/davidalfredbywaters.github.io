@@ -24,5 +24,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [162 Editorial Changes](/162-editorial-changes-online)
-
-![](/images/Pointing-Hand-50.png)

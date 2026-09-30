@@ -25,4 +25,3 @@ Hearty Thanksgiving Greeting
 
 [053 Carved Turkey](/053-carved-turkey-online)
 
-![](/images/Pointing-Hand-3.png)

@@ -24,5 +24,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [121 Going, Going, Gone!](/121-going-going-gone-online)
-
-![](/images/Pointing-Hand-54.png)

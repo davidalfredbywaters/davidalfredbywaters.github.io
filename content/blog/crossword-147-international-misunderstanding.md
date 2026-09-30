@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [147 International Misunderstanding](/147-international-misunderstanding-online)
-
-![](/images/Pointing-Hand-62.png)

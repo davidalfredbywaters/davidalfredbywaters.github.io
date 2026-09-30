@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [320 Overworked Abbreviations](/320-overworked-abbreviations)
-
-![](/images/Pointing-Hand-66.png)

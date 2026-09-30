@@ -24,4 +24,3 @@ url: /blog/2019/4/27/crossword-075-stupid-new-apple-devices
 
 [075 Stupid New Apple Devices](/075-stupid-new-apple-devices-online)
 
-![](/images/Pointing-Hand-31.png)

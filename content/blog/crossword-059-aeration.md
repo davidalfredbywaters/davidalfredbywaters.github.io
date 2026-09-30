@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [059 Aeration](/059-aeration-online)
 
-![](/images/Pointing-Hand-10.png)

@@ -26,5 +26,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [267 Happy New Year!](/267-happy-new-year-online)
-
-![](/images/Pointing-Hand-66.png)

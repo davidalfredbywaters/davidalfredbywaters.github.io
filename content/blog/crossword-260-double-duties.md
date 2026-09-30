@@ -30,4 +30,3 @@ categories: [Crosswords]
 [260 Double Duties](/260-double-duties-online)
 
 {{ donate }}
-![](/images/Pointing-Hand-66.png)

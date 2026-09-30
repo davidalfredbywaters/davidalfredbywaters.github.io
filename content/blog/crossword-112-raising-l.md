@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [112 Raising L](/112-raising-l-online)
-
-![](/images/Pointing-Hand-43.png)

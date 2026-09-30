@@ -23,5 +23,3 @@ categories: [Crosswords]
 
 [097 Nondairy Substitutes](/097-nondairy-substitutes-online)
 
-![](/images/Pointing-Hand-in-Reverse-3.png)
-![](/images/Pointing-Hand-42.png)

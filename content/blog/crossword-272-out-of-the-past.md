@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [272 Out of the Past](/272-out-of-the-past-online)
-
-![](/images/Pointing-Hand-66.png)

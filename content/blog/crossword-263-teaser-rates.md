@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [263 Teaser Rates](/263-teaser-rates-online)
-
-![](/images/Pointing-Hand-66.png)

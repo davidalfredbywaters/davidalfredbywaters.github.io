@@ -22,8 +22,5 @@ url: /blog/2019/3/9/crossword-068-ignis-fatuus
 
 [068 Ignis Fatuus](/068-ignis-fatuus-online)
 
-![](/images/Pointing-Hand-28.png)
-
-<br>
 
 <br>

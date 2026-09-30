@@ -40,5 +40,3 @@ Without the meed of some melodious tear.<br>
 ***Solve this week’s crossword online:***
 
 [103 Wowee!](/103-wowee-online)
-
-![](/images/Pointing-Hand-18.png)

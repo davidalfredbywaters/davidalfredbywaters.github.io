@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [317 Five Times Nine](/317-five-times-nine)
-
-![](/images/Pointing-Hand-66.png)

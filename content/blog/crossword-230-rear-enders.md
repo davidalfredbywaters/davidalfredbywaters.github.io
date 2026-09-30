@@ -23,5 +23,3 @@ categories: [Crosswords]
 
 [230 Rear-Enders](/230-rearenders-online)<br>
 <br>
-
-![](/images/Pointing-Hand-66.png)

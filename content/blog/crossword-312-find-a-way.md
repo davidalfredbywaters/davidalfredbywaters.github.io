@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [312 Find a Way](/312-find-a-way-online)
-
-![](/images/Pointing-Hand-66.png)

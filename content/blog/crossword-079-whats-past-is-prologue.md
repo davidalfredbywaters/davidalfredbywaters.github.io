@@ -26,4 +26,3 @@ categories: [Crosswords]
 [079 What’s Past Is Prologue](/079-whats-past-is-prologue-online)<br>
 <br>
 
-![](/images/Pointing-Hand-34.png)

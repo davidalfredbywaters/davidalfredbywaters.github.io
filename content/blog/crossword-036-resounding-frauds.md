@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [036 Resounding Frauds](/036-resounding-frauds-online)
 
-![](/images/Pointing-Hand-8.png)

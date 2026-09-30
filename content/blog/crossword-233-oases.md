@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [233 Oases](/233-oases-online)
-
-![](/images/Pointing-Hand-66.png)

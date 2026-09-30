@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [198 Let’s Have a Good Cry](/198-lets-have-a-good-cry-online)
-
-![](/images/Pointing-Hand-81.png)

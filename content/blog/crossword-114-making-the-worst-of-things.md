@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [114 Making the Worst of Things](/114-making-the-worst-of-things-online)
-
-![](/images/Pointing-Hand-44.png)

@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s puzzle online:***
 
 [289 Cropped Tees](/289-cropped-tees-online)
-
-![](/images/Pointing-Hand-66.png)

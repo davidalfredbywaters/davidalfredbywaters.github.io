@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [282 Oh, Why Bother?](/282-oh-why-bother-online)
-
-![](/images/Pointing-Hand-66.png)

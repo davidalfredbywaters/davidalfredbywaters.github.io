@@ -23,6 +23,5 @@ categories: [Crosswords]
 
 [074 Literal Quarantines](/074-literal-quarantines-online)
 
-![](/images/Pointing-Hand-30.png)
 
 <br>

@@ -23,5 +23,3 @@ url: /blog/2020/12/5/crossword-159-not-according-to-hoyle
 ***Solve this week’s crossword online:***
 
 [159 Not According to Hoyle](/159-not-according-to-hoyle-online)
-
-![](/images/Pointing-Hand-51.png)

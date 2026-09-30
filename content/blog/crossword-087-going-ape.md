@@ -23,6 +23,4 @@ categories: [Crosswords]
 
 [087 Going Ape](/087-going-ape-online)
 
-![](/images/Pointing-Hand-in-Reverse-2.png)
-
 <br>

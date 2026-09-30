@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [228 Not on the Level](/228-not-on-the-level-online)
-
-![](/images/Pointing-Hand-66.png)

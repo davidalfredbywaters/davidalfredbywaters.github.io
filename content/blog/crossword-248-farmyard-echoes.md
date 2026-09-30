@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [248 Farmyard Echoes](/248-farmyard-echoes-online)
-
-![](/images/Pointing-Hand-66.png)

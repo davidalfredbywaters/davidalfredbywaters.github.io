@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [100 Centered](/100-centered-online)
 
-![](/images/Pointing-Hand-12.png)

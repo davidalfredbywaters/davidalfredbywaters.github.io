@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [201 Pismo Batch](/201-pismo-batch-online)
-
-![](/images/Pointing-Hand-80.png)

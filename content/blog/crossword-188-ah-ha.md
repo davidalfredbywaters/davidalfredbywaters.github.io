@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [188 Ah Ha](/188-ah-ha-online)
-
-![](/images/Pointing-Hand-75.png)

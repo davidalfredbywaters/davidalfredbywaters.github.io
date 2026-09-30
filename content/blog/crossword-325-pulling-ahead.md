@@ -25,5 +25,3 @@ url: /blog/2025/3/22/crossword-325-pulling-ahead
 ***Solve this fortnight’s crossword online:***
 
 [325 Pulling Ahead](/325-pulling-ahead)
-
-![](/images/Pointing-Hand-38.png)

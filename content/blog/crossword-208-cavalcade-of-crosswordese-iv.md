@@ -28,4 +28,3 @@ categories: [Crosswords]
 [208 Cavalcade of Crosswordese IV](/208-cavalcade-of-crosswordese-iv-online)
 
 {{ donate }}
-![](/images/Pointing-Hand-66.png)

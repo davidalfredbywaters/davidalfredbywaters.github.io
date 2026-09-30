@@ -26,6 +26,5 @@ Gustave Moreau, Hercules and the Lernaean Hydra
 
 [076 Hydration](/076-hydration-online)
 
-![](/images/Pointing-Hand-35.png)
 
 <br>

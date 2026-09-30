@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [167 Power Plugs](/167-power-plugs-online)
-
-![](/images/Pointing-Hand-in-Reverse-6.png)

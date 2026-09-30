@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [108 Secret Transmission](/108-secret-transmission-online)
-
-![](/images/Pointing-Hand-20.png)

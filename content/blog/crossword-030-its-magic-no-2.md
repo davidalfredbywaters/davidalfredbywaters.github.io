@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [030 It’s Magic! No. 2](/030-its-magic-no-2-online)
 
-![](/images/Pointing-Hand-5.png)

@@ -22,6 +22,4 @@ url: /blog/2024/3/9/crossword-298-flare-up-calm-down
 
 [298 Having It Both Ways](/298-having-it-both-ways-online)
 
-![](/images/Pointing-Hand-66.png)
-
 <br>

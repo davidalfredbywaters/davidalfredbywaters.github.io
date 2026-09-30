@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [102 It's Not Just for Breakfast Anymore](/102-its-not-just-for-breakfast-anymore-online)
-
-![](/images/Pointing-Hand-16.png)

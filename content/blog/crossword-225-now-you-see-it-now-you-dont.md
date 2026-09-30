@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [225 Now You See it, Now You Don’t](/225-now-you-see-it-now-you-dont-online)
-
-![](/images/Pointing-Hand-66.png)

@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [084 Prepositional Profusion, Part 4](/084-prepositional-profusion-part-4-online)
 
-![](/images/Pointing-Hand-37.png)

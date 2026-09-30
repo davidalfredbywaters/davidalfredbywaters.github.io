@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [138 Fowl Fill](/138-fowl-fill-online)
-
-![](/images/Pointing-Hand-59.png)

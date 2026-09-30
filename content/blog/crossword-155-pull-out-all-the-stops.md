@@ -28,5 +28,3 @@ categories: [Crosswords]
 ***Solve this week’s puzzle online:***
 
 [155 Pull Out All the Stops](/155-pull-out-all-the-stops-online)
-
-![](/images/Pointing-Hand-48.png)

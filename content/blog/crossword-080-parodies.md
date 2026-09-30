@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [080 Parodies](/080-parodies-online)
 
-![](/images/Pointing-Hand-36.png)

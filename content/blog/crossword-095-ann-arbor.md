@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [095 Anntheme](/095-anntheme-online/)
 
-![](/images/Pointing-Hand-41.png)

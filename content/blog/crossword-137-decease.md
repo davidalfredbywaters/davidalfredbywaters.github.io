@@ -24,5 +24,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [137 Decease](/137-decease-online)
-
-![](/images/Pointing-Hand-in-Reverse-5.png)

@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [246: That’s Just Preverted!](/246-thats-just-preverted-online)
-
-![](/images/Pointing-Hand-66.png)

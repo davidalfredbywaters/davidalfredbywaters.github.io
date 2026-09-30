@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [304 Adaptation](/304-adaptation-online)
-
-![](/images/Pointing-Hand-66.png)

@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [160 Olé](/160-ol-online)
-
-![](/images/Pointing-Hand-49.png)

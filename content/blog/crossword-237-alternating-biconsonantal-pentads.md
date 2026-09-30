@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [237 Alternating Biconsonantal Pentads](/237-alternating-biconsonantal-pentads-online)
-
-![](/images/Pointing-Hand-66.png)

@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [241 Downspout](/241-downspout-online)
-
-![](/images/Pointing-Hand-66.png)

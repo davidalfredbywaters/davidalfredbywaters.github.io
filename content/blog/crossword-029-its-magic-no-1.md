@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [029 It’s Magic! No. 1](/029-its-magic-no-1-online)
 
-![](/images/Pointing-Hand-7.png)

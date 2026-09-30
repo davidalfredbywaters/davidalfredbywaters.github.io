@@ -18,5 +18,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [349](/349-strip-joint): Strip Joint
-
-![](/images/Pointing-Hand-66.png)

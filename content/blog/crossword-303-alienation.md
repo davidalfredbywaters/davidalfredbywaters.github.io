@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [303 Alienation](/303-alienation-online)
-
-![](/images/Pointing-Hand-66.png)

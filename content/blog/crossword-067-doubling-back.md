@@ -25,4 +25,3 @@ categories: [Crosswords]
 
 <br>
 
-![](/images/Pointing-Hand-25.png)

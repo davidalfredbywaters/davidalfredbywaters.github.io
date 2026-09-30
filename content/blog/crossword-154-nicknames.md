@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s puzzle online:***
 
 [154 Nicknames](/154-nicknames-online)
-
-![](/images/Pointing-Hand-45.png)

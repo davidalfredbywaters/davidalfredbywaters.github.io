@@ -24,5 +24,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [256 Think Ahead](/256-think-ahead-online)
-
-![](/images/Pointing-Hand-66.png)

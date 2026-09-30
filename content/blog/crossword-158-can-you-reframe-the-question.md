@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [158 Can You Reframe the Question?](/158-can-you-reframe-the-question-online)
-
-![](/images/Pointing-Hand-47.png)

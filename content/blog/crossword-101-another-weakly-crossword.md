@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [101 Another Weakly Crossword](/101-another-weakly-crossword-online)
-
-![](/images/Pointing-Hand-13.png)

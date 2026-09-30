@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [197 Neither In Nor Out](/197-neither-in-nor-out-online)
-
-![](/images/Pointing-Hand-79.png)

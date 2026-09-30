@@ -22,5 +22,3 @@ url: /blog/2019/2/2/crossword-063-groundhog-wild
 
 [063 Groundhog Wild](/063-groundhog-wild-online)
 
-![](/images/Pointing-Hand-in-Reverse.png)
-![](/images/Pointing-Hand-23.png)

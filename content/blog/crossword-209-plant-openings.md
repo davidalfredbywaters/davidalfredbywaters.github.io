@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [209 Plant Openings](/209-plant-openings-online)
-
-![](/images/Pointing-Hand-67.png)

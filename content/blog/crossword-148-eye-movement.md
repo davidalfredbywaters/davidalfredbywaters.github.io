@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [148: Eye Movement](/148-eye-movement-online)
-
-![](/images/Pointing-Hand-63.png)

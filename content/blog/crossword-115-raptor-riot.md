@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [115 Raptor Riot](/115-raptor-riot-online)
-
-![](/images/Pointing-Hand-52.png)

@@ -23,6 +23,3 @@ url: /blog/2020/4/25/crossword-127-theres-something-fishy-in-here
 ***Solve this week’s crossword online:***
 
 [127 There’s Something Fishy in Here!](/127-theres-something-fishy-in-here-online)
-
-![](/images/Pointing-Hand-in-Reverse-4.png)
-![](/images/Pointing-Hand-56.png)

@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [140 Beaten Down](/140-beaten-down-online)
-
-![](/images/Pointing-Hand-60.png)

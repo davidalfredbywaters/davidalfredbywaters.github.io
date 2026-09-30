@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [177 Coming in Last](/177-coming-in-last-online)
-
-![](/images/Pointing-Hand-70.png)

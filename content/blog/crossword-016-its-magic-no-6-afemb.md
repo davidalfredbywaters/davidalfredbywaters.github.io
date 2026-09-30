@@ -20,4 +20,3 @@ draft: true
 
 [034-It's-Magic!-No. 6.pdf](/s/034-Its-Magic-No6.pdf)
 
-![](/images/Pointing-Hand-.jpg)

@@ -23,4 +23,3 @@ categories: [Crosswords]
 
 [086 A Few Extracts](/086-a-few-extracts-online)
 
-![](/images/Pointing-Hand-38.png)

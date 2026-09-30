@@ -28,6 +28,4 @@ url: /blog/2019/11/16/crossword-104-another-cavalcade-of-crosswordese
 
 [104: Another Cavalcade of Crosswordese](/104-another-cavalcade-of-crosswordese-online)
 
-![](/images/Pointing-Hand-15.png)
-
 *﻿*<br>

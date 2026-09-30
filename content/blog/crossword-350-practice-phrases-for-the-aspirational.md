@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this fortnight’s crossword online:***
 
 [350 Practice Phrases for the Aspirational](/350-practice-phrases-for-the-aspirational)
-
-![](/images/Pointing-Hand-66.png)

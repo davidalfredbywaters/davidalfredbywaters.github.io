@@ -22,6 +22,5 @@ url: /blog/2019/10/5/crossword-098-the-herd-of-independent-minds
 
 [098 The Herd of Independent Minds](/098-the-herd-of-independent-minds-online)
 
-![](/images/Pointing-Hand-14.png)
 
 <br>

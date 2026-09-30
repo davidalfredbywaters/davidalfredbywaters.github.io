@@ -23,6 +23,5 @@ categories: [Crosswords]
 
 [070 Need for Speed](/070-need-for-speed-online)
 
-![](/images/Pointing-Hand-26.png)
 
 <br>

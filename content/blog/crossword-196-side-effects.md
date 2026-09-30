@@ -34,5 +34,3 @@ Diner 1: “Why, that’s a side-splitting joke!”*
 ***Solve this week’s crossword online:***
 
 [196 Side Effects](/196-side-effects-online)
-
-![](/images/Pointing-Hand-78.png)

@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [191 Ha Ha](/191-ha-ha-online)
-
-![](/images/Pointing-Hand-76.png)

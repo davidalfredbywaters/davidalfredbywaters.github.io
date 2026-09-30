@@ -23,6 +23,3 @@ categories: [Crosswords]
 
 [028 Poetic Justice](/028-poetic-justice-online)
 
-![](/images/Pointing-Hand-6.png)
-
-Next Thursday (June 7), a puzzle of mine will appear on this fine new website:  [The Puzzle Society Crossword, by David Steinberg](http://uclick.iwin.com/game/word/psc-crossword).  On the associated [blog](https://crosswordcrossing.blogspot.com/) will also appear a comment of mine, directing the reader here, to my own website—so, if you go there, it will be easy for you to come back.

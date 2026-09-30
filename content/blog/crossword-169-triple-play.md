@@ -22,5 +22,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [169 Triple Play](/169-triple-play-online)
-
-![](/images/Pointing-Hand-69.png)

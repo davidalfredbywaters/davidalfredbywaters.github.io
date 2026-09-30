@@ -24,5 +24,3 @@ categories: [Crosswords]
 ***Solve this week’s crossword online:***
 
 [Midwestern-State-Sponsored Terror](/179-midwesternstatesponsored-terror-online)
-
-![](/images/Pointing-Hand-71.png)

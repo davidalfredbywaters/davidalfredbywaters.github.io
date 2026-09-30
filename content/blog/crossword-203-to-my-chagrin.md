@@ -21,5 +21,3 @@ url: /blog/2021/10/9/crossword-203-to-my-chagrin
 ***Solve this week’s crossword online:***
 
 [203 To My Chagrin](/203-to-my-chagrin-online)
-
-![](/images/Pointing-Hand-65.png)

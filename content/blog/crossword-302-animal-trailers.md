@@ -21,5 +21,3 @@ url: /blog/2024/5/4/crossword-302-animal-trailers
 ***Solve this fortnight’s crossword online:***
 
 [302 Animal Trailers](/302-animal-trailers-online)
-
-![](/images/Pointing-Hand-66.png)
