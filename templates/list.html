@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block main %}
+{% include "_title_image.html" %}
+{% if heading %}<h2 class="list-heading">{{ heading }}</h2>{% endif %}
+{% for post in posts %}{% set link = True %}{% include "_post.html" %}{% endfor %}
+<nav class="pagination">
+  {% if newer %}<a class="newer-posts" href="{{ newer }}">← Newer Posts</a>{% else %}<span></span>{% endif %}
+  {% if older %}<a class="older-posts" href="{{ older }}">Older Posts →</a>{% endif %}
+</nav>
+{% endblock %}

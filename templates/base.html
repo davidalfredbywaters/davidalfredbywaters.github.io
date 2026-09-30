@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page_title %}{{ page_title }} — {% endif %}{{ site.title }}</title>
+<meta name="description" content="{{ site.description }}">
+<link rel="icon" href="/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/blog/rss.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400{% if site.title_font_google and site.title_font_google != 'Old Standard TT' %}&family={{ site.title_font_google | replace(' ', '+') }}{% endif %}&display=swap">
+<link rel="stylesheet" href="/css/site.css">
+<style>:root { --title-font: "{{ site.title_font_google | default("Old Standard TT") | replace('+', ' ') }}", "Old Standard TT", serif; }</style>
+<link rel="canonical" href="{{ site.base_url }}{{ url }}">
+</head>
+<body>
+<div id="canvas">
+  <nav class="main-nav" aria-label="Main">
+    <input type="checkbox" id="menu-toggle" class="hidden-toggle">
+    <label for="menu-toggle" class="menu-button">Menu</label>
+    <ul>
+    {% for item in site.menu %}
+      {% if item.children %}
+      <li class="folder">
+        <input type="checkbox" id="folder-{{ loop.index }}" class="hidden-toggle">
+        <label for="folder-{{ loop.index }}" tabindex="0">{{ item.name }}</label>
+        <ul class="subnav">
+          {% for c in item.children %}<li><a href="{{ c.url }}">{{ c.name }}</a></li>{% endfor %}
+        </ul>
+      </li>
+      {% else %}
+      <li{% if item.url == url or (item.url == '/' and (url == '/' or url.startswith('/blog'))) %} class="active"{% endif %}><a href="{{ item.url }}">{{ item.name }}</a></li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </nav>
+  <main>
+  {% block main %}{% endblock %}
+  </main>
+</div>
+</body>
+</html>

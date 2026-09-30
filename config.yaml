@@ -1,0 +1,54 @@
+# Site settings. Edit these, then save; the site rebuilds itself when published.
+
+title: "New Crosswords / Old Novels"
+description: "Free crossword puzzles.  Old novel recommendations."
+author: "David Bywaters"
+base_url: "https://www.davidalfredbywaters.com"
+
+# Picture shown at the top of the blog and every blog post.
+title_image: "/images/New-Title-Page-cropped.jpg"
+title_image_alt: "David Alfred Bywaters's Crossword Cavalcade & Fortnightly Victorian Novel Recommender. Every Saturday! Either a new language-torturing puzzle or an old novel by an unjustly neglected Victorian author. Why waste time on other amusements?"
+
+posts_per_page: 20
+
+# Font for post titles (a Google Fonts name). Your Squarespace font, Roycroft,
+# is licensed only through Squarespace, so this is the closest free match.
+title_font_google: "Stint Ultra Condensed"
+
+# Where the Donate buttons point (for example a PayPal.me or Ko-fi link).
+# Leave empty to hide the buttons.
+donate_url: ""
+
+# Your email address (used on the Subscribe page if no form service is set up).
+contact_email: "davidalfredbywaters@gmail.com"
+
+# Where the Subscribe form sends its answers. A static site can't receive form
+# submissions itself, so this uses a free form service (e.g. Formspree or
+# Web3Forms) that emails each submission to you. Leave empty to show your
+# email address instead of the form.
+subscribe_form_action: ""
+
+# Top menu. An item with "children" becomes a drop-down.
+menu:
+  - name: Blog
+    url: /
+  - name: Indices
+    children:
+      - { name: "Novels by Post Number", url: /novels-by-post-number }
+      - { name: "Novels by Author", url: /novels-by-author }
+      - { name: "Novels by Year", url: /novels-by-year }
+      - { name: "Crosswords by Post Number (Ascending)", url: /new-page-1 }
+      - { name: "Crosswords by Post Number (Descending)", url: /crosswords-by-post-number-desending }
+      - { name: "Crossword Solutions by Post Number (Descending)", url: /crossword-solutions-by-post-number-descending }
+      - { name: "Crossword Solutions by Post Number (Ascending)", url: /solutions }
+      - { name: "Crosswords Published Elsewhere", url: /crosswords-published-elsewhere }
+  - name: About
+    url: /about
+  - name: FAQ
+    url: /faq
+  - name: Contact
+    url: /contact-me
+  - name: Subscribe
+    url: /subscribe
+  - name: Donate
+    url: /donate

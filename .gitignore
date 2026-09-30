@@ -1,0 +1,5 @@
+public/
+*.part
+media-failed.txt
+.DS_Store
+__pycache__/

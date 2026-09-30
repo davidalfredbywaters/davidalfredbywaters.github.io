@@ -1,0 +1,15 @@
+{% if site.subscribe_form_action %}
+<form class="subscribe-form" action="{{ site.subscribe_form_action }}" method="POST">
+  <fieldset><legend>Name</legend>
+    <label>First Name <input type="text" name="first_name" autocomplete="given-name"></label>
+    <label>Last Name <input type="text" name="last_name" autocomplete="family-name"></label>
+  </fieldset>
+  <label>Email Address <span class="req">(required)</span> <input type="email" name="email" required autocomplete="email"></label>
+  <label>Specify which option you prefer <span class="req">(required)</span> <input type="text" name="option" required></label>
+  <label>Is there anything you wish to add? <textarea name="message" rows="4"></textarea></label>
+  <input type="text" name="_gotcha" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+  <button type="submit" class="button">Submit</button>
+</form>
+{% else %}
+<p class="center">Email <a href="mailto:{{ site.contact_email }}?subject=Subscribe">{{ site.contact_email }}</a> with your name and which option you prefer.</p>
+{% endif %}

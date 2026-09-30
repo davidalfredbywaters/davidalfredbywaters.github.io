@@ -1,0 +1,43 @@
+# Settings for Pages CMS (https://pagescms.org), a free web editor for this site.
+media:
+  - name: images
+    label: Pictures
+    input: static/images
+    output: /images
+  - name: files
+    label: Downloadable files
+    input: static/s
+    output: /s
+content:
+  - name: posts
+    label: Blog posts
+    type: collection
+    path: content/blog
+    filename: "{primary}.md"
+    view:
+      fields: [title, date]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: date, label: "Publish date (posts dated in the future appear on that day)", type: date, options: { time: true } }
+      - name: categories
+        label: Category
+        type: select
+        list: true
+        options: { values: [Novels, Crosswords] }
+      - { name: url, label: "Web address (leave blank to make one automatically)", type: string }
+      - { name: draft, label: "Draft (hidden)", type: boolean }
+      - { name: body, label: Post, type: rich-text, options: { media: images } }
+  - name: pages
+    label: Pages
+    type: collection
+    path: content/pages
+    view:
+      fields: [title]
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: url, label: Web address, type: string }
+      - { name: draft, label: "Draft (hidden)", type: boolean }
+      - { name: body, label: Page, type: code, options: { language: markdown } }

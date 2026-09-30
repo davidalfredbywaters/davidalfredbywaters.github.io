@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block main %}
+{% include "_title_image.html" %}
+{% set link = False %}{% include "_post.html" %}
+<nav class="pagination">
+  {% if newer %}<a class="newer-posts" href="{{ newer.url }}">← {{ newer.title }}</a>{% else %}<span></span>{% endif %}
+  {% if older %}<a class="older-posts" href="{{ older.url }}">{{ older.title }} →</a>{% endif %}
+</nav>
+{% endblock %}
