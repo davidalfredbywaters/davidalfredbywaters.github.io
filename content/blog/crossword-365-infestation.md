@@ -17,7 +17,7 @@ categories: [Crosswords]
 
 [365-Infestation.puz](/s/365-Infestation.puz)
 
-[365-Infestation.pdf](/s/364-365-Infestation.pdf)
+[365-Infestation.pdf](/s/365-Infestation.pdf)
 
 ***Solve this fortnight’s crossword online:***
 

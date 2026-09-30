@@ -1,6 +1,6 @@
 ---
-title: "364 Reverses"
-url: /364-reverses
+title: "365 Infestation"
+url: /365-Infestation
 ---
 
 #  Crossword 365: Infestation {.center}
