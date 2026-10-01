@@ -1,6 +1,7 @@
 ---
 title: "Solutions"
-url: /solutions
+url: /crossword-solutions-by-post-number-ascending
+aliases: [/solutions]   # old address; visitors there are sent here
 ---
 
 [001 It's an Upset!](/s/001-Its-an-Upset-X.pdf)

@@ -15,7 +15,7 @@ Download the puz file to your computer.  Download, install, and open [Across L
 Use the online version of the puzzle (available every week under the heading “Solve this week’s puzzle online”) generously provided by [AmuseLabs](https://amuselabs.com) via its PuzzleMe software.
 
 *Where can I find solutions to these puzzles?*<br>
-Solutions are built into the Across Lite version.  I have posted completed versions of each puzzle [here](/solutions).
+Solutions are built into the Across Lite version.  I have posted completed versions of each puzzle [here](/crossword-solutions-by-post-number-ascending).
 
 *Why does everything in this puzzle seem so passé, yesterday, tired, old-hat, done with, etc.?*<br>
 My exacting Victorian-fiction-reading regimen does not allow me the leisure to keep up with current popular culture.  I do not subscribe either to ESPN or to HBO.  I do not know anybody who says things like "fo' shizzle" or "amaze balls" (at least to me).  If you want crossword puzzles that are totally *now*, many venues, both in print and online, offer such puzzles—*The New York Times* crossword, for example, where I learned both the phrases I just quoted.

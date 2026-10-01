@@ -40,7 +40,7 @@ menu:
       - { name: "Crosswords by Post Number (Ascending)", url: /crosswords-by-post-number-ascending }
       - { name: "Crosswords by Post Number (Descending)", url: /crosswords-by-post-number-descending }
       - { name: "Crossword Solutions by Post Number (Descending)", url: /crossword-solutions-by-post-number-descending }
-      - { name: "Crossword Solutions by Post Number (Ascending)", url: /solutions }
+      - { name: "Crossword Solutions by Post Number (Ascending)", url: /crossword-solutions-by-post-number-ascending }
       - { name: "Crosswords Published Elsewhere", url: /crosswords-published-elsewhere }
   - name: About
     url: /about
