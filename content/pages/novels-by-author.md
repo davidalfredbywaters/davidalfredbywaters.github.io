@@ -186,7 +186,7 @@ Bithia Mary Croker  (1848?-1921)<br>
 [183](/blog/2021/5/18/novel-183-bithia-mary-croker-the-cats-paw-1902)   The Cats-Paw   1902<br>
 [259](/blog/2022/11/1/novel-259-bithia-mary-croker-married-or-single-1895)   Married or Single?   1895<br>
 [328](/blog/2025/4/26/novel-328-bithia-mary-croker-the-real-lady-hilda-1896)   The Real Lady Hilda 1896<br>
-[365](/blog/2026/9/26/novel-365-bithia-mary-croker-Mr. Jervis-1894)   Mr. Jervis 1894
+[365](/blog/2026/9/26/novel-365-bithia-mary-croker-mr-jenkins-1894)   Mr. Jervis 1894
 
 Catherine Crowe  (1790-1872)<br>
 [023](/blog/2018/4/24/novel-023-catherine-crowe-the-adventures-of-susan-hopley-1841)    Adventures of Susan Hopley    1841    <br>

@@ -367,5 +367,5 @@ url: /novels-by-post-number
 [362](/blog/2026/8/15/novel-362-m-hamilton-a-self-denying-ordinance-1896)   M. Hamilton, A Self-Denying Ordinance   1896<br>
 [363](/blog/2026/8/29/novel-363-alfred-butler-the-herberts-1842)   Alfred Butler, The Herberts  1842<br>
 [364](blog/2026/9/12/novel-364-mrs-alfred-sidgwick-the-grasshoppers-1895)   Mrs. Alfred Sidgwick, The Grasshoppers  1895<br>
-[365](/blog/2026/9/26/novel-365-bithia-mary-croker-Mr. Jervis-1894)   Bithia Mary Croker, Mr. Jervis 1894
+[365](/blog/2026/9/26/novel-365-bithia-mary-croker-mr-jenkins-1894)   Bithia Mary Croker, Mr. Jervis 1894
 
