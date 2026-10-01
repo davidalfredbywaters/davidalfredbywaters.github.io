@@ -732,3 +732,5 @@ url: /solutions
 [362 Pouting Expressions](/s/362-Pouting-Expressions-X.pdf)
 
 [363 Why Can’t We Just Get Along?](/s/363-Why-Cant-We-Just-Get-Along-X.pdf)
+
+[364 Reverses] (/s/364-Reverses-X.pdf)

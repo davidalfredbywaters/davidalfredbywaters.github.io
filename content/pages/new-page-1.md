@@ -728,3 +728,5 @@ url: /new-page-1
 [362](/blog/2026/8/22/crossword-362-pouting-expressions) Pouting Expressions
 
 [363](/blog/2026/9/5/crossword-363-cant-we-just-get-along) Why Can’t We Just Get Along?
+
+[364](/blog/2026/9/19/crossword-364-reverses) Reverses
