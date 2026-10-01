@@ -1,6 +1,7 @@
 ---
 title: "Crosswords by Post Number (Descending)"
-url: /crosswords-by-post-number-desending
+url: /crosswords-by-post-number-descending
+aliases: [/crosswords-by-post-number-desending]   # old address; visitors there are sent here
 ---
 
 [364](/blog/2026/9/19/crossword-364-reverses) Reverses

@@ -37,8 +37,8 @@ menu:
       - { name: "Novels by Post Number", url: /novels-by-post-number }
       - { name: "Novels by Author", url: /novels-by-author }
       - { name: "Novels by Year", url: /novels-by-year }
-      - { name: "Crosswords by Post Number (Ascending)", url: /new-page-1 }
-      - { name: "Crosswords by Post Number (Descending)", url: /crosswords-by-post-number-desending }
+      - { name: "Crosswords by Post Number (Ascending)", url: /crosswords-by-post-number-ascending }
+      - { name: "Crosswords by Post Number (Descending)", url: /crosswords-by-post-number-descending }
       - { name: "Crossword Solutions by Post Number (Descending)", url: /crossword-solutions-by-post-number-descending }
       - { name: "Crossword Solutions by Post Number (Ascending)", url: /solutions }
       - { name: "Crosswords Published Elsewhere", url: /crosswords-published-elsewhere }

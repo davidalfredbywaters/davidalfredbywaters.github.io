@@ -73,7 +73,7 @@ def load(folder, kind):
                                   else '/' + name[:-3])
         url = '/' + url.strip('/')
         items.append(dict(title=str(meta.get('title', name[:-3])), date=date, url=url, kind=kind,
-                          categories=meta.get('categories') or [], description=meta.get('description'),
+                          categories=meta.get('categories') or [], aliases=meta.get('aliases') or [], description=meta.get('description'),
                           content=render_markdown(m.group(2)), source=f'{folder}/{name}'))
     return items
 
@@ -114,6 +114,14 @@ def main():
                                                              page_title=p['title'], url=p['url']))
     for p in pages:
         write(p['url'], env.get_template('page.html').render(page=p, page_title=p['title'], url=p['url']))
+
+    # Old addresses (listed under "aliases:" in a file's header) forward to the new one
+    for p in posts + pages:
+        for old in p.get('aliases', []):
+            target = p['url']
+            write('/' + str(old).strip('/'), f'<!doctype html><meta charset="utf-8"><title>Moved</title>'
+                  f'<link rel="canonical" href="{target}"><meta http-equiv="refresh" content="0; url={target}">'
+                  f'<p>This page has moved to <a href="{target}">{target}</a>.</p>')
 
     listing(posts, '/')
     listing(posts, '/blog')
