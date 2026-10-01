@@ -1,6 +1,6 @@
 ---
 title: "365 Infestation"
-url: /365-Infestation
+url: /365-infestation
 ---
 
 #  Crossword 365: Infestation {.center}
