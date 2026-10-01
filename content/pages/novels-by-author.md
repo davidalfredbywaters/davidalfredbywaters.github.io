@@ -185,7 +185,8 @@ Bithia Mary Croker  (1848?-1921)<br>
 [129](/blog/novel-129-2020/5/5/bithia-mary-croker-a-family-likeness-1892)    A Family Likeness  1892<br>
 [183](/blog/2021/5/18/novel-183-bithia-mary-croker-the-cats-paw-1902)   The Cats-Paw   1902<br>
 [259](/blog/2022/11/1/novel-259-bithia-mary-croker-married-or-single-1895)   Married or Single?   1895<br>
-[328](/blog/2025/4/26/novel-328-bithia-mary-croker-the-real-lady-hilda-1896)   The Real Lady Hilda 1896
+[328](/blog/2025/4/26/novel-328-bithia-mary-croker-the-real-lady-hilda-1896)   The Real Lady Hilda 1896<br>
+[365](/blog/2026/9/26/novel-365-bithia-mary-croker-Mr. Jervis-1894)   Mr. Jervis 1894
 
 Catherine Crowe  (1790-1872)<br>
 [023](/blog/2018/4/24/novel-023-catherine-crowe-the-adventures-of-susan-hopley-1841)    Adventures of Susan Hopley    1841    <br>
@@ -638,7 +639,8 @@ Mrs. Alfred Sidgwick (1852-1934)<br>
 [142](/blog/2020/8/4/novel-142-mrs-alfred-sidgwick-the-inner-shrine-1900)   The Inner Shrine   1900<br>
 [200](/blog/2021/9/14/novel-200-mrs-alfred-sigwick-victorian-1922)   Victorian   1922<br>
 [258](/blog/2022/10/25/novel-258-mrs-alfred-sidgwick-the-professors-legacy-1905)   The Professor's Legacy   1905<br>
-[316](/blog/2024/11/9/novel-316-mrs-alfred-sidgwick-a-splendid-cousin-1892)   A Splendid Cousin   1892
+[316](/blog/2024/11/9/novel-316-mrs-alfred-sidgwick-a-splendid-cousin-1892)   A Splendid Cousin   1892<br>
+[364](/blog/2026/9/12/novel-364-mrs-alfred-sidgwick-the-grasshoppers-1895)   The Grasshoppers   1895
 
 Frank Smedley (1818-1864)<br>
 [048](/blog/2018/10/16/novel-048-frank-smedley-frank-fairlegh-1850)  Frank Farleigh  1850

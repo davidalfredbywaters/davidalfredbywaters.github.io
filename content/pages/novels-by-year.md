@@ -323,10 +323,12 @@ url: /novels-by-year
 1894   Mrs. Alexander, A Choice of Evils    [278](/blog/2023/3/14/novel-278-mrs-alexander-a-choice-of-evils)<br>
 1894   Dorothea Gerard, The Rich Miss Riddell   [351](/blog/2026/3/14/novel-351-dorothea-gerard-the-rich-miss-riddell-1894)<br>
 1894   Elizabeth Robins, George Mandeville’s Husband [336](/blog/2025/8/16/novel-336-elizabeth-robins-george-mandevilles-husband)<br>
+1894   Bithia Mary Croker, Mr. Jervis [365] (/blog/2026/9/26/novel-365-bithia-mary-croker-Mr. Jervis-1894)<br>
 1894   Anthony Hope, The Indiscretion of the Duchess   [264](/blog/2022/12/6/novel-264-anthony-hope-the-indiscretion-of-the-duchess-1894)<br>
 1895   Frederic Edward Breton, God Forsaken    [339](/blog/2025/9/27/novel-339-frederic-edward-breton-god-forsaken-1895) <br>
 1895   Bithia Mary Croker, Married or Single?   [259](/blog/2022/11/1/novel-259-bithia-mary-croker-married-or-single-1895) <br>
 1895   Mrs. Alexander, What Gold Cannot Buy   [357](/blog/2026/6/6/novel-357-mrs-alexander-what-gold-cannot-buy-1895)<br>
+1895   Mrs. Alfred Sidgwick, The Grasshoppers.  [364] (blog/2026/9/12/novel-364-mrs-alfred-sidgwick-the-grasshoppers-1895)<br>
 1896   M. Hamilton, A Self-Denying Ordinance.  [362](/blog/2026/8/15/novel-362-m-hamilton-a-self-denying-ordinance-1896)<br>
 1896   Bithia Mary Croker, The Real Lady Hilda   [328](/blog/2025/4/26/novel-328-bithia-mary-croker-the-real-lady-hilda-1896)<br>
 1896   Annie E. Wickham, Loveday   [324](/blog/2025/3/1/novel-324-annie-e-wickham-loveday-1894) <br>
