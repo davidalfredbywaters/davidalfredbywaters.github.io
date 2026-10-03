@@ -1,6 +1,12 @@
 {% extends "base.html" %}
 {% block main %}
 {% include "_title_image.html" %}
+{% if preview_list and url == '/' %}
+<div class="preview-box">
+  <strong>PREVIEW ONLY: not yet public</strong> (newest scheduled posts appear first below; this box is not on the real site)
+  <ul>{% for p in preview_list %}<li>{{ p.date | nice_date }}{% if p.is_draft %} (draft){% endif %}: <a href="{{ p.url }}">{{ p.title }}</a></li>{% endfor %}</ul>
+</div>
+{% endif %}
 {% if heading %}<h2 class="list-heading">{{ heading }}</h2>{% endif %}
 {% for post in posts %}{% set link = True %}{% include "_post.html" %}{% endfor %}
 <nav class="pagination">

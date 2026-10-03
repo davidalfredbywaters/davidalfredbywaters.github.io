@@ -139,3 +139,8 @@ strong { font-weight: 700; }
 
 /* Heavy line between posts on the blog pages */
 .post + .post { border-top: 3px solid #222; padding-top: 40px; }
+
+/* Shown only in the private preview */
+.preview-box { border: 2px dashed #b45309; background: #fff7ed; padding: 10px 14px; margin: 0 0 30px; }
+.preview-box ul { margin: 6px 0 0; padding-left: 18px; }
+.preview-tag { color: #b45309; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; }

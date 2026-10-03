@@ -19,6 +19,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, 'public')
 PREVIEW = '--preview' in sys.argv          # show scheduled + draft posts locally
 NOW = dt.datetime.now(dt.timezone.utc).replace(tzinfo=None)
+REAL_NOW = NOW
 if PREVIEW:
     NOW = dt.datetime.max
 
@@ -73,7 +74,7 @@ def load(folder, kind):
                                   else '/' + name[:-3])
         url = '/' + url.strip('/')
         items.append(dict(title=str(meta.get('title', name[:-3])), date=date, url=url, kind=kind,
-                          categories=meta.get('categories') or [], aliases=meta.get('aliases') or [], description=meta.get('description'),
+                          categories=meta.get('categories') or [], scheduled=bool(date and date > REAL_NOW), is_draft=bool(meta.get('draft')), aliases=meta.get('aliases') or [], description=meta.get('description'),
                           content=render_markdown(m.group(2)), source=f'{folder}/{name}'))
     return items
 
@@ -105,6 +106,8 @@ def main():
     shutil.copytree(os.path.join(ROOT, 'static'), OUT)
 
     posts = sorted(load('blog', 'post'), key=lambda p: p['date'], reverse=True)
+    env.globals['preview_list'] = sorted([p for p in posts if p['scheduled'] or p['is_draft']],
+                                         key=lambda p: p['date']) if PREVIEW else []
     pages = load('pages', 'page')
 
     for i, p in enumerate(posts):
