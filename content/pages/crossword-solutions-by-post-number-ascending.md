@@ -735,3 +735,5 @@ aliases: [/solutions]   # old address; visitors there are sent here
 [363 Why Can’t We Just Get Along?](/s/363-Why-Cant-We-Just-Get-Along-X.pdf)
 
 [364 Reverses](/s/364-Reverses-X.pdf)
+
+[365 Infestation](/s/365-Infestation-X.pdf)

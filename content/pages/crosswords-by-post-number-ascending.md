@@ -731,3 +731,5 @@ aliases: [/new-page-1]   # old address; visitors there are sent here
 [363](/blog/2026/9/5/crossword-363-cant-we-just-get-along) Why Can’t We Just Get Along?
 
 [364](/blog/2026/9/19/crossword-364-reverses) Reverses
+
+[365](/blog/2026/10/3/crossword-365-infestation) Infestation
