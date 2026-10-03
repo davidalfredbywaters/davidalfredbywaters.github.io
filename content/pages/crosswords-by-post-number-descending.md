@@ -4,7 +4,7 @@ url: /crosswords-by-post-number-descending
 aliases: [/crosswords-by-post-number-desending]   # old address; visitors there are sent here
 ---
 
-[365](/blog/2026/10/3/crossword-365-infestation) Infestation
+[365](/blog/2026/10/03/crossword-365-infestation) Infestation
 
 [364](/blog/2026/9/19/crossword-364-reverses) Reverses
 
