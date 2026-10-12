@@ -102,7 +102,13 @@ def listing(posts, base, heading=None):
 
 def main():
     if os.path.exists(OUT):
-        shutil.rmtree(OUT)
+        # Move the old copy aside first: the Mac sometimes drops hidden files
+        # (.DS_Store) into a folder while it is being deleted, which made
+        # deleting it in place fail now and then.
+        old = OUT + '-old'
+        shutil.rmtree(old, ignore_errors=True)
+        os.rename(OUT, old)
+        shutil.rmtree(old, ignore_errors=True)
     shutil.copytree(os.path.join(ROOT, 'static'), OUT)
 
     posts = sorted(load('blog', 'post'), key=lambda p: p['date'], reverse=True)

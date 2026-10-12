@@ -4,3 +4,4 @@ media-failed.txt
 .DS_Store
 __pycache__/
 .venv/
+public-old/
