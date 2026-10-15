@@ -13,7 +13,16 @@
 <link rel="stylesheet" href="/css/site.css">
 <style>:root { --title-font: "{{ site.title_font_google | default("Old Standard TT") | replace('+', ' ') }}", "Old Standard TT", serif; }</style>
 <link rel="canonical" href="{{ site.base_url }}{{ url }}">
-</head>
+{% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification }}">
+{% endif %}{% if site.google_analytics_id %}<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.google_analytics_id }}');
+</script>
+{% endif %}</head>
 <body>
 <div id="canvas">
   <nav class="main-nav" aria-label="Main">

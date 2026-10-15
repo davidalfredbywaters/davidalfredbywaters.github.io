@@ -28,6 +28,14 @@ contact_email: "davidalfredbywaters@gmail.com"
 # email address instead of the form.
 subscribe_form_action: ""
 
+# Google Analytics: paste your Measurement ID (it starts with "G-").
+# Leave empty to turn analytics off.
+google_analytics_id: "G-80XPYBB29L"
+
+# Google Search Console: only needed if you verify with the "HTML tag" method;
+# paste just the code inside content="..." here. Leave empty otherwise.
+google_site_verification: ""
+
 # Top menu. An item with "children" becomes a drop-down.
 menu:
   - name: Blog
