@@ -17,6 +17,8 @@ categories: [Crosswords]
 
 [366-Coup-d'état.puz](/s/366-Coup-d'état.puz)
 
+[366-Coup-d'état.pdf](/s/366-Coup-d'état.pdf)
+
 ***Solve this fortnight’s crossword online:***
 
 [366: Coup d'état](/366-coup-detat)
