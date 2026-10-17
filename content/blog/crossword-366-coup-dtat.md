@@ -15,9 +15,9 @@ categories: [Crosswords]
 
 ***Download this fortnight’s crossword:***
 
-[366-Coup-d'état.puz](/s/366-Coup-d'état.puz)
+[366-Coup-d'état.puz](/s/366-Coup-dtat.puz)
 
-[366-Coup-d'état.pdf](/s/366-Coup-d'état.pdf)
+[366-Coup-d'état.pdf](/s/366-Coup-dtat.pdf)
 
 ***Solve this fortnight’s crossword online:***
 
