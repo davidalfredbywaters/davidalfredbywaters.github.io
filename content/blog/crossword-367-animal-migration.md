@@ -15,6 +15,12 @@ categories: [Crosswords]
 
 ***Download this fortnight’s crossword:***
 
+[367-Animal-Migration.puz](/s/367-Animal-Migration.puz)
+
+[367-Animal-Migration.pdf](/s/366-Animal-Migration.pdf)
+
 ***Solve this fortnight’s crossword online:***
+
+[367: Animal Migration](/367-animal-migration)
 
 <br>
