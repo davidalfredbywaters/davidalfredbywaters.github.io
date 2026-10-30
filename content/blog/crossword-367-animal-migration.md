@@ -17,7 +17,7 @@ categories: [Crosswords]
 
 [367-Animal-Migration.puz](/s/367-Animal-Migration.puz)
 
-[367-Animal-Migration.pdf](/s/366-Animal-Migration.pdf)
+[367-Animal-Migration.pdf](/s/367-Animal-Migration.pdf)
 
 ***Solve this fortnight’s crossword online:***
 
