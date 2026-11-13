@@ -21,22 +21,28 @@ D. A compositor in an old-time typesetting shop who needs just one more vowel to
 
 E. A personality-test maker who can’t think of a fifth multiple-choice alternative?
 
-*Now, here's your personality type, based on your answer:*
+*Now, here’s your personality type, based on your answer:*
 
-A. You're sensitive, but loyal to friends and firm in your convictions
+A. You’re sensitive, but loyal to friends and firm in your convictions
 
-B. You're fun-loving and attractive, but also naturally empathetic
+B. You’re fun-loving and attractive, but also naturally empathetic
 
-C. You're loyal to friends and firm in your conviction, but sensitive
+C. You’re loyal to friends and firm in your conviction, but sensitive
 
-D. You're naturally empathetic, but also fun-loving and attractive
+D. You’re naturally empathetic, but also fun-loving and attractive
 
-E. You're thick-skinned, doltish, dull, ugly, heartless, and selfish
+E. You’re thick-skinned, doltish, dull, ugly, heartless, and selfish
 
-*This is just a sample of the hundred-question test, based on the latest psychometric standards, that I'm compiling for the use of hiring committees, custody evaluators, school councilors, admissions officers, and the like.  I'm pretty sure there's more money in this than in crosswords; meanwhile, however, while I’m getting it finished and marketed, here’s another one..*
+*This is just a sample of the hundred-question test, based on the latest psychometric standards, that I’m compiling for the use of hiring committees, custody evaluators, school councilors, admissions officers, and the like.  I’m pretty sure there’s more money in this than in crosswords; meanwhile, however, while I’m getting it finished and marketed, here’s another one..*
 
 ***
 
 ***Download this fortnight’s crossword:***
 
+[368-Give-Me-an-E.puz](/s/368-Give-Me-an-E.puz)
+
+[368-Give-Me-an-E.pdf](/s/368-Give-Me-an-E.pdf)
+
 ***Solve this fortnight’s crossword online:***
+
+[368: Give Me an E](/368-give-me-an-e)
