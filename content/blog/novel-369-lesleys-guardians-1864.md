@@ -1,6 +1,6 @@
 ---
-title: "Novel 369: Lesley’s Guardians (1864)"
-date: 2026-11-21 06:01:00
+title: "Novel 369: Augusta Webster, Lesley’s Guardians (1864)"
+date: 2026-11-21 00:01:00
 url: /blog/2026/11/21/novel-369-lesleys-guardians-1864
 categories: [Novels]
 ---
@@ -13,7 +13,7 @@ A poor English gentlewoman, studying art in Paris, marries a French aristocrat a
 
 ***
 
-*Augusta Webster (1837-1894) was well known as a poet; aside from a children's story, this (published under the pseudonym Cecil Home) was her only novel.*
+*Augusta Webster (1837-1894) was well known as a poet; aside from a children’s story, this (published under the pseudonym Cecil Home) was her only novel.*
 
 The author writes with “so much skill that we more than half regret who can paint so well . . . should not entirely avoid the use of startling situations, and devote his powers to the delineation of ordinary life.”  *Spectator,* July 9, 1864
 
