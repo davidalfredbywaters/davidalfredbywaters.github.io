@@ -369,6 +369,6 @@ url: /novels-by-post-number
 [364](/blog/2026/9/12/novel-364-mrs-alfred-sidgwick-the-grasshoppers-1895)   Mrs. Alfred Sidgwick, The Grasshoppers  1895<br>
 [365](/blog/2026/9/26/novel-365-bithia-mary-croker-mr-jenkins-1894)   Bithia Mary Croker, Mr. Jervis 1894<br>
 [366](/blog/2026/10/10/novel-366-sarah-r-whitehead-the-two-families-1852)   Sarah R. Whitehead, The Two Families 1852<br>
-[367](/blog/2026/10/24/novel-367-ws-holnut-olympias-journal-1895   W.S. Holnut, Olympia's Journal 1895<br>
-[368](/blog/2026/11/7/novel-368-anne-isabella-ritchie-the-story-of-elizabeth-1863   Anna Isabella Ritchie, The Story of Elizabeth 1863<br>
+[367](/blog/2026/10/24/novel-367-ws-holnut-olympias-journal-1895)   W.S. Hulnut Olympia's Journal 1895<br>
+[368](/blog/2026/11/7/novel-368-anne-isabella-ritchie-the-story-of-elizabeth-1863   Anne Isabella Ritchie, The Story of Elizabeth 1863<br>
 
