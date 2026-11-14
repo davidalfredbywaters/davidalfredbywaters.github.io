@@ -342,7 +342,7 @@ Frances Cashel Hoey (1830-1908)<br>
 [271](/blog/2023/1/24/novel-271-frances-cashel-hoey-griffiths-double-1876)   Griffith's Double 1876
 
 W.S. Holnut (?-?)<br>
-[367](/blog/2026/10/24/novel-367-ws-holnut-olympias-journal-1895   Olympia's Journal 1895
+[367](/blog/2026/10/24/novel-367-ws-holnut-olympias-journal-1895)   Olympia's Journal 1895
 
 Anthony Hope (1863-1933)<br>
 [124](/blog/2020/3/31/novel-124-anthony-hope-mr-witts-widow-1892)   Mr. Witt's Widow   1892<br>
@@ -613,7 +613,7 @@ Charlotte Riddell (1832-1906)<br>
 [065](/blog/2019/2/12/065-charlotte-riddell-too-much-alone-1860)    Too Much Alone  1860
 
 Anna Isabella Ritchie (1837-1919)<br>
-[368](/blog/2026/11/7/novel-368-anne-isabella-ritchie-the-story-of-elizabeth-1863   The Story of Elizabeth 1863
+[368](/blog/2026/11/7/novel-368-anne-isabella-ritchie-the-story-of-elizabeth-1863)   The Story of Elizabeth 1863
 
 G.M. Robins (1861-1939)<br>
 [093](/blog/2019/8/27/novel-093-gm-robins-the-ides-of-march-1892)   The Ides of March   1892
