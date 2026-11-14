@@ -1,6 +1,6 @@
 ---
 title: "Crossword 369: Comparatively Speaking"
-date: 2026-11-28 06:01:00
+date: 2026-11-28 00:01:00
 url: /blog/2026/11/28/crossword-369-comparatively-speaking
 categories: [Crosswords]
 ---
