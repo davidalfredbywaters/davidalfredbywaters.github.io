@@ -48,7 +48,7 @@ url: /novels-by-year
 1852   Archibald Boyd, The Delameres of Delamere Court   [240](/blog/2022/5/1/archibald-boyd-the-delamere-of-delamere-court-1852)<br>
 1852   Christiana Jane Douglas, The Heir of Ardennan   [094](/blog/2019/9/3/novel-094-christiana-jane-douglas-the-heir-of-ardennan-1852)<br>
 1852   Catherine Crowe, The Adventures of a Beauty   [272](/blog/2023/1/31/novel-272-catherine-crowe-the-adventures-of-a-beauty-1852)<br>
-1852   Sarah R. Whitehead, The Two Families  [366](/blog/2026/10/10/novel-366-sarah-r-whitehead-the-two-families-1852)<br>
+1852    Sarah R. Whitehead, The Two Families  [366](/blog/2026/10/10/novel-366-sarah-r-whitehead-the-two-families-1852)<br>
 1853   Sir Edward Bruce Hamley, Lady Lee’s Widowhood   [248](/blog/2022/8/16/novel-248-sir-edward-bruce-hamley-lady-lees-widowhood-1850)<br>
 1854   Rosa Mackenzie Kettle, Lewell Pastures   [147](/blog/2020/9/8/novel-147-rosa-mackenzie-kettle-lewell-pastures-1854)<br>
 1854   Charlotte Yonge, Heartsease    [003](/blog/2017/12/05/novel-003-charlotte-yonge-heartsease)  <br>
@@ -102,7 +102,7 @@ url: /novels-by-year
 1863   Edward Dutton Cook, Leo   [338](/blog/2025/9/13/crossword-338-edward-dutton-cook-leo-1863)<br>
 1863   Annie Keary, Janet’s Home   [055](/blog/2018/12/04/novel-055-annie-keary-janets-home-1863) <br>
 1863   Christiana Jane Davies, The Browns and the Smiths   [207](/blog/2021/11/2/novel-206-christiana-jane-davies-the-browns-and-the-smiths-1863)<br>
-1863  Anna Isabella Ritchie, The Story of Elizabeth   [368](/blog/2026/11/7/novel-368-anne-isabella-ritchie-the-story-of-elizabeth-1863)<br>   
+1863  Anna Isabella Ritchie, The Story of Elizabeth   [368](/blog/2026/11/7/novel-368-anne-isabella-ritchie-the-story-of-elizabeth-1863)<br>
 1864   Menella Bute Smedley, Linnet’s Trial   [291](/blog/2023/12/2/novel-291-menella-bute-smedley-linnets-trial-1864) <br>
 1864   Sir Henry Stewart Cunningham, Late Laurels   [161](/blog/2020/12/15/novel-161-sir-henry-stewart-cunningham-late-laurels-1864)<br>
 1864   E.D.E.N Southworth, Ishmael   [091](/blog/2019/8/13/novel-091-eden-southworth-ishmael-1864) <br>
@@ -331,7 +331,7 @@ url: /novels-by-year
 1895   Bithia Mary Croker, Married or Single?   [259](/blog/2022/11/1/novel-259-bithia-mary-croker-married-or-single-1895) <br>
 1895   Mrs. Alexander, What Gold Cannot Buy   [357](/blog/2026/6/6/novel-357-mrs-alexander-what-gold-cannot-buy-1895)<br>
 1895   Mrs. Alfred Sidgwick, The Grasshoppers  [364](/blog/2026/9/12/novel-364-mrs-alfred-sidgwick-the-grasshoppers-1895)<br>
-1895  W.S. Holnut, Olympia's Journal   [367](/blog/2026/10/24/novel-367-ws-holnut-olympias-journal-1895)<br>
+1895   W.S. Holnut, Olympia's Journal   [367](/blog/2026/10/24/novel-367-ws-holnut-olympias-journal-1895)<br>
 1896   M. Hamilton, A Self-Denying Ordinance.  [362](/blog/2026/8/15/novel-362-m-hamilton-a-self-denying-ordinance-1896)<br>
 1896   Bithia Mary Croker, The Real Lady Hilda   [328](/blog/2025/4/26/novel-328-bithia-mary-croker-the-real-lady-hilda-1896)<br>
 1896   Annie E. Wickham, Loveday   [324](/blog/2025/3/1/novel-324-annie-e-wickham-loveday-1894) <br>
