@@ -341,7 +341,7 @@ Frances Cashel Hoey (1830-1908)<br>
 [153](/blog/2020/10/20/novel-153-frances-cashel-hoey-falsely-true-1870)   Falsely True   1870<br>
 [271](/blog/2023/1/24/novel-271-frances-cashel-hoey-griffiths-double-1876)   Griffith's Double 1876
 
-W.S. Holnut (?-?)
+W.S. Holnut (?-?)<br>
 [367](/blog/2026/10/24/novel-367-ws-holnut-olympias-journal-1895   Olympia's Journal 1895
 
 Anthony Hope (1863-1933)<br>
