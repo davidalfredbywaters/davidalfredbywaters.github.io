@@ -4,6 +4,12 @@ url: /crosswords-by-post-number-descending
 aliases: [/crosswords-by-post-number-desending]   # old address; visitors there are sent here
 ---
 
+[368](/blog/2026/11/14/crossword-368-give-me-an-e) Give Me an E
+
+[367](/blog/2026/10/31/crossword-367-animal-migration) Animal Migration
+
+[366](/blog/2026/10/17/crossword-366-coup-dtat) Coup d'état
+
 [365](/blog/2026/10/03/crossword-365-infestation) Infestation
 
 [364](/blog/2026/9/19/crossword-364-reverses) Reverses
