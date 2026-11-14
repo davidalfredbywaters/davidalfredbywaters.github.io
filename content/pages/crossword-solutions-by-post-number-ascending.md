@@ -737,3 +737,9 @@ aliases: [/solutions]   # old address; visitors there are sent here
 [364 Reverses](/s/364-Reverses-X.pdf)
 
 [365 Infestation](/s/365-Infestation-X.pdf)
+
+[366 Coup d'état](/s/366-Coup-dtat-X.pdf)
+
+[367 Animal Migration](/s/367-Animal-Migration-X.pdf)
+
+[368 Give Me an E](/s/368-Give-Me-an-E-X.pdf)
