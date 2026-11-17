@@ -27,7 +27,7 @@ A. You’re sensitive, but loyal to friends and firm in your convictions
 
 B. You’re fun-loving and attractive, but also naturally empathetic
 
-C. You’re loyal to friends and firm in your conviction, but sensitive
+C. You’re loyal to friends and firm in your convictions, but sensitive
 
 D. You’re naturally empathetic, but also fun-loving and attractive
 
