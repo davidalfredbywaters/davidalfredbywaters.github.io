@@ -1,6 +1,6 @@
 ---
 title: "Novel 369: Augusta Webster, Lesley’s Guardians (1864)"
-date: 2026-11-21 00:01:00
+date: 2026-11-21 06:01:00
 url: /blog/2026/11/21/novel-369-lesleys-guardians-1864
 categories: [Novels]
 ---
